@@ -1,0 +1,21 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "matchOn": ["*.py"],
+        "command": "python -m ruff check --fix \"$CLAUDE_FILE_PATH\" && python -m black \"$CLAUDE_FILE_PATH\""
+      },
+      {
+        "matcher": "Write|Edit",
+        "matchOn": ["*.yaml", "*.yml"],
+        "command": "python -c \"import yaml,sys; yaml.safe_load(open(sys.argv[1], encoding='utf-8'))\" \"$CLAUDE_FILE_PATH\""
+      }
+    ],
+    "Stop": [
+      {
+        "command": "python -m pytest tests/ -q --tb=short --no-header"
+      }
+    ]
+  }
+}

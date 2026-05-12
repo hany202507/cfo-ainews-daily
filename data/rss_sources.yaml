@@ -1,0 +1,69 @@
+# CFO AI Daily — RSS Sources
+# Validated on 2026-05-12. Each feed below returned 200 + parsed entries via
+# `python -m scripts.fetch_rss --validate`.
+#
+# Adding a new source: prefer the /add-source slash command, which does the
+# YAML edit + fetch validation in one step.
+#
+# Field reference:
+#   category: ai_general | ai_for_cfo | ai_company_earnings | ai_kr_companies | ai_finance_jobs
+#   language: ko | en
+#   weight:   0.5 – 2.0 (source authority; higher wins in cosine dedupe)
+#   enabled:  true | false
+
+sources:
+  # ----- ai_general (4) -----
+  - name: "Hacker News (front)"
+    url: "https://news.ycombinator.com/rss"
+    category: "ai_general"
+    language: "en"
+    weight: 0.9
+    enabled: true
+
+  - name: "TechCrunch"
+    url: "https://techcrunch.com/feed/"
+    category: "ai_general"
+    language: "en"
+    weight: 1.0
+    enabled: true
+
+  - name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+    category: "ai_general"
+    language: "en"
+    weight: 1.0
+    enabled: true
+
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/index"
+    category: "ai_general"
+    language: "en"
+    weight: 1.0
+    enabled: true
+
+  # ----- ai_for_cfo (1) -----
+  - name: "CFO Dive"
+    url: "https://www.cfodive.com/feeds/news/"
+    category: "ai_for_cfo"
+    language: "en"
+    weight: 1.5
+    enabled: true
+
+  # ----- ai_company_earnings (1) -----
+  - name: "Bloomberg Technology"
+    url: "https://feeds.bloomberg.com/technology/news.rss"
+    category: "ai_company_earnings"
+    language: "en"
+    weight: 1.5
+    enabled: true
+
+# ----------------------------------------------------------------------------
+# TODO — categories below need at least 1–2 validated feeds each before
+# regular operation. Use `/add-source <url> <category>` to add and validate.
+#
+#   ai_kr_companies  — 한국 대기업 AI 도입·전략 (예: 한경 IT, 매일경제 기업, 디일렉)
+#   ai_finance_jobs  — 재무·회계 채용 동향 (예: eFinancialCareers, 잡코리아)
+#
+# Operate with the 6 validated feeds above for the first 1–2 weeks; expect
+# Korean-category items to be sparse until those sources are added.
+# ----------------------------------------------------------------------------

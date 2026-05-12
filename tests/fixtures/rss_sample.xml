@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test Feed</title>
+    <link>https://example.com/</link>
+    <description>Fixture for fetch_rss tests</description>
+    <item>
+      <title>NVIDIA Q4 Data Center Revenue Up 47% YoY</title>
+      <link>https://example.com/articles/nvda-q4?utm_source=rss&amp;utm_medium=feed&amp;ref_=home</link>
+      <description>&lt;p&gt;Nvidia's data center segment grew &lt;b&gt;47%&lt;/b&gt; year over year.&lt;/p&gt;</description>
+      <pubDate>Mon, 12 May 2026 10:30:00 GMT</pubDate>
+      <guid>nvda-q4-2026</guid>
+    </item>
+    <item>
+      <title>OpenAI Announces New Pricing Tier</title>
+      <link>https://example.com/articles/openai-pricing?fbclid=abc123#section-2</link>
+      <description>Plain description with no HTML tags.</description>
+      <pubDate>Sun, 11 May 2026 22:15:00 GMT</pubDate>
+      <guid>openai-pricing-may</guid>
+    </item>
+    <item>
+      <title>Samsung HBM4 Mass Production Begins</title>
+      <link>https://example.com/articles/samsung-hbm4</link>
+      <pubDate>Sun, 11 May 2026 06:00:00 GMT</pubDate>
+      <guid>samsung-hbm4</guid>
+    </item>
+  </channel>
+</rss>

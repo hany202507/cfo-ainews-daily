@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "rank": 1,
+      "group": "이번 주 어닝 시즌",
+      "source_category": "ai_company_earnings",
+      "title_ko": "NVIDIA Q4 데이터센터 매출 47% YoY 증가",
+      "title_original": "NVIDIA Q4 Data Center Revenue Up 47% YoY",
+      "one_liner_ko": "가이던스 상회, AI 인프라 capex 가속",
+      "why_it_matters": "캐파 회계 인식 시점과 감가상각 주기 재검토 신호",
+      "url": "https://www.bloomberg.com/news/articles/nvda-q4",
+      "source": "Bloomberg Technology",
+      "confidence": 0.92
+    },
+    {
+      "rank": 2,
+      "group": "이번 주 어닝 시즌",
+      "source_category": "ai_company_earnings",
+      "title_ko": "MSFT Azure AI 매출 가이던스 상향",
+      "title_original": "Microsoft Raises Azure AI Revenue Guidance",
+      "one_liner_ko": "FY26 Azure AI ARR 200억 달러 전망",
+      "why_it_matters": "엔터프라이즈 AI 지출의 지속성 시사",
+      "url": "https://www.reuters.com/tech/msft-azure-ai",
+      "source": "Reuters Tech",
+      "confidence": 0.88
+    },
+    {
+      "rank": 3,
+      "group": "이번 주 어닝 시즌",
+      "source_category": "ai_company_earnings",
+      "title_ko": "Meta AI 인프라 자본지출 320억 달러로 상향",
+      "title_original": "Meta Raises AI Infra Capex to $32B",
+      "one_liner_ko": "FY26 capex 가이던스 18% 상향",
+      "why_it_matters": "AI 인프라 사이클 정점 논의 재점화",
+      "url": "https://www.bloomberg.com/news/meta-capex",
+      "source": "Bloomberg Technology",
+      "confidence": 0.85
+    },
+    {
+      "rank": 4,
+      "group": "한국 대기업 AI 흐름",
+      "source_category": "ai_kr_companies",
+      "title_ko": "삼성전자 HBM4 양산 본격화",
+      "title_original": null,
+      "one_liner_ko": "8세대 HBM 2026년 하반기 양산",
+      "why_it_matters": "메모리 ASP 상승 효과, 영업이익률 개선",
+      "url": "https://www.hankyung.com/article/samsung-hbm4",
+      "source": "한경 IT",
+      "confidence": 0.90
+    },
+    {
+      "rank": 5,
+      "group": "한국 대기업 AI 흐름",
+      "source_category": "ai_kr_companies",
+      "title_ko": "LG CNS, 사내 FP&A AI 전사 도입",
+      "title_original": null,
+      "one_liner_ko": "예산 편성 자동화 파일럿 종료",
+      "why_it_matters": "국내 대기업 재무 AI 도입 레퍼런스 사례",
+      "url": "https://biz.chosun.com/article/lg-cns-fpa",
+      "source": "조선비즈 테크",
+      "confidence": 0.78
+    },
+    {
+      "rank": 6,
+      "group": "한국 대기업 AI 흐름",
+      "source_category": "ai_kr_companies",
+      "title_ko": "네이버 하이퍼클로바X 기업용 ERP 통합",
+      "title_original": null,
+      "one_liner_ko": "더존비즈온과 파트너십 체결",
+      "why_it_matters": "국내 중견기업 ERP+AI 표준 경쟁 격화",
+      "url": "https://www.mk.co.kr/news/naver-erp",
+      "source": "매일경제 기업",
+      "confidence": 0.82
+    },
+    {
+      "rank": 7,
+      "group": "재무직 채용 변화",
+      "source_category": "ai_finance_jobs",
+      "title_ko": "Big 4 회계법인 감사 신입 채용 12% 감소",
+      "title_original": "Big 4 Audit Hiring Falls 12% as AI Tools Scale",
+      "one_liner_ko": "AI 감사 도구 도입이 직접 원인",
+      "why_it_matters": "Junior 회계 직군 진입 장벽 변화 신호",
+      "url": "https://www.efinancialcareers.com/news/big4-hiring",
+      "source": "eFinancialCareers",
+      "confidence": 0.80
+    },
+    {
+      "rank": 8,
+      "group": "재무직 채용 변화",
+      "source_category": "ai_finance_jobs",
+      "title_ko": "AI Controller 직군 평균 연봉 18% 상승",
+      "title_original": "AI Controller Salaries Up 18% YoY",
+      "one_liner_ko": "북미 기준 평균 22만 달러",
+      "why_it_matters": "재무 AI 운영 인력 프리미엄 정착",
+      "url": "https://www.linkedin.com/news/ai-controller-salary",
+      "source": "LinkedIn News",
+      "confidence": 0.72
+    },
+    {
+      "rank": 9,
+      "group": "재무직 채용 변화",
+      "source_category": "ai_finance_jobs",
+      "title_ko": "JP모건 재무팀 AI 운영 직군 신설",
+      "title_original": "JPMorgan Creates Finance AI Ops Roles",
+      "one_liner_ko": "FP&A 산하 12명 규모 팀 신설",
+      "why_it_matters": "글로벌 IB의 재무 AI 운영 거버넌스 표준화",
+      "url": "https://www.ft.com/content/jpm-ai-finance",
+      "source": "Financial Times",
+      "confidence": 0.86
+    },
+    {
+      "rank": 10,
+      "group": "재무직 채용 변화",
+      "source_category": "ai_finance_jobs",
+      "title_ko": "한국 CFO 절반 \"향후 1년 내 AI 인력 채용 계획\"",
+      "title_original": null,
+      "one_liner_ko": "CFO 250명 설문, 51% 응답",
+      "why_it_matters": "국내 재무 AI 직무 채용 시장 본격 형성",
+      "url": "https://www.byline.network/article/cfo-survey",
+      "source": "바이라인네트워크",
+      "confidence": 0.75
+    }
+  ]
+}
