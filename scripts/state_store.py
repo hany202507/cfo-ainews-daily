@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 from collections.abc import Iterable, Iterator
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Literal, TypedDict
 
@@ -101,9 +102,11 @@ class LastMessage(TypedDict):
 # Thresholds (spec §5, §7.2, §9)
 # ---------------------------------------------------------------------------
 
-# Curation / send gates
+# Curation / send gates (CFO digest defaults — see DigestConfig below for per-digest values)
 TARGET_ITEMS: int = 10
 MIN_ITEMS: int = 8  # below this, hold the send (§7.2)
+GRIDIE_TARGET_ITEMS: int = 7
+GRIDIE_MIN_ITEMS: int = 5
 
 # Dedupe
 SENT_HISTORY_DAYS: int = 14
@@ -266,11 +269,140 @@ OUTPUTS_DIR: Path = REPO_ROOT / "outputs" / "daily"
 PAUSE_FILE: Path = REPO_ROOT / "PAUSE"
 
 RSS_SOURCES_FILE: Path = DATA_DIR / "rss_sources.yaml"
-SENT_HISTORY_FILE: Path = DATA_DIR / "sent_history.jsonl"
-FEEDBACK_FILE: Path = DATA_DIR / "feedback.jsonl"
-LAST_MESSAGE_FILE: Path = DATA_DIR / "last_message.json"
+FEEDBACK_FILE: Path = DATA_DIR / "feedback.jsonl"  # shared across digests
+
+# Per-digest state — see DigestConfig
+SENT_HISTORY_FILE_CFO: Path = DATA_DIR / "sent_history_cfo.jsonl"
+SENT_HISTORY_FILE_GRIDIE: Path = DATA_DIR / "sent_history_gridie.jsonl"
+LAST_MESSAGE_FILE_CFO: Path = DATA_DIR / "last_message_cfo.json"
+LAST_MESSAGE_FILE_GRIDIE: Path = DATA_DIR / "last_message_gridie.json"
+
+# Back-compat aliases (default to CFO so existing CFO callers/tests keep working)
+SENT_HISTORY_FILE: Path = SENT_HISTORY_FILE_CFO
+LAST_MESSAGE_FILE: Path = LAST_MESSAGE_FILE_CFO
 
 
 def daily_dir(date_str: str) -> Path:
     """outputs/daily/YYYY-MM-DD/ — caller mkdirs."""
     return OUTPUTS_DIR / date_str
+
+
+# ---------------------------------------------------------------------------
+# Gridie digest schema
+# ---------------------------------------------------------------------------
+
+GRIDIE_CURATED_SCHEMA: dict[str, Any] = {
+    "type": "object",
+    "required": ["items"],
+    "properties": {
+        "items": {
+            "type": "array",
+            "minItems": GRIDIE_MIN_ITEMS,
+            "maxItems": GRIDIE_TARGET_ITEMS,
+            "items": {
+                "type": "object",
+                "required": [
+                    "rank",
+                    "source_category",
+                    "title_ko",
+                    "summary_ko",
+                    "gridie_perspective",
+                    "source_name",
+                    "url",
+                    "confidence",
+                ],
+                "properties": {
+                    "rank": {
+                        "type": "integer",
+                        "minimum": 1,
+                        "maximum": GRIDIE_TARGET_ITEMS,
+                    },
+                    "source_category": {"enum": list(CATEGORIES)},
+                    "title_ko": {"type": "string", "minLength": 1, "maxLength": 80},
+                    "summary_ko": {"type": "string", "minLength": 1, "maxLength": 150},
+                    "gridie_perspective": {
+                        "type": "string",
+                        "minLength": 1,
+                        "maxLength": 120,
+                    },
+                    "source_name": {"type": "string", "minLength": 1, "maxLength": 40},
+                    "url": {
+                        "type": "string",
+                        "format": "uri",
+                        "pattern": "^https?://",
+                    },
+                    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+                },
+            },
+        }
+    },
+}
+
+
+def validate_curated_with_schema(
+    payload: dict[str, Any], schema: dict[str, Any]
+) -> tuple[bool, str]:
+    """Generic validator. Use this for digest-specific schemas."""
+    try:
+        jsonschema.validate(payload, schema, format_checker=jsonschema.FormatChecker())
+        return True, ""
+    except jsonschema.ValidationError as e:
+        return False, e.message
+
+
+# ---------------------------------------------------------------------------
+# Digest configuration
+# ---------------------------------------------------------------------------
+
+
+@dataclass(frozen=True)
+class DigestConfig:
+    id: str  # "cfo" | "gridie"
+    target_items: int
+    min_items: int
+    prompt_file: str  # filename inside prompts/
+    schema: dict[str, Any]
+    sent_history_file: Path
+    last_message_file: Path
+    header_emoji: str
+    header_label: str
+
+    @property
+    def item_schema(self) -> dict[str, Any]:
+        return self.schema["properties"]["items"]["items"]
+
+
+_CFO_CONFIG = DigestConfig(
+    id="cfo",
+    target_items=TARGET_ITEMS,
+    min_items=MIN_ITEMS,
+    prompt_file="curate.md",
+    schema=CURATED_SCHEMA,
+    sent_history_file=SENT_HISTORY_FILE_CFO,
+    last_message_file=LAST_MESSAGE_FILE_CFO,
+    header_emoji="🌅",
+    header_label="CFO AI Daily",
+)
+
+_GRIDIE_CONFIG = DigestConfig(
+    id="gridie",
+    target_items=GRIDIE_TARGET_ITEMS,
+    min_items=GRIDIE_MIN_ITEMS,
+    prompt_file="curate_gridie.md",
+    schema=GRIDIE_CURATED_SCHEMA,
+    sent_history_file=SENT_HISTORY_FILE_GRIDIE,
+    last_message_file=LAST_MESSAGE_FILE_GRIDIE,
+    header_emoji="🤖",
+    header_label="Gridie AI Trend",
+)
+
+DIGESTS: dict[str, DigestConfig] = {
+    "cfo": _CFO_CONFIG,
+    "gridie": _GRIDIE_CONFIG,
+}
+
+
+def get_digest(digest_id: str) -> DigestConfig:
+    if digest_id not in DIGESTS:
+        raise ValueError(f"unknown digest: {digest_id!r}. valid: {list(DIGESTS)}")
+    return DIGESTS[digest_id]

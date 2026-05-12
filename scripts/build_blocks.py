@@ -14,6 +14,8 @@ from scripts.state_store import (
     SLACK_BLOCKS_MAX,
     SLACK_SECTION_TEXT_MAX,
     CuratedItem,
+    DigestConfig,
+    get_digest,
 )
 
 # Korean single-char weekday: 0=Mon … 6=Sun
@@ -27,11 +29,19 @@ FOOTER_TEXT = "👍/👎/🔥로 피드백 주세요. 내일 큐레이션에 반
 # ---------------------------------------------------------------------------
 
 
-def format_date_header(date_str: str, *, part: tuple[int, int] | None = None) -> str:
-    """`2026-05-12` → `🌅 CFO AI Daily — 2026.05.12 (월)`. Adds `(N/M)` when split."""
+def format_date_header(
+    date_str: str,
+    *,
+    part: tuple[int, int] | None = None,
+    config: DigestConfig | None = None,
+) -> str:
+    """`2026-05-12` → `🌅 CFO AI Daily — 2026.05.12 (월)`. Adds `(N/M)` when split.
+
+    ``config`` controls the emoji + label (defaults to CFO for back-compat)."""
+    cfg = config or get_digest("cfo")
     d = _date_cls.fromisoformat(date_str)
     weekday = _WEEKDAY_KO[d.weekday()]
-    base = f"🌅 CFO AI Daily — {d.year}.{d.month:02d}.{d.day:02d} ({weekday})"
+    base = f"{cfg.header_emoji} {cfg.header_label} — {d.year}.{d.month:02d}.{d.day:02d} ({weekday})"
     if part:
         base += f" ({part[0]}/{part[1]})"
     return base
@@ -165,3 +175,75 @@ def build_messages(items: list[CuratedItem], date_str: str) -> list[list[dict]]:
         msg.extend(footer)
         messages.append(msg)
     return messages
+
+
+# ---------------------------------------------------------------------------
+# Gridie digest renderer (flat numbered list, no groups)
+# ---------------------------------------------------------------------------
+
+
+def _gridie_item_blocks(item: dict) -> list[dict]:
+    title_line = f"*{item['rank']}. {item['title_ko']}*"
+    body = (
+        f"{title_line}\n"
+        f"• 요약: {item['summary_ko']}\n"
+        f"• Gridie 관점: {item['gridie_perspective']}\n"
+        f"• 참고: <{item['url']}|{item['source_name']}>"
+    )
+    body = body[:SLACK_SECTION_TEXT_MAX]
+    return [{"type": "section", "text": {"type": "mrkdwn", "text": body}}]
+
+
+def build_messages_gridie(items: list[dict], date_str: str) -> list[list[dict]]:
+    """Render the Gridie digest (5–7 items, no groups, flat numbered list).
+
+    Layout:
+        🤖 Gridie AI Trend — YYYY.MM.DD (요일)
+        *1. title*
+        • 요약: ...
+        • Gridie 관점: ...
+        • 참고: <url|source>
+        ...
+        ──
+        footer
+
+    Splits at item boundaries if total blocks exceed SLACK_BLOCKS_MAX.
+    """
+    cfg = get_digest("gridie")
+    sorted_items = sorted(items, key=lambda x: x["rank"])
+    per_item_blocks = [_gridie_item_blocks(it) for it in sorted_items]
+
+    footer = _footer_blocks()
+    overhead = 1 + len(footer)
+    body_budget = SLACK_BLOCKS_MAX - overhead
+
+    parts: list[list[list[dict]]] = [[]]
+    current_size = 0
+    for blocks in per_item_blocks:
+        if current_size + len(blocks) > body_budget and parts[-1]:
+            parts.append([])
+            current_size = 0
+        parts[-1].append(blocks)
+        current_size += len(blocks)
+
+    total = len(parts)
+    messages: list[list[dict]] = []
+    for idx, part_items in enumerate(parts, start=1):
+        header_text = format_date_header(
+            date_str,
+            part=(idx, total) if total > 1 else None,
+            config=cfg,
+        )
+        msg: list[dict] = [_header_block(header_text)]
+        for ib in part_items:
+            msg.extend(ib)
+        msg.extend(footer)
+        messages.append(msg)
+    return messages
+
+
+def build_messages_for(config: DigestConfig, items: list[dict], date_str: str) -> list[list[dict]]:
+    """Route to the appropriate renderer for the given digest config."""
+    if config.id == "gridie":
+        return build_messages_gridie(items, date_str)
+    return build_messages(items, date_str)

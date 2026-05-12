@@ -19,21 +19,22 @@ import jsonschema
 from scripts.state_store import (
     CATEGORIES,
     CURATE_MODEL,
-    CURATED_SCHEMA,
     FEEDBACK_RECENT_DAYS,
+    GRIDIE_MIN_ITEMS,
+    GRIDIE_TARGET_ITEMS,
     MIN_ITEMS,
     TARGET_ITEMS,
+    DigestConfig,
     FeedbackRecord,
     RawItem,
-    validate_curated,
+    get_digest,
+    validate_curated_with_schema,
 )
 
-_ITEM_SCHEMA: dict[str, Any] = CURATED_SCHEMA["properties"]["items"]["items"]
 
-
-def _item_passes_schema(item: dict[str, Any]) -> bool:
+def _item_passes_schema(item: dict[str, Any], schema: dict[str, Any]) -> bool:
     try:
-        jsonschema.validate(item, _ITEM_SCHEMA)
+        jsonschema.validate(item, schema)
         return True
     except jsonschema.ValidationError:
         return False
@@ -55,7 +56,7 @@ _CACHE_READ_MULT: float = 0.10
 # ---------------------------------------------------------------------------
 
 
-def _item_schema() -> dict[str, Any]:
+def _item_schema_cfo() -> dict[str, Any]:
     return {
         "type": "object",
         "required": [
@@ -95,7 +96,49 @@ def _item_schema() -> dict[str, Any]:
     }
 
 
-EMIT_DIGEST_TOOL: dict[str, Any] = {
+def _item_schema_gridie() -> dict[str, Any]:
+    return {
+        "type": "object",
+        "required": [
+            "rank",
+            "source_category",
+            "title_ko",
+            "summary_ko",
+            "gridie_perspective",
+            "source_name",
+            "url",
+            "confidence",
+        ],
+        "properties": {
+            "rank": {"type": "integer", "description": "1–7 ranking (1 = top relevance to Gridie)"},
+            "source_category": {"type": "string", "enum": list(CATEGORIES)},
+            "title_ko": {
+                "type": "string",
+                "description": "Headline-style Korean title, ≤80 chars (e.g. 'OpenAI, Agents SDK 보강')",
+            },
+            "summary_ko": {
+                "type": "string",
+                "description": "One-sentence factual Korean summary, ≤150 chars, '~했습니다' tone",
+            },
+            "gridie_perspective": {
+                "type": "string",
+                "description": "Founder-lens takeaway for the Gridie operator, ≤120 chars",
+            },
+            "source_name": {
+                "type": "string",
+                "description": "Reader-friendly publisher name (e.g. 'OpenAI', 'TechCrunch')",
+            },
+            "url": {"type": "string", "description": "Original article URL"},
+            "confidence": {
+                "type": "number",
+                "description": "Self-rated confidence 0.0–1.0; <0.7 triggers fact-check",
+            },
+        },
+        "additionalProperties": False,
+    }
+
+
+EMIT_DIGEST_TOOL_CFO: dict[str, Any] = {
     "name": "emit_digest",
     "description": (
         "Submit the final curated digest of 8–10 CFO/AI/finance-jobs items "
@@ -109,7 +152,7 @@ EMIT_DIGEST_TOOL: dict[str, Any] = {
                 "type": "array",
                 "minItems": MIN_ITEMS,
                 "maxItems": TARGET_ITEMS,
-                "items": _item_schema(),
+                "items": _item_schema_cfo(),
             }
         },
         "additionalProperties": False,
@@ -117,22 +160,64 @@ EMIT_DIGEST_TOOL: dict[str, Any] = {
 }
 
 
+EMIT_DIGEST_TOOL_GRIDIE: dict[str, Any] = {
+    "name": "emit_digest",
+    "description": (
+        "Submit the Gridie AI Trend digest of 5–7 AI product/tool/infra items "
+        "for a B2B SaaS founder. No groups; flat numbered list. Call exactly once."
+    ),
+    "input_schema": {
+        "type": "object",
+        "required": ["items"],
+        "properties": {
+            "items": {
+                "type": "array",
+                "minItems": GRIDIE_MIN_ITEMS,
+                "maxItems": GRIDIE_TARGET_ITEMS,
+                "items": _item_schema_gridie(),
+            }
+        },
+        "additionalProperties": False,
+    },
+}
+
+
+# Back-compat alias — existing imports reference EMIT_DIGEST_TOOL (CFO).
+EMIT_DIGEST_TOOL: dict[str, Any] = EMIT_DIGEST_TOOL_CFO
+
+_DIGEST_TOOLS: dict[str, dict[str, Any]] = {
+    "cfo": EMIT_DIGEST_TOOL_CFO,
+    "gridie": EMIT_DIGEST_TOOL_GRIDIE,
+}
+
+
+def _tool_for(config: DigestConfig) -> dict[str, Any]:
+    return _DIGEST_TOOLS[config.id]
+
+
 # ---------------------------------------------------------------------------
 # Prompt assembly
 # ---------------------------------------------------------------------------
 
 
-def _load_system_prompt() -> str:
-    return (PROMPTS_DIR / "curate.md").read_text(encoding="utf-8")
+def _load_system_prompt(filename: str = "curate.md") -> str:
+    return (PROMPTS_DIR / filename).read_text(encoding="utf-8")
 
 
-def build_system(prompt_text: str | None = None) -> list[dict[str, Any]]:
-    """Cached system block (last block carries cache_control)."""
-    text = prompt_text if prompt_text is not None else _load_system_prompt()
+def build_system(
+    prompt_text: str | None = None,
+    *,
+    config: DigestConfig | None = None,
+) -> list[dict[str, Any]]:
+    """Cached system block (last block carries cache_control). If ``config`` is
+    given and ``prompt_text`` is None, loads from ``config.prompt_file``."""
+    if prompt_text is None:
+        filename = config.prompt_file if config else "curate.md"
+        prompt_text = _load_system_prompt(filename)
     return [
         {
             "type": "text",
-            "text": text,
+            "text": prompt_text,
             "cache_control": {"type": "ephemeral"},
         }
     ]
@@ -188,8 +273,11 @@ def build_user(
     date_str: str,
     items: list[RawItem],
     feedback: Iterable[FeedbackRecord],
+    *,
+    config: DigestConfig | None = None,
 ) -> str:
     """User-turn content: date, feedback (if any), candidate items as compact JSON."""
+    cfg = config or get_digest("cfo")
     feedback_block = _format_feedback_block(feedback, date_str)
     candidates_json = json.dumps(items, ensure_ascii=False, separators=(",", ":"))
     parts = [
@@ -206,7 +294,8 @@ def build_user(
             candidates_json,
             "</candidates>",
             "",
-            "위 후보 중 정확히 10개(부득이하면 8–9개)를 골라 `emit_digest`로 제출하라.",
+            f"위 후보 중 정확히 {cfg.target_items}개(부득이하면 {cfg.min_items}–{cfg.target_items - 1}개)"
+            "를 골라 `emit_digest`로 제출하라.",
         ]
     )
     return "\n".join(parts)
@@ -283,12 +372,15 @@ def curate(
     feedback: list[FeedbackRecord],
     date_str: str,
     *,
+    config: DigestConfig | None = None,
     client: Any | None = None,
     model: str = CURATE_MODEL,
     max_retries: int = 1,
     max_tokens: int = 8192,
 ) -> CurationResult:
     """Run a single curation call with one retry on schema failure.
+
+    ``config`` selects the digest (defaults to CFO for back-compat).
 
     Returns:
         {
@@ -299,14 +391,16 @@ def curate(
             "cost_usd": float (cumulative),
         }
     """
+    cfg = config or get_digest("cfo")
     if client is None:
         import anthropic
 
         client = anthropic.Anthropic()
 
-    system_blocks = build_system()
-    user_text = build_user(date_str, items, feedback)
+    system_blocks = build_system(config=cfg)
+    user_text = build_user(date_str, items, feedback, config=cfg)
     messages = [{"role": "user", "content": user_text}]
+    tool = _tool_for(cfg)
 
     errors: list[str] = []
     usages: list[dict[str, int]] = []
@@ -319,7 +413,7 @@ def curate(
             max_tokens=max_tokens,
             system=system_blocks,
             messages=messages,
-            tools=[EMIT_DIGEST_TOOL],
+            tools=[tool],
             tool_choice={"type": "tool", "name": "emit_digest"},
         )
 
@@ -343,7 +437,7 @@ def curate(
             continue
 
         last_payload = payload
-        ok, err = validate_curated(payload)
+        ok, err = validate_curated_with_schema(payload, cfg.schema)
         if ok:
             return CurationResult(
                 status="ok",
@@ -357,9 +451,11 @@ def curate(
 
     # Schema validation failed after all retries — try a partial fallback.
     if last_payload and isinstance(last_payload.get("items"), list):
-        valid_items = [it for it in last_payload["items"] if _item_passes_schema(it)]
-        if len(valid_items) >= MIN_ITEMS:
-            partial = {"items": valid_items[:TARGET_ITEMS]}
+        valid_items = [
+            it for it in last_payload["items"] if _item_passes_schema(it, cfg.item_schema)
+        ]
+        if len(valid_items) >= cfg.min_items:
+            partial = {"items": valid_items[: cfg.target_items]}
             return CurationResult(
                 status="partial",
                 payload=partial,

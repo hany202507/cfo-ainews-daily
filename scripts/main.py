@@ -18,7 +18,7 @@ import subprocess
 import sys
 from datetime import UTC, datetime, timedelta
 
-from scripts.build_blocks import build_messages
+from scripts.build_blocks import build_messages_for
 from scripts.curate import curate
 from scripts.dedupe import (
     append_sent_records,
@@ -32,16 +32,15 @@ from scripts.fetch_web_search import fetch_supplemental
 from scripts.slack_feedback import collect_yesterday_feedback
 from scripts.slack_send import SendOutcome, send_daily
 from scripts.state_store import (
+    DIGESTS,
     FEEDBACK_FILE,
     MAX_LLM_COST_USD,
-    MIN_ITEMS,
     OUTPUTS_DIR,
     OUTPUTS_RETENTION_DAYS,
     PAUSE_FILE,
     RSS_FAILURE_ABORT_RATIO,
-    SENT_HISTORY_FILE,
-    TARGET_ITEMS,
     daily_dir,
+    get_digest,
     read_jsonl,
     write_json,
     write_jsonl,
@@ -125,19 +124,23 @@ def _cleanup_old_outputs(now: datetime | None = None) -> int:
 
 def run(
     *,
+    digest: str = "cfo",
     dry_run: bool = False,
     force: bool = False,
     now: datetime | None = None,
 ) -> int:
-    """Execute the Run Order. Returns process exit code."""
+    """Execute the Run Order for the given digest. Returns process exit code."""
+    cfg = get_digest(digest)
     now = now or datetime.now(UTC)
     today = _today_str(now)
-    out_dir = daily_dir(today)
+    out_dir = daily_dir(today) / cfg.id
     out_dir.mkdir(parents=True, exist_ok=True)
+
+    log.info("starting digest=%s dry_run=%s force=%s today=%s", cfg.id, dry_run, force, today)
 
     # [0] PAUSE + env check ---------------------------------------------------
     if PAUSE_FILE.exists():
-        log.info("PAUSED — skipping run for %s", today)
+        log.info("PAUSED — skipping %s run for %s", cfg.id, today)
         return 0
 
     missing = _check_env(dry_run)
@@ -148,7 +151,7 @@ def run(
     # [1] Yesterday's feedback ------------------------------------------------
     if not dry_run:
         try:
-            n_fb = collect_yesterday_feedback()
+            n_fb = collect_yesterday_feedback(last_message_path=cfg.last_message_file)
             log.info("collected %d feedback records", n_fb)
         except Exception as exc:  # noqa: BLE001
             log.warning("feedback collection failed: %r", exc)
@@ -171,14 +174,14 @@ def run(
     write_jsonl(out_dir / "01_raw.jsonl", raw_items)
 
     # [3] Dedupe --------------------------------------------------------------
-    sent_urls = load_sent_urls(SENT_HISTORY_FILE, now=now)
+    sent_urls = load_sent_urls(cfg.sent_history_file, now=now)
     deduped, counts = dedupe_all(raw_items, sent_urls, now=now)
     log.info("dedupe: %s", counts)
     write_jsonl(out_dir / "02_deduped.jsonl", deduped)
 
     # Web-search supplement when candidate pool is short ---------------------
-    if not dry_run and len(deduped) < TARGET_ITEMS:
-        shortfall = TARGET_ITEMS - len(deduped)
+    if not dry_run and len(deduped) < cfg.target_items:
+        shortfall = cfg.target_items - len(deduped)
         try:
             supp = fetch_supplemental(
                 target_n=shortfall,
@@ -196,17 +199,17 @@ def run(
         except Exception as exc:  # noqa: BLE001
             log.warning("web_search supplement failed: %r", exc)
 
-    if len(deduped) < MIN_ITEMS:
+    if len(deduped) < cfg.min_items:
         log.error(
             "only %d items after dedupe (< MIN_ITEMS=%d) — holding send",
             len(deduped),
-            MIN_ITEMS,
+            cfg.min_items,
         )
         return 2
 
     # [4] Curate --------------------------------------------------------------
     feedback = list(read_jsonl(FEEDBACK_FILE))
-    curation = curate(deduped, feedback, today)
+    curation = curate(deduped, feedback, today, config=cfg)
     log.info(
         "curate: status=%s cost=$%.4f errors=%s",
         curation["status"],
@@ -235,11 +238,11 @@ def run(
         log.error("fact-check majority-remove triggered — holding send")
         return 2
     items = fc["items"]
-    if len(items) < MIN_ITEMS:
+    if len(items) < cfg.min_items:
         log.error(
             "only %d items survived fact-check (< MIN_ITEMS=%d) — holding send",
             len(items),
-            MIN_ITEMS,
+            cfg.min_items,
         )
         return 2
     payload = {"items": items}
@@ -251,7 +254,7 @@ def run(
         return 2
 
     # [6] Build Slack blocks --------------------------------------------------
-    messages = build_messages(items, today)
+    messages = build_messages_for(cfg, items, today)
     write_json(out_dir / "04_slack_blocks.json", {"messages": messages})
 
     # [7] Human gate — covered by PAUSE in [0] -------------------------------
@@ -264,13 +267,14 @@ def run(
         item_urls,
         dry_run=dry_run,
         now=now,
+        last_message_path=cfg.last_message_file,
     )
     log.info("send outcome: %s", outcome)
 
     # [9] Persist + cleanup --------------------------------------------------
     if outcome == SendOutcome.SENT:
-        append_sent_records(SENT_HISTORY_FILE, items, today)
-        prune_history(SENT_HISTORY_FILE, now=now)
+        append_sent_records(cfg.sent_history_file, items, today)
+        prune_history(cfg.sent_history_file, now=now)
         removed_dirs = _cleanup_old_outputs(now=now)
         if removed_dirs:
             log.info("cleanup: removed %d old daily output dirs", removed_dirs)
@@ -280,7 +284,8 @@ def run(
             log.info("not in GitHub Actions — skipping git commit/push")
 
     log.info(
-        "done: outcome=%s items=%d total_cost=$%.4f",
+        "done: digest=%s outcome=%s items=%d total_cost=$%.4f",
+        cfg.id,
         outcome,
         len(items),
         total_cost,
@@ -295,6 +300,12 @@ def run(
 
 def _build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="scripts.main", description="CFO AI Daily orchestrator")
+    p.add_argument(
+        "--digest",
+        choices=list(DIGESTS),
+        default="cfo",
+        help="Which digest to run (default: cfo)",
+    )
     p.add_argument("--dry-run", action="store_true", help="Skip Slack send")
     p.add_argument(
         "--force",
@@ -307,7 +318,7 @@ def _build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     _configure_logging()
     args = _build_parser().parse_args(argv)
-    return run(dry_run=args.dry_run, force=args.force)
+    return run(digest=args.digest, dry_run=args.dry_run, force=args.force)
 
 
 if __name__ == "__main__":

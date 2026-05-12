@@ -34,7 +34,7 @@ def _stub_all_pipeline_modules(monkeypatch):
         "curate": MagicMock(),
         "fact_check_items": MagicMock(),
         "fetch_supplemental": MagicMock(),
-        "build_messages": MagicMock(),
+        "build_messages_for": MagicMock(),
         "send_daily": MagicMock(),
         "collect_yesterday_feedback": MagicMock(),
         "append_sent_records": MagicMock(),
