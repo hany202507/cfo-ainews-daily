@@ -243,7 +243,7 @@ def append_jsonl(path: Path | str, items: Iterable[dict[str, Any]]) -> int:
 
 def read_json(path: Path | str) -> dict[str, Any] | None:
     p = Path(path)
-    if not p.exists():
+    if not p.exists() or p.stat().st_size == 0:
         return None
     with p.open("r", encoding="utf-8") as f:
         return json.load(f)

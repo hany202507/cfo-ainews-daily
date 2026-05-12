@@ -162,6 +162,14 @@ def test_read_json_missing_returns_none(tmp_path: Path):
     assert read_json(tmp_path / "missing.json") is None
 
 
+def test_read_json_empty_file_returns_none(tmp_path: Path):
+    # Placeholder 0-byte file (e.g. committed last_message.json on first run)
+    path = tmp_path / "empty.json"
+    path.touch()
+    assert path.stat().st_size == 0
+    assert read_json(path) is None
+
+
 def test_write_then_read_json_roundtrip(tmp_path: Path):
     path = tmp_path / "msg.json"
     payload = {"date": "2026-05-12", "ts": "1234.5678", "channel": "C123", "item_urls": []}
