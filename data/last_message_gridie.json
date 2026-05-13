@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-12",
-  "ts": "1778620902.381489",
+  "date": "2026-05-13",
+  "ts": "1778630811.555509",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation",
-    "https://www.cfodive.com/news/sap-ramps-push-autonomous-finance-agentic-ai/819929/",
-    "https://www.bloomberg.com/news/articles/2026-05-12/google-debuts-android-googlebook-laptops-with-dell-hp-to-counter-macbook-neo",
-    "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-expands-push-into-legal-industry-with-new-ai-tools",
-    "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/"
+    "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
+    "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "https://www.bloomberg.com/news/videos/2026-05-12/cme-to-create-futures-market-for-ai-computing-power-video",
+    "https://www.cfodive.com/news/ai-foundation-great-work-onetrust-cfo-software-roi/820024/",
+    "https://www.cfodive.com/news/execs-admit-material-decisions-based-flawed-data/819927/",
+    "https://github.com/cactus-compute/needle"
   ]
 }
