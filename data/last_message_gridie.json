@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-18",
-  "ts": "1779062570.026599",
+  "date": "2026-05-19",
+  "ts": "1779149686.951479",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr",
-    "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video",
-    "https://github.com/MinishLab/semble",
-    "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
-    "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "https://www.theverge.com/tech/932215/microsoft-teams-together-mode"
+    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "https://www.bloomberg.com/news/articles/2026-05-18/meta-moves-7-000-workers-into-ai-roles-ahead-of-job-cuts",
+    "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
+    "https://modal.com/blog/truly-serverless-gpus",
+    "https://www.bloomberg.com/news/articles/2026-05-18/apple-ios-27-ai-writing-grammar-help-new-shortcuts-app-custom-wallpapers",
+    "https://www.cfodive.com/spons/from-oversight-to-ownership-the-cfos-new-role-in-ai/820030/",
+    "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/"
   ]
 }
