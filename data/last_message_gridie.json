@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-19",
-  "ts": "1779149686.951479",
+  "date": "2026-05-20",
+  "ts": "1779236013.462589",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "https://www.bloomberg.com/news/articles/2026-05-18/meta-moves-7-000-workers-into-ai-roles-ahead-of-job-cuts",
-    "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
-    "https://modal.com/blog/truly-serverless-gpus",
-    "https://www.bloomberg.com/news/articles/2026-05-18/apple-ios-27-ai-writing-grammar-help-new-shortcuts-app-custom-wallpapers",
-    "https://www.cfodive.com/spons/from-oversight-to-ownership-the-cfos-new-role-in-ai/820030/",
-    "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/"
+    "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "https://twitter.com/karpathy/status/2056753169888334312",
+    "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+    "https://www.cfodive.com/news/onestream-embraces-chatgpt-copilot-shift-interoperable-ai-agents/820558/",
+    "https://www.bloomberg.com/news/articles/2026-05-19/spacex-is-said-to-plan-to-buy-startup-cursor-30-days-after-ipo",
+    "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+    "https://www.cfodive.com/news/breaking-fire-drill-cycle-tax-compliance-ai-sap/820436/"
   ]
 }
