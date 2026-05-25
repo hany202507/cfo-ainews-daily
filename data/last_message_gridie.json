@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-24",
-  "ts": "1779581000.331159",
+  "date": "2026-05-25",
+  "ts": "1779667562.198829",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-    "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-    "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
-    "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown",
-    "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-    "https://horace.io/brrr_intro.html"
+    "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "https://esengine.github.io/DeepSeek-Reasonix/",
+    "https://arxiv.org/abs/2605.06445",
+    "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
   ]
 }
