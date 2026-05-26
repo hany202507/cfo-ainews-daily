@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-25",
-  "ts": "1779667562.198829",
+  "date": "2026-05-26",
+  "ts": "1779754343.232789",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-    "https://esengine.github.io/DeepSeek-Reasonix/",
-    "https://arxiv.org/abs/2605.06445",
-    "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
-    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
+    "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+    "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "https://support.apple.com/en-us/127115",
+    "https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift",
+    "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc",
+    "https://www.bloomberg.com/news/articles/2026-05-25/softbank-shares-hit-record-high-with-lift-from-openai-ipo-hopes",
+    "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand"
   ]
 }
