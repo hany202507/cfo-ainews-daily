@@ -1,10 +1,3 @@
-{"date": "2026-05-13", "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/", "title_ko": "Google, Android 17에 Gemini 에이전틱 AI·vibe-coded 위젯 대거 탑재"}
-{"date": "2026-05-13", "url": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook", "title_ko": "Google, AI 네이티브 노트북 'Googlebook' 올 가을 출시 예고"}
-{"date": "2026-05-13", "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/", "title_ko": "Anthropic, 법률 서비스용 AI 도구 출시로 전문직 버티컬 본격 공략"}
-{"date": "2026-05-13", "url": "https://www.bloomberg.com/news/videos/2026-05-12/cme-to-create-futures-market-for-ai-computing-power-video", "title_ko": "CME·Silicon Data, AI 컴퓨팅 파워 선물 시장 창설 추진"}
-{"date": "2026-05-13", "url": "https://www.cfodive.com/news/ai-foundation-great-work-onetrust-cfo-software-roi/820024/", "title_ko": "OneTrust CFO, 'AI는 단순 생산성 도구 넘어 업무 기반'이라고 강조"}
-{"date": "2026-05-13", "url": "https://www.cfodive.com/news/execs-admit-material-decisions-based-flawed-data/819927/", "title_ko": "임원 40%, 불량 데이터로 '중대한' 의사결정…손실 $1M 초과 사례 속출"}
-{"date": "2026-05-13", "url": "https://github.com/cactus-compute/needle", "title_ko": "Needle, Gemini Tool Calling 증류한 26M 경량 모델 오픈소스 공개"}
 {"date": "2026-05-14", "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/", "title_ko": "Anthropic, 소기업 대상 Claude 서비스 확대 — B2B 플랫폼 전쟁 하향 확산"}
 {"date": "2026-05-14", "url": "https://www.bloomberg.com/news/videos/2026-05-13/anthropic-in-talks-to-raise-30-billion-in-financing-video", "title_ko": "Anthropic, $30B 조달·기업가치 $900B 협상 돌입 — AI 인프라 자본 집중 가속"}
 {"date": "2026-05-14", "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/", "title_ko": "Anthropic, 비즈니스 고객 수 OpenAI 첫 추월 — Ramp 지출 데이터 기준"}
@@ -96,3 +89,10 @@
 {"date": "2026-05-27", "url": "https://www.cfodive.com/news/poor-leadership-process-failures-sinking-ai-projects-ibm-exec/821062/", "title_ko": "IBM 임원 \"리더십·프로세스 부재가 AI 프로젝트 실패 주범\""}
 {"date": "2026-05-27", "url": "https://www.cfodive.com/news/amid-heavy-ai-use-workers-say-skills-atrophying/821087/", "title_ko": "AI 과도 사용으로 직원 스킬 퇴화 우려 확산—기업 가이드라인 필요성 부각"}
 {"date": "2026-05-27", "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/", "title_ko": "DuckDuckGo 설치 30% 급증—Google AI 검색 강제 전환 반발 확산"}
+{"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/", "title_ko": "Cognition, $1B 펀딩·$25B 밸류로 AI 코딩 에이전트 시장 장악 가속"}
+{"date": "2026-05-28", "url": "https://www.cfodive.com/news/workday-launches-ai-tool-aimed-easing-fpa-workflows/821270/", "title_ko": "Workday, FP&A 워크플로 자동화 AI 도구 출시"}
+{"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/", "title_ko": "Remote, AI 도입으로 헤드카운트 동결 후 직원 1인당 매출 50% 성장"}
+{"date": "2026-05-28", "url": "https://simonwillison.net/2026/May/27/product-market-fit/", "title_ko": "Anthropic·OpenAI PMF 달성 분석 — 시장은 이미 AI에 의존"}
+{"date": "2026-05-28", "url": "https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand", "title_ko": "Snowflake, AWS와 $6B 칩 계약 체결 후 주가 30% 급등"}
+{"date": "2026-05-28", "url": "https://arps18.github.io/posts/claude-code-mastery/", "title_ko": "Claude Code 실전 운용 가이드 — Claude.md·서브에이전트·MCP 활용법"}
+{"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/", "title_ko": "YouTube, AI 생성 영상 자동 라벨링 전면 도입"}
