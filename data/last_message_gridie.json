@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-28",
-  "ts": "1779926716.314699",
+  "date": "2026-05-29",
+  "ts": "1780013762.576839",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "https://www.cfodive.com/news/workday-launches-ai-tool-aimed-easing-fpa-workflows/821270/",
-    "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand",
-    "https://arps18.github.io/posts/claude-code-mastery/",
-    "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/"
+    "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+    "https://www.bloomberg.com/news/articles/2026-05-28/dell-boosts-outlook-to-60-billion-in-ai-server-sales-this-year",
+    "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
   ]
 }

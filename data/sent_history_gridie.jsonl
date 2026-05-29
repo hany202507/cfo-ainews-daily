@@ -1,10 +1,3 @@
-{"date": "2026-05-14", "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/", "title_ko": "Anthropic, 소기업 대상 Claude 서비스 확대 — B2B 플랫폼 전쟁 하향 확산"}
-{"date": "2026-05-14", "url": "https://www.bloomberg.com/news/videos/2026-05-13/anthropic-in-talks-to-raise-30-billion-in-financing-video", "title_ko": "Anthropic, $30B 조달·기업가치 $900B 협상 돌입 — AI 인프라 자본 집중 가속"}
-{"date": "2026-05-14", "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/", "title_ko": "Anthropic, 비즈니스 고객 수 OpenAI 첫 추월 — Ramp 지출 데이터 기준"}
-{"date": "2026-05-14", "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/", "title_ko": "Notion, 워크스페이스를 AI 에이전트 허브로 전환 — 개발자 플랫폼 출시"}
-{"date": "2026-05-14", "url": "https://www.bloomberg.com/news/articles/2026-05-13/ai-chipmaker-cerebras-said-poised-to-price-ipo-at-185-per-share", "title_ko": "Cerebras, $5.55B IPO 성공 — AI 칩 수요 급증 자본시장 반영"}
-{"date": "2026-05-14", "url": "https://www.bloomberg.com/news/articles/2026-05-13/blackstone-reit-raises-1-75-billion-in-ipo-to-buy-data-centers", "title_ko": "Blackstone REIT, 데이터센터 매입 목적 $1.75B IPO 완료 — AI 인프라 투자 지속"}
-{"date": "2026-05-14", "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats", "title_ko": "Meta AI, WhatsApp에 대화 무저장 '인코그니토 모드' 추가"}
 {"date": "2026-05-15", "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview", "title_ko": "OpenAI, Codex를 ChatGPT 모바일 앱(iOS·Android)에 통합"}
 {"date": "2026-05-15", "url": "https://www.bloomberg.com/news/articles/2026-05-14/musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic", "title_ko": "xAI, 첫 코딩 에이전트 'Grok Build' 출시로 Claude Code 추격"}
 {"date": "2026-05-15", "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad", "title_ko": "Microsoft, 사내 Claude Code 라이선스 취소 착수"}
@@ -96,3 +89,10 @@
 {"date": "2026-05-28", "url": "https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand", "title_ko": "Snowflake, AWS와 $6B 칩 계약 체결 후 주가 30% 급등"}
 {"date": "2026-05-28", "url": "https://arps18.github.io/posts/claude-code-mastery/", "title_ko": "Claude Code 실전 운용 가이드 — Claude.md·서브에이전트·MCP 활용법"}
 {"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/", "title_ko": "YouTube, AI 생성 영상 자동 라벨링 전면 도입"}
+{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/", "title_ko": "Anthropic, Claude Opus 4.8 출시 — 서브에이전트 조율 'Dynamic Workflows' 탑재"}
+{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/", "title_ko": "Anthropic, Series H $65B 조달 — 밸류에이션 $965B으로 OpenAI 추월"}
+{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/", "title_ko": "인터넷이 머신 중심으로 재설계 — AWS·Cloudflare, AI 에이전트 트래픽 인프라 전환"}
+{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/", "title_ko": "Asana, 노코드 에이전트 빌더 StackAI 인수 — AI 워크플로 툴 강화"}
+{"date": "2026-05-29", "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign", "title_ko": "Microsoft 365 Copilot, 속도 2배·UI 리디자인 업데이트 출시"}
+{"date": "2026-05-29", "url": "https://www.bloomberg.com/news/articles/2026-05-28/dell-boosts-outlook-to-60-billion-in-ai-server-sales-this-year", "title_ko": "Dell, AI 서버 연간 매출 전망 $60B으로 상향 — 주가 40% 급등"}
+{"date": "2026-05-29", "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/", "title_ko": "오픈소스 jqwik에 AI 코딩 에이전트 겨냥 프롬프트 인젝션 삽입 사건 발생"}
