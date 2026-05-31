@@ -1,10 +1,3 @@
-{"date": "2026-05-16", "url": "https://www.bloomberg.com/news/videos/2026-05-16/how-agentic-commerce-will-reshape-the-internet-video", "title_ko": "Stripe 공동창업자 Collison, 에이전틱 커머스가 인터넷 리셰이프할 것"}
-{"date": "2026-05-16", "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/", "title_ko": "OpenAI 공동창업자 Greg Brockman, ChatGPT·Codex 통합 주도하며 제품 전략 총괄"}
-{"date": "2026-05-16", "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/", "title_ko": "Nectar Social, Anthropic 연계 Menlo Ventures 주도로 $30M 시리즈A 조달"}
-{"date": "2026-05-16", "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/", "title_ko": "Cerebras, IPO 전 월 800만 달러 번 아웃 위기 겪었던 내막 공개"}
-{"date": "2026-05-16", "url": "https://nvlabs.github.io/Sana/WM/", "title_ko": "NVIDIA, 2.6B 파라미터 오픈소스 월드모델 SANA-WM으로 720p 1분 영상 생성"}
-{"date": "2026-05-16", "url": "https://www.seangoedecke.com/steering-vectors/", "title_ko": "DeepSeek-V4-Flash, LLM 스티어링 벡터 연구에 새 가능성 열어"}
-{"date": "2026-05-16", "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/", "title_ko": "ArXiv, AI가 단독 작성한 논문 투고자 1년 이용 정지 방침 발표"}
 {"date": "2026-05-18", "url": "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr", "title_ko": "Apple, iOS 27 Siri 앱에 대화 자동 삭제 기능 탑재 예정"}
 {"date": "2026-05-18", "url": "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video", "title_ko": "중국 에너지 인프라 확장, AI 패권 경쟁의 새 변수로 부상"}
 {"date": "2026-05-18", "url": "https://github.com/MinishLab/semble", "title_ko": "Semble, 에이전트용 코드 검색 도구 — grep 대비 토큰 98% 절감"}
@@ -96,3 +89,10 @@
 {"date": "2026-05-30", "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/the-corporate-lexicon-on-ai-has-changed-from-generative-to-agentic", "title_ko": "Bloomberg: 기업 AI 화두, 'Generative'에서 'Agentic'으로 전환 확인"}
 {"date": "2026-05-30", "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b", "title_ko": "Liquid AI, 38T 토큰 학습 8B-A1B MoE 모델 공개"}
 {"date": "2026-05-30", "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/", "title_ko": "코더들 'AI 없인 일 못 해' — 코드 품질 저하 우려 확산"}
+{"date": "2026-05-31", "url": "https://openrouter.ai/announcements/series-b", "title_ko": "OpenRouter, 시리즈 B $113M 조달 — AI 모델 라우팅 인프라 급성장"}
+{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/", "title_ko": "SoftBank, 프랑스 AI 데이터센터에 최대 €750억 투자 발표"}
+{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/", "title_ko": "GitHub Copilot, 토큰 기반 과금 전환으로 개발자 반발 확산"}
+{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/", "title_ko": "Google, 24/7 AI 어시스턴트 Gemini Spark 실사용 리뷰 — 일상 자동화 가능성 검증"}
+{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally", "title_ko": "Dell·Nokia·Cisco 등 레거시 테크, AI 전환으로 주가 $1.7조 랠리"}
+{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback", "title_ko": "Anthropic, 비공인 주식 거래 플랫폼 목록 반 축소 — 투자자 반발 수용"}
+{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek", "title_ko": "중국 MiniMax, DeepSeek에 맞서 본토 IPO 준비 착수"}
