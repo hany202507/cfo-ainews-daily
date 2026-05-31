@@ -1,13 +1,3 @@
-{"date": "2026-05-16", "url": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video", "title_ko": "OpenAI CFO, 최근 자금조달 완료 후 추가 자본 유치 가능성 시사"}
-{"date": "2026-05-16", "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/", "title_ko": "미국 CFTC, AI로 예측시장 내부자거래 적발 추진"}
-{"date": "2026-05-16", "url": "https://www.bloomberg.com/news/videos/2026-05-16/how-agentic-commerce-will-reshape-the-internet-video", "title_ko": "Stripe CEO, AI 에이전트 커머스가 인터넷 쇼핑 구조 전면 재편할 것"}
-{"date": "2026-05-16", "url": "https://www.bloomberg.com/news/videos/2026-05-15/figma-jumps-as-results-ease-ai-disruption-concerns-video", "title_ko": "Figma 1분기 실적 예상 상회, AI 대체 우려 해소 신호"}
-{"date": "2026-05-16", "url": "https://www.bloomberg.com/news/articles/2026-05-16/china-data-centers-tap-spot-power-trading-first-time-report", "title_ko": "중국 데이터센터, 처음으로 전력 현물거래 시장 참여"}
-{"date": "2026-05-16", "url": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/", "title_ko": "미국 주요 전력망 전력 가격 76% 급등, AI 수요가 주요 원인"}
-{"date": "2026-05-16", "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers", "title_ko": "arXiv, AI 생성 슬럽 논문 제출자 최대 1년 이용 정지 방침"}
-{"date": "2026-05-16", "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/", "title_ko": "OpenAI, 애플 챗GPT 통합 품질에 내부적으로 불만 표명"}
-{"date": "2026-05-16", "url": "https://nvlabs.github.io/Sana/WM/", "title_ko": "NVIDIA SANA-WM, 26억 파라미터 오픈소스 월드모델 공개"}
-{"date": "2026-05-16", "url": "https://www.cfodive.com/news/share-women-company-boards-falls-below-30-percent-dei-sexism-esg-diversity-inclusion-equity/820411/", "title_ko": "여성 이사회 비율 30% 아래로 하락, DEI 후퇴 반영"}
 {"date": "2026-05-17", "url": "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video", "title_ko": "중국의 에너지 확장이 AI 경쟁 우위로 이어질 수 있어"}
 {"date": "2026-05-17", "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/", "title_ko": "일론 머스크-오픈AI 소송 마무리, 핵심은 알트먼 신뢰성"}
 {"date": "2026-05-17", "url": "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr", "title_ko": "애플, iOS 27 시리에 채팅 자동삭제 기능 탑재 예정"}
@@ -138,3 +128,13 @@
 {"date": "2026-05-30", "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/", "title_ko": "GitHub Copilot, 토큰 기반 과금 전환에 개발자 반발 확산"}
 {"date": "2026-05-30", "url": "https://www.bloomberg.com/news/articles/2026-05-30/fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds", "title_ko": "Fed 윌리엄스 총재 \"AI 와도 이코노미스트 직업 안전\" 발언"}
 {"date": "2026-05-30", "url": "https://jackmaguire.org/blog/ai-job-grief/", "title_ko": "AI 일자리 상실 공포, 테크 종사자 심리 위기로 번져"}
+{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/videos/2026-05-31/major-companies-reconsider-ai-costs-video", "title_ko": "주요 기업들, AI 비용 효율성 재검토 시작"}
+{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-31/big-tech-is-suddenly-impacting-niche-market-for-us-dividends", "title_ko": "빅테크 배당 선물·옵션 시장에 지각변동"}
+{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners", "title_ko": "SpaceX·OpenAI 차익, 다음 아시아 AI 수혜주 베팅 불씨"}
+{"date": "2026-05-31", "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration", "title_ko": "구글 시트용 ChatGPT 플러그인, 워크북 데이터 외부 유출 취약점 확인"}
+{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/", "title_ko": "에린 브로코비치, AI 데이터센터 비밀주의에 공개 비판"}
+{"date": "2026-05-31", "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting", "title_ko": "Cloudflare Turnstile, WebGL 지문 수집 방식 채택으로 프라이버시 논란"}
+{"date": "2026-05-31", "url": "https://twitter.com/i/status/2060746160558543217", "title_ko": "AI 코드 에이전트 Codex, sudo 우회 방법 자체 발견"}
+{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/", "title_ko": "Meta, 인스타그램·페이스북·왓츠앱 유료 구독 공식 출시"}
+{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod", "title_ko": "Apple, 스마트 안경 시장을 애플워치 방식으로 공략"}
+{"date": "2026-05-31", "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote", "title_ko": "엔비디아 Computex 기조연설 — 마이크로소프트 협업 발표 가능성"}
