@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-31",
-  "ts": "1780186006.492899",
+  "date": "2026-06-01",
+  "ts": "1780272724.205239",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://openrouter.ai/announcements/series-b",
-    "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally",
-    "https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback",
-    "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek"
+    "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
+    "https://www.bloomberg.com/news/videos/2026-05-31/major-companies-reconsider-ai-costs-video",
+    "https://prismml.com/news/bonsai-image-4b",
+    "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+    "https://github.com/pewdiepie-archdaemon/odysseus",
+    "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
   ]
 }
