@@ -1,10 +1,3 @@
-{"date": "2026-05-18", "url": "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr", "title_ko": "Apple, iOS 27 Siri 앱에 대화 자동 삭제 기능 탑재 예정"}
-{"date": "2026-05-18", "url": "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video", "title_ko": "중국 에너지 인프라 확장, AI 패권 경쟁의 새 변수로 부상"}
-{"date": "2026-05-18", "url": "https://github.com/MinishLab/semble", "title_ko": "Semble, 에이전트용 코드 검색 도구 — grep 대비 토큰 98% 절감"}
-{"date": "2026-05-18", "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment", "title_ko": "AI에 대한 대중 반감 급증 — Axios 여론조사 분석"}
-{"date": "2026-05-18", "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product", "title_ko": "Daring Fireball: AI는 기술이지 제품이 아니다"}
-{"date": "2026-05-18", "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys", "title_ko": "드라이브스루 챗봇 도입, 오프라인 서비스 AI 자동화 확산의 시작"}
-{"date": "2026-05-18", "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode", "title_ko": "Microsoft, Teams Together Mode 종료 — AI 기반 간소화 전략으로 선회"}
 {"date": "2026-05-19", "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/", "title_ko": "Anthropic, SDK 자동화 스타트업 Stainless 인수"}
 {"date": "2026-05-19", "url": "https://www.bloomberg.com/news/articles/2026-05-18/meta-moves-7-000-workers-into-ai-roles-ahead-of-job-cuts", "title_ko": "Meta, 직원 7,000명 AI 직군으로 전환 — 동시에 감원 예고"}
 {"date": "2026-05-19", "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm", "title_ko": "AI 칩 스타트업 Tenstorrent, Intel·Qualcomm 인수 관심 유치"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-01", "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches", "title_ko": "Apple, 스마트 글래스 시장을 애플워치 전략으로 공략 예고"}
 {"date": "2026-06-01", "url": "https://github.com/pewdiepie-archdaemon/odysseus", "title_ko": "Odysseus, 셀프 호스팅 AI 워크스페이스 오픈소스 공개"}
 {"date": "2026-06-01", "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai", "title_ko": "AI 시대 프로토타이핑 속도 변화, 개발자 생산성 논의 확산"}
+{"date": "2026-06-02", "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/", "title_ko": "OpenAI 프론티어 모델·Codex, AWS에서 공식 제공 시작"}
+{"date": "2026-06-02", "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/", "title_ko": "GitHub Copilot, 사용량 기반 과금 전환에 사용자 반발 확산"}
+{"date": "2026-06-02", "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/", "title_ko": "Nvidia, RTX Spark으로 ARM 기반 AI PC 시장 진입 — Microsoft·Dell·HP 탑재"}
+{"date": "2026-06-02", "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on", "title_ko": "Google Gemini Spark, '24/7 AI 에이전트' 출시 — 실사용 평가는 엇갈려"}
+{"date": "2026-06-02", "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked", "title_ko": "Meta AI 지원 챗봇 악용해 Instagram 계정 탈취 — AI 거버넌스 사고 사례"}
+{"date": "2026-06-02", "url": "https://www.cfodive.com/spons/cfos-are-being-asked-to-fund-ai-before-they-can-measure-its-return/821532/", "title_ko": "CFO, AI ROI 측정 전에 투자 집행 요구받는 구조적 딜레마"}
+{"date": "2026-06-02", "url": "https://www.anthropic.com/news/confidential-draft-s1-sec", "title_ko": "Anthropic, SEC에 IPO 초안 제출 — Claude 수요 급증 속 OpenAI와 상장 경쟁"}

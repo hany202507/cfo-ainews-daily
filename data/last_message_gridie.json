@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-01",
-  "ts": "1780272724.205239",
+  "date": "2026-06-02",
+  "ts": "1780359574.888799",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-    "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
-    "https://www.bloomberg.com/news/videos/2026-05-31/major-companies-reconsider-ai-costs-video",
-    "https://prismml.com/news/bonsai-image-4b",
-    "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
-    "https://github.com/pewdiepie-archdaemon/odysseus",
-    "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+    "https://www.cfodive.com/spons/cfos-are-being-asked-to-fund-ai-before-they-can-measure-its-return/821532/",
+    "https://www.anthropic.com/news/confidential-draft-s1-sec"
   ]
 }
