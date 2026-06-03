@@ -1,10 +1,3 @@
-{"date": "2026-05-19", "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/", "title_ko": "Anthropic, SDK 자동화 스타트업 Stainless 인수"}
-{"date": "2026-05-19", "url": "https://www.bloomberg.com/news/articles/2026-05-18/meta-moves-7-000-workers-into-ai-roles-ahead-of-job-cuts", "title_ko": "Meta, 직원 7,000명 AI 직군으로 전환 — 동시에 감원 예고"}
-{"date": "2026-05-19", "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm", "title_ko": "AI 칩 스타트업 Tenstorrent, Intel·Qualcomm 인수 관심 유치"}
-{"date": "2026-05-19", "url": "https://modal.com/blog/truly-serverless-gpus", "title_ko": "Modal, GPU 서버리스 콜드스타트 40배 단축 기술 공개"}
-{"date": "2026-05-19", "url": "https://www.bloomberg.com/news/articles/2026-05-18/apple-ios-27-ai-writing-grammar-help-new-shortcuts-app-custom-wallpapers", "title_ko": "Apple, iOS 27에 AI 문법 교정·앱 숏컷 등 다수 AI 기능 탑재 예정"}
-{"date": "2026-05-19", "url": "https://www.cfodive.com/spons/from-oversight-to-ownership-the-cfos-new-role-in-ai/820030/", "title_ko": "CFO Dive: CFO의 AI 역할, '감독'에서 '오너십'으로 전환"}
-{"date": "2026-05-19", "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/", "title_ko": "Ars Technica: AI 슬롭, 버그 바운티 프로그램 운영 압박 가중"}
 {"date": "2026-05-20", "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/", "title_ko": "Google I/O 2026: Gemini 3.5 Flash, 에이전트 중심 AI 전략 공개"}
 {"date": "2026-05-20", "url": "https://twitter.com/karpathy/status/2056753169888334312", "title_ko": "Karpathy, Anthropic 합류 공식 발표"}
 {"date": "2026-05-20", "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/", "title_ko": "Google AI Studio, 분 단위 Android 앱 생성 기능 공개"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-02", "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked", "title_ko": "Meta AI 지원 챗봇 악용해 Instagram 계정 탈취 — AI 거버넌스 사고 사례"}
 {"date": "2026-06-02", "url": "https://www.cfodive.com/spons/cfos-are-being-asked-to-fund-ai-before-they-can-measure-its-return/821532/", "title_ko": "CFO, AI ROI 측정 전에 투자 집행 요구받는 구조적 딜레마"}
 {"date": "2026-06-02", "url": "https://www.anthropic.com/news/confidential-draft-s1-sec", "title_ko": "Anthropic, SEC에 IPO 초안 제출 — Claude 수요 급증 속 OpenAI와 상장 경쟁"}
+{"date": "2026-06-03", "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements", "title_ko": "Microsoft Build 2026, MAI-Thinking-1·Scout·Solara 등 AI 제품 대거 공개"}
+{"date": "2026-06-03", "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/", "title_ko": "OpenAI, Codex에 화이트칼라 직무별 AI 플러그인 6종 출시"}
+{"date": "2026-06-03", "url": "https://microsoft.ai/news/introducingmai-code-1-flash/", "title_ko": "Microsoft, MAI-Code-1-Flash 코딩 모델 출시"}
+{"date": "2026-06-03", "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/", "title_ko": "Microsoft, AI 에이전트 행동 정책 파일로 제어하는 개발자 도구 공개"}
+{"date": "2026-06-03", "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/", "title_ko": "Uber, AI 도구 비용 폭증으로 4개월 만에 예산 초과 — 사용 상한 도입"}
+{"date": "2026-06-03", "url": "https://www.cfodive.com/news/cisco-ai-models-research-multi-turn-prompt-attacks/821716/", "title_ko": "Cisco 연구, 주요 AI 모델이 멀티턴 프롬프트 공격에 취약하다고 경고"}
+{"date": "2026-06-03", "url": "https://www.bloomberg.com/news/videos/2026-06-02/bloomberg-tech-6-2-2026-video", "title_ko": "Anthropic, IPO 비공개 파일 제출 — OpenAI 앞서 상장 레이스 가속"}

@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-02",
-  "ts": "1780359574.888799",
+  "date": "2026-06-03",
+  "ts": "1780451046.509689",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-    "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-    "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-    "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-    "https://www.cfodive.com/spons/cfos-are-being-asked-to-fund-ai-before-they-can-measure-its-return/821532/",
-    "https://www.anthropic.com/news/confidential-draft-s1-sec"
+    "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+    "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "https://www.cfodive.com/news/cisco-ai-models-research-multi-turn-prompt-attacks/821716/",
+    "https://www.bloomberg.com/news/videos/2026-06-02/bloomberg-tech-6-2-2026-video"
   ]
 }
