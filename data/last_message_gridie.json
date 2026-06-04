@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-03",
-  "ts": "1780451046.509689",
+  "date": "2026-06-04",
+  "ts": "1780537582.994339",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-    "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-    "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "https://www.cfodive.com/news/cisco-ai-models-research-multi-turn-prompt-attacks/821716/",
-    "https://www.bloomberg.com/news/videos/2026-06-02/bloomberg-tech-6-2-2026-video"
+    "https://www.cfodive.com/news/ramp-rolls-out-accounting-close-focused-ai-operating-system/821935/",
+    "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"
   ]
 }
