@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-04",
-  "ts": "1780537582.994339",
+  "date": "2026-06-05",
+  "ts": "1780618557.197139",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.cfodive.com/news/ramp-rolls-out-accounting-close-focused-ai-operating-system/821935/",
-    "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "https://www.anthropic.com/engineering/how-we-contain-claude",
-    "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-    "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"
+    "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "https://github.com/anthropics/defending-code-reference-harness",
+    "https://www.anthropic.com/institute/recursive-self-improvement",
+    "https://www.bloomberg.com/news/articles/2026-06-04/verizon-ceo-sees-ai-replacing-large-share-of-customer-service",
+    "https://www.cfodive.com/news/ai-cited-top-reason-us-job-cuts-third-straight-month/822029/",
+    "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+    "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
   ]
 }

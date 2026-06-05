@@ -1,10 +1,3 @@
-{"date": "2026-05-21", "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/", "title_ko": "Anthropic, xAI 컴퓨트 계약에 월 $12.5억 지불 — 3년 총액 $450억"}
-{"date": "2026-05-21", "url": "https://www.bloomberg.com/news/articles/2026-05-20/anthropic-on-pace-for-first-profitable-quarter-as-revenue-surges", "title_ko": "Anthropic, 첫 분기 흑자 가시권 — 매출 급증으로 손익분기점 도달 임박"}
-{"date": "2026-05-21", "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/", "title_ko": "Intuit, 3,000명 감원 — AI 중심으로 사업 재편"}
-{"date": "2026-05-21", "url": "https://qwen.ai/blog?id=qwen3.7", "title_ko": "Qwen3.7-Max 출시 — 에이전트 프론티어 선언"}
-{"date": "2026-05-21", "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/", "title_ko": "Google, 에이전트 AI로 검색 전면 재편 — I/O 2026"}
-{"date": "2026-05-21", "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/", "title_ko": "Nvidia, 분기 매출 최고치 — 다음 분기 가이던스 $910억"}
-{"date": "2026-05-21", "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/", "title_ko": "OpenAI, 80년 된 이산기하학 미해결 난제 증명 — 추론 모델 성과"}
 {"date": "2026-05-22", "url": "https://www.bloomberg.com/news/articles/2026-05-21/cursor-hits-3-billion-annual-sales-rate-ahead-of-spacex-deal", "title_ko": "Cursor, 연간 매출 $30억 돌파 — AI 코딩 도구 수요 폭증"}
 {"date": "2026-05-22", "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/", "title_ko": "Hark, $7억 시리즈A 조달 — '범용 AI 인터페이스' 플랫폼 구축"}
 {"date": "2026-05-22", "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/", "title_ko": "Google, AI 에이전트 생태계 소비자 공개 — 혼란과 기회 공존"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-04", "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/", "title_ko": "Meta, WhatsApp Business AI 에이전트 글로벌 출시 — 토큰 기반 과금 적용"}
 {"date": "2026-06-04", "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/", "title_ko": "Uber, AI 도구 월 $1,500 사용 한도 설정 — 기업 AI 툴 예산 벤치마크 신호"}
 {"date": "2026-06-04", "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/", "title_ko": "GitLab, AI 워크로드 확장 위해 직원 14% 감원·22개국 철수"}
+{"date": "2026-06-05", "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/", "title_ko": "Anthropic, IPO 앞두고 연간 매출 $470억 돌파 — AI 수익성 논란 정면 반박"}
+{"date": "2026-06-05", "url": "https://github.com/anthropics/defending-code-reference-harness", "title_ko": "Anthropic, AI 취약점 자동 탐지용 오픈소스 프레임워크 공개"}
+{"date": "2026-06-05", "url": "https://www.anthropic.com/institute/recursive-self-improvement", "title_ko": "Anthropic, AI 재귀적 자기개선 진행 상황 공개 보고서 발표"}
+{"date": "2026-06-05", "url": "https://www.bloomberg.com/news/articles/2026-06-04/verizon-ceo-sees-ai-replacing-large-share-of-customer-service", "title_ko": "Verizon CEO, AI가 고객 서비스 인력 '상당 비율' 대체할 것 공언"}
+{"date": "2026-06-05", "url": "https://www.cfodive.com/news/ai-cited-top-reason-us-job-cuts-third-straight-month/822029/", "title_ko": "AI, 미국 감원 이유 3개월 연속 1위 — 5월 한 달 3만 8천 명 직격"}
+{"date": "2026-06-05", "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles", "title_ko": "TSMC CEO, AI 수요 폭증에 '공급 한계' 공개 인정"}
+{"date": "2026-06-05", "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/", "title_ko": "Meta, 텐트형 데이터센터로 건설 비용·기간 단축 전략 채택"}
