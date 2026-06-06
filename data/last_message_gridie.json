@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-05",
-  "ts": "1780618557.197139",
+  "date": "2026-06-06",
+  "ts": "1780704877.099139",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "https://github.com/anthropics/defending-code-reference-harness",
-    "https://www.anthropic.com/institute/recursive-self-improvement",
-    "https://www.bloomberg.com/news/articles/2026-06-04/verizon-ceo-sees-ai-replacing-large-share-of-customer-service",
-    "https://www.cfodive.com/news/ai-cited-top-reason-us-job-cuts-third-straight-month/822029/",
-    "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-    "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
+    "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic",
+    "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+    "https://news.ycombinator.com/item?id=48414869",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "https://www.cfodive.com/news/ais-paradox-skeptical-cfos-will-help-win-arms-race/822167/"
   ]
 }

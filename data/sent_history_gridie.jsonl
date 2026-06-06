@@ -1,10 +1,3 @@
-{"date": "2026-05-22", "url": "https://www.bloomberg.com/news/articles/2026-05-21/cursor-hits-3-billion-annual-sales-rate-ahead-of-spacex-deal", "title_ko": "Cursor, 연간 매출 $30억 돌파 — AI 코딩 도구 수요 폭증"}
-{"date": "2026-05-22", "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/", "title_ko": "Hark, $7억 시리즈A 조달 — '범용 AI 인터페이스' 플랫폼 구축"}
-{"date": "2026-05-22", "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/", "title_ko": "Google, AI 에이전트 생태계 소비자 공개 — 혼란과 기회 공존"}
-{"date": "2026-05-22", "url": "https://www.bloomberg.com/news/articles/2026-05-21/workday-rallies-after-results-quiet-fears-of-ai-disruption", "title_ko": "Workday, 1Q 어닝 서프라이즈 — AI 대체 우려 일단 불식"}
-{"date": "2026-05-22", "url": "https://www.bloomberg.com/news/articles/2026-05-21/pentagon-tests-rival-ai-models-in-race-to-replace-anthropic", "title_ko": "펜타곤, Anthropic 대체 AI 모델 경쟁 테스트 착수"}
-{"date": "2026-05-22", "url": "https://www.runtm.com/", "title_ko": "Runtime (YC P26), 팀 전체를 위한 샌드박스 코딩 에이전트 런칭"}
-{"date": "2026-05-22", "url": "https://arxiv.org/abs/2605.12460", "title_ko": "LLM 멀티스트림 아키텍처 논문 — 프롬프트·추론·I/O 병렬화 제안"}
 {"date": "2026-05-23", "url": "https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week", "title_ko": "Anthropic, 기업가치 $900B 이상으로 $30B+ 투자 라운드 마감 임박"}
 {"date": "2026-05-23", "url": "https://www.cfodive.com/news/intuit-slash-workforce-layoffs-labor-generativeai/821040/", "title_ko": "Intuit, AI 전환 명분으로 전체 인력 17% 감원 단행"}
 {"date": "2026-05-23", "url": "https://arxiv.org/abs/2605.22001", "title_ko": "Multi-Agent LLM 시스템서 도메인 위장 프롬프트 인젝션 탐지 회피 연구 발표"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-05", "url": "https://www.cfodive.com/news/ai-cited-top-reason-us-job-cuts-third-straight-month/822029/", "title_ko": "AI, 미국 감원 이유 3개월 연속 1위 — 5월 한 달 3만 8천 명 직격"}
 {"date": "2026-06-05", "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles", "title_ko": "TSMC CEO, AI 수요 폭증에 '공급 한계' 공개 인정"}
 {"date": "2026-06-05", "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/", "title_ko": "Meta, 텐트형 데이터센터로 건설 비용·기간 단축 전략 채택"}
+{"date": "2026-06-06", "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/", "title_ko": "AI 토큰 비용 폭증, 업계 비용 통제 체계 구축 총력"}
+{"date": "2026-06-06", "url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic", "title_ko": "Apollo·Blackstone, Anthropic AI 칩 구매에 $350억 부채 파이낸싱 완료"}
+{"date": "2026-06-06", "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/", "title_ko": "Google, SpaceX와 월 $9.2억 컴퓨트 계약 체결"}
+{"date": "2026-06-06", "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/", "title_ko": "Microsoft Scout, 사용자 '중독' 설계 지향 AI 개인비서로 출시"}
+{"date": "2026-06-06", "url": "https://news.ycombinator.com/item?id=48414869", "title_ko": "General Instinct (YC P26), 엣지 디바이스용 프론티어 모델 인프라 출시"}
+{"date": "2026-06-06", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/", "title_ko": "Google Gemma 4 QAT 모델, 모바일·랩탑 효율 최적화 공개"}
+{"date": "2026-06-06", "url": "https://www.cfodive.com/news/ais-paradox-skeptical-cfos-will-help-win-arms-race/822167/", "title_ko": "CFO의 AI 회의론이 오히려 AI 도입 경쟁 우위 된다"}
