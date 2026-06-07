@@ -1,10 +1,3 @@
-{"date": "2026-05-23", "url": "https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week", "title_ko": "Anthropic, 기업가치 $900B 이상으로 $30B+ 투자 라운드 마감 임박"}
-{"date": "2026-05-23", "url": "https://www.cfodive.com/news/intuit-slash-workforce-layoffs-labor-generativeai/821040/", "title_ko": "Intuit, AI 전환 명분으로 전체 인력 17% 감원 단행"}
-{"date": "2026-05-23", "url": "https://arxiv.org/abs/2605.22001", "title_ko": "Multi-Agent LLM 시스템서 도메인 위장 프롬프트 인젝션 탐지 회피 연구 발표"}
-{"date": "2026-05-23", "url": "https://www.anthropic.com/research/glasswing-initial-update", "title_ko": "Anthropic, Project Glasswing 초기 업데이트 공개"}
-{"date": "2026-05-23", "url": "https://api-docs.deepseek.com/quick_start/pricing", "title_ko": "DeepSeek, V4 Pro 가격 영구 인하 확정"}
-{"date": "2026-05-23", "url": "https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion", "title_ko": "Zoom, Anthropic 투자로 $1B 수익 달성 — AI 전략 투자 성과 가시화"}
-{"date": "2026-05-23", "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/", "title_ko": "AI 스타트업 ARR 과장 관행 — VC·창업자 공모 실태 조명"}
 {"date": "2026-05-24", "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video", "title_ko": "Google, Gemini Omni — 영상·이미지·텍스트 통합 AI 모델 공개"}
 {"date": "2026-05-24", "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model", "title_ko": "DeepSeek, 플래그십 V4-Pro 모델 가격 75% 영구 인하"}
 {"date": "2026-05-24", "url": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly", "title_ko": "하이퍼스케일러, AI 투자 자금 조달 위해 수천억 달러 채권 발행 러시"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-06", "url": "https://news.ycombinator.com/item?id=48414869", "title_ko": "General Instinct (YC P26), 엣지 디바이스용 프론티어 모델 인프라 출시"}
 {"date": "2026-06-06", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/", "title_ko": "Google Gemma 4 QAT 모델, 모바일·랩탑 효율 최적화 공개"}
 {"date": "2026-06-06", "url": "https://www.cfodive.com/news/ais-paradox-skeptical-cfos-will-help-win-arms-race/822167/", "title_ko": "CFO의 AI 회의론이 오히려 AI 도입 경쟁 우위 된다"}
+{"date": "2026-06-07", "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/", "title_ko": "OpenAI, 프롬프트 인젝션 차단 '락다운 모드' 출시"}
+{"date": "2026-06-07", "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/", "title_ko": "Apple WWDC 2026, Siri 전면 개편 및 Apple Intelligence 업데이트 예고"}
+{"date": "2026-06-07", "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/", "title_ko": "Computex 2026, '에이전틱 PC 시대' 도래 여부 점검"}
+{"date": "2026-06-07", "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles", "title_ko": "Meta, AI 생성 클릭베이트 뉴스피드 'For You' 섹션 도입"}
+{"date": "2026-06-07", "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/", "title_ko": "Meta AI 챗봇 악용, 수천 개 인스타그램 계정 해킹 확인"}
+{"date": "2026-06-07", "url": "https://www.bloomberg.com/news/videos/2026-06-06/trump-shows-interest-in-us-owning-stakes-in-top-ai-labs-video", "title_ko": "트럼프, 미국 정부의 주요 AI 랩 지분 취득 의향 시사"}
+{"date": "2026-06-07", "url": "https://www.bloomberg.com/news/articles/2026-06-06/elon-musk-to-attend-asml-s-private-tech-event-to-discuss-terafab", "title_ko": "Elon Musk, ASML 비공개 기술 행사서 'Terafab' 프로젝트 논의 예정"}
