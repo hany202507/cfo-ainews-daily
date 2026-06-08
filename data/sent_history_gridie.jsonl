@@ -1,10 +1,3 @@
-{"date": "2026-05-24", "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video", "title_ko": "Google, Gemini Omni — 영상·이미지·텍스트 통합 AI 모델 공개"}
-{"date": "2026-05-24", "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model", "title_ko": "DeepSeek, 플래그십 V4-Pro 모델 가격 75% 영구 인하"}
-{"date": "2026-05-24", "url": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly", "title_ko": "하이퍼스케일러, AI 투자 자금 조달 위해 수천억 달러 채권 발행 러시"}
-{"date": "2026-05-24", "url": "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown", "title_ko": "Nvidia CEO, 대만 AI 서버 컴플라이언스 위반 사태 이후 Super Micro에 내부통제 강화 촉구"}
-{"date": "2026-05-24", "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/", "title_ko": "Ferrari, IBM AI로 F1 팬 경험 초개인화 — B2B AI 운영 사례"}
-{"date": "2026-05-24", "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/", "title_ko": "Peec, AI 검색 내 브랜드 노출 추적 SaaS로 ARR $10M 돌파"}
-{"date": "2026-05-24", "url": "https://horace.io/brrr_intro.html", "title_ko": "딥러닝 연산 최적화 원리 총정리 — GPU 활용 실전 가이드"}
 {"date": "2026-05-25", "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares", "title_ko": "AI 칩 컴포넌트 비용의 3분의 2를 메모리가 차지"}
 {"date": "2026-05-25", "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots", "title_ko": "해커들, AI 챗봇 '퍼소나' 취약점 악용 기법 고도화"}
 {"date": "2026-05-25", "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/", "title_ko": "AI 보안, Google도 실시간으로 대응 중 — 업계 전반 과제 확인"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-07", "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/", "title_ko": "Meta AI 챗봇 악용, 수천 개 인스타그램 계정 해킹 확인"}
 {"date": "2026-06-07", "url": "https://www.bloomberg.com/news/videos/2026-06-06/trump-shows-interest-in-us-owning-stakes-in-top-ai-labs-video", "title_ko": "트럼프, 미국 정부의 주요 AI 랩 지분 취득 의향 시사"}
 {"date": "2026-06-07", "url": "https://www.bloomberg.com/news/articles/2026-06-06/elon-musk-to-attend-asml-s-private-tech-event-to-discuss-terafab", "title_ko": "Elon Musk, ASML 비공개 기술 행사서 'Terafab' 프로젝트 논의 예정"}
+{"date": "2026-06-08", "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/", "title_ko": "OpenAI, '챗은 죽었다'며 슈퍼앱 개발 지속 중"}
+{"date": "2026-06-08", "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27", "title_ko": "Apple, WWDC 2026 앞두고 내부 비밀 회의로 AI 진지하게 전환"}
+{"date": "2026-06-08", "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/", "title_ko": "토큰 가격 인상 시대 도래—'Tokenpocalypse' 경고"}
+{"date": "2026-06-08", "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips", "title_ko": "Nvidia·SK Hynix, 차세대 AI 메모리 칩 다년 협력 체결"}
+{"date": "2026-06-08", "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/", "title_ko": "Notion, Anthropic 서비스 중단 후 접속 복구 완료"}
+{"date": "2026-06-08", "url": "https://www.bloomberg.com/news/articles/2026-06-07/naver-to-use-nvidia-s-ai-models-in-bid-to-cement-lead-in-korea", "title_ko": "Naver, Nvidia AI 모델 기반 데이터센터 구축으로 한국 AI 시장 주도권 강화"}
+{"date": "2026-06-08", "url": "https://www.bloomberg.com/news/videos/2026-06-07/why-an-ai-death-spiral-threatens-the-internet-video", "title_ko": "AI '데스 스파이럴': 제로클릭 검색이 인터넷 콘텐츠 생태계 위협"}
