@@ -1,10 +1,3 @@
-{"date": "2026-05-25", "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares", "title_ko": "AI 칩 컴포넌트 비용의 3분의 2를 메모리가 차지"}
-{"date": "2026-05-25", "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots", "title_ko": "해커들, AI 챗봇 '퍼소나' 취약점 악용 기법 고도화"}
-{"date": "2026-05-25", "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/", "title_ko": "AI 보안, Google도 실시간으로 대응 중 — 업계 전반 과제 확인"}
-{"date": "2026-05-25", "url": "https://esengine.github.io/DeepSeek-Reasonix/", "title_ko": "DeepSeek Reasonix, 고캐싱·저비용 네이티브 코딩 에이전트 공개"}
-{"date": "2026-05-25", "url": "https://arxiv.org/abs/2605.06445", "title_ko": "LLM 에이전트 백엔드 코드 생성 시 제약 조건 붕괴 현상 연구"}
-{"date": "2026-05-25", "url": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says", "title_ko": "ECB, AI 모델이 드러낸 IT 보안 취약점 해결 위해 은행권 긴급 소집"}
-{"date": "2026-05-25", "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/", "title_ko": "Amazon Bee AI 웨어러블, 편의성과 프라이버시 불안 사이"}
 {"date": "2026-05-26", "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files", "title_ko": "Microsoft Copilot Cowork, 파일 외부 유출 취약점 공개"}
 {"date": "2026-05-26", "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/", "title_ko": "ClickUp, 대규모 감원 후 AI 에이전트 수천 개로 대체"}
 {"date": "2026-05-26", "url": "https://support.apple.com/en-us/127115", "title_ko": "Claude, Apple macOS 커널 취약점(CVE-2026-28952) 발견"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-08", "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/", "title_ko": "Notion, Anthropic 서비스 중단 후 접속 복구 완료"}
 {"date": "2026-06-08", "url": "https://www.bloomberg.com/news/articles/2026-06-07/naver-to-use-nvidia-s-ai-models-in-bid-to-cement-lead-in-korea", "title_ko": "Naver, Nvidia AI 모델 기반 데이터센터 구축으로 한국 AI 시장 주도권 강화"}
 {"date": "2026-06-08", "url": "https://www.bloomberg.com/news/videos/2026-06-07/why-an-ai-death-spiral-threatens-the-internet-video", "title_ko": "AI '데스 스파이럴': 제로클릭 검색이 인터넷 콘텐츠 생태계 위협"}
+{"date": "2026-06-09", "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/", "title_ko": "Apple WWDC 2026, Siri AI 전면 개편 — Google Gemini 기반 2단계 아키텍처 공개"}
+{"date": "2026-06-09", "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/", "title_ko": "OpenAI, SEC에 S-1 기밀 제출 — Anthropic에 이어 IPO 레이스 본격화"}
+{"date": "2026-06-09", "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/", "title_ko": "OpenAI, ChatGPT 전면 개편 예고 — \"Chat is dead\", 에이전트·고마진 제품 중심으로 전환"}
+{"date": "2026-06-09", "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/", "title_ko": "Google NotebookLM, Gemini 3.5·Antigravity 기능 업그레이드 — AI Ultra·엔터프라이즈 우선 출시"}
+{"date": "2026-06-09", "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps", "title_ko": "Xiaomi MiMo-v2.5-Pro-UltraSpeed, 1조 파라미터 모델 1000 토큰/초 추론 속도 달성"}
+{"date": "2026-06-09", "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/", "title_ko": "Microsoft 오픈소스 AI 개발 도구 해킹 — AI 개발자 패스워드 탈취 패키지 73개 유포"}
+{"date": "2026-06-09", "url": "https://www.cfodive.com/news/aicpa-tackles-accounting-predictions-ai-era/822301/", "title_ko": "AICPA, 회계 산업 AI 전환 4대 예측 발표 — 44페이지 크라우드소싱 보고서"}
