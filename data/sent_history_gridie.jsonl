@@ -1,10 +1,3 @@
-{"date": "2026-05-26", "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files", "title_ko": "Microsoft Copilot Cowork, 파일 외부 유출 취약점 공개"}
-{"date": "2026-05-26", "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/", "title_ko": "ClickUp, 대규모 감원 후 AI 에이전트 수천 개로 대체"}
-{"date": "2026-05-26", "url": "https://support.apple.com/en-us/127115", "title_ko": "Claude, Apple macOS 커널 취약점(CVE-2026-28952) 발견"}
-{"date": "2026-05-26", "url": "https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift", "title_ko": "월스트리트 은행, AI 에이전트 전환 컨설턴트에 일당 $25,000 지불"}
-{"date": "2026-05-26", "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc", "title_ko": "Huawei, TSMC 격차 좁힐 첨단 반도체 제조 돌파구 발표"}
-{"date": "2026-05-26", "url": "https://www.bloomberg.com/news/articles/2026-05-25/softbank-shares-hit-record-high-with-lift-from-openai-ipo-hopes", "title_ko": "SoftBank 주가 사상 최고, OpenAI IPO 기대감 반영"}
-{"date": "2026-05-26", "url": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand", "title_ko": "Sakura Internet, AI 데이터센터 수요 대응 위해 capex 7배 확대 검토"}
 {"date": "2026-05-27", "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/", "title_ko": "OpenRouter, 6개월 만에 사용량 5배 성장·밸류 13억 달러로 Series B 완료"}
 {"date": "2026-05-27", "url": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation", "title_ko": "Fireworks AI, 150억 달러 밸류에이션으로 신규 펀딩 협상 중"}
 {"date": "2026-05-27", "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/", "title_ko": "Starlette 오픈소스 패키지 'BadHost' 취약점, 수백만 AI 에이전트 위험에 노출"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-09", "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps", "title_ko": "Xiaomi MiMo-v2.5-Pro-UltraSpeed, 1조 파라미터 모델 1000 토큰/초 추론 속도 달성"}
 {"date": "2026-06-09", "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/", "title_ko": "Microsoft 오픈소스 AI 개발 도구 해킹 — AI 개발자 패스워드 탈취 패키지 73개 유포"}
 {"date": "2026-06-09", "url": "https://www.cfodive.com/news/aicpa-tackles-accounting-predictions-ai-era/822301/", "title_ko": "AICPA, 회계 산업 AI 전환 4대 예측 발표 — 44페이지 크라우드소싱 보고서"}
+{"date": "2026-06-10", "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos", "title_ko": "Anthropic, Mythos급 모델 Claude Fable 5 공개 출시"}
+{"date": "2026-06-10", "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/", "title_ko": "Apple WWDC 2026, iOS 27·Siri AI 전면 개편 발표"}
+{"date": "2026-06-10", "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/", "title_ko": "Google, Gemini 3.5 Live Translate 음성-음성 실시간 번역 발표"}
+{"date": "2026-06-10", "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/", "title_ko": "Lovable, 연 ARR $500M·주 100만 프로젝트 돌파"}
+{"date": "2026-06-10", "url": "https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment", "title_ko": "Super Micro, AI 서버 부품 확보위해 $70억 주식 발행 추진"}
+{"date": "2026-06-10", "url": "https://www.cfodive.com/news/inside-bristol-myers-ai-powered-procurement-overhaul/822188/", "title_ko": "Bristol Myers Squibb, AI 기반 조달 프로세스 개편으로 수개월→수주 단축"}
+{"date": "2026-06-10", "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/", "title_ko": "Meta, 스마트 글래스서 얼굴인식 코드 발견 하루 만에 삭제"}
