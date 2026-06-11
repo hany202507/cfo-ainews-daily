@@ -1,10 +1,3 @@
-{"date": "2026-05-27", "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/", "title_ko": "OpenRouter, 6개월 만에 사용량 5배 성장·밸류 13억 달러로 Series B 완료"}
-{"date": "2026-05-27", "url": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation", "title_ko": "Fireworks AI, 150억 달러 밸류에이션으로 신규 펀딩 협상 중"}
-{"date": "2026-05-27", "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/", "title_ko": "Starlette 오픈소스 패키지 'BadHost' 취약점, 수백만 AI 에이전트 위험에 노출"}
-{"date": "2026-05-27", "url": "https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance", "title_ko": "Qualcomm, ByteDance AI 데이터센터에 칩 공급 계약 체결"}
-{"date": "2026-05-27", "url": "https://www.cfodive.com/news/poor-leadership-process-failures-sinking-ai-projects-ibm-exec/821062/", "title_ko": "IBM 임원 \"리더십·프로세스 부재가 AI 프로젝트 실패 주범\""}
-{"date": "2026-05-27", "url": "https://www.cfodive.com/news/amid-heavy-ai-use-workers-say-skills-atrophying/821087/", "title_ko": "AI 과도 사용으로 직원 스킬 퇴화 우려 확산—기업 가이드라인 필요성 부각"}
-{"date": "2026-05-27", "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/", "title_ko": "DuckDuckGo 설치 30% 급증—Google AI 검색 강제 전환 반발 확산"}
 {"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/", "title_ko": "Cognition, $1B 펀딩·$25B 밸류로 AI 코딩 에이전트 시장 장악 가속"}
 {"date": "2026-05-28", "url": "https://www.cfodive.com/news/workday-launches-ai-tool-aimed-easing-fpa-workflows/821270/", "title_ko": "Workday, FP&A 워크플로 자동화 AI 도구 출시"}
 {"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/", "title_ko": "Remote, AI 도입으로 헤드카운트 동결 후 직원 1인당 매출 50% 성장"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-10", "url": "https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment", "title_ko": "Super Micro, AI 서버 부품 확보위해 $70억 주식 발행 추진"}
 {"date": "2026-06-10", "url": "https://www.cfodive.com/news/inside-bristol-myers-ai-powered-procurement-overhaul/822188/", "title_ko": "Bristol Myers Squibb, AI 기반 조달 프로세스 개편으로 수개월→수주 단축"}
 {"date": "2026-06-10", "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/", "title_ko": "Meta, 스마트 글래스서 얼굴인식 코드 발견 하루 만에 삭제"}
+{"date": "2026-06-11", "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions", "title_ko": "Anthropic Claude Fable 5, 기본 생물학 질문도 거부하는 과도한 가드레일 논란"}
+{"date": "2026-06-11", "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/", "title_ko": "Google DeepMind, DiffusionGemma 공개 — 로컬 AI 추론 속도 4배 향상"}
+{"date": "2026-06-11", "url": "https://www.bloomberg.com/news/videos/2026-06-10/apollo-wraps-up-35b-chip-deal-for-anthropic-video", "title_ko": "Apollo·Blackstone, Anthropic AI 인프라 확장에 $350억 금융 패키지 확정"}
+{"date": "2026-06-11", "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/", "title_ko": "AI 가장 적극 도입 기업, 직원 1인당 월 $7,500 AI 지출 — Ramp 인덱스"}
+{"date": "2026-06-11", "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/", "title_ko": "Jedify, AI 에이전트에 기업 컨텍스트 제공하는 솔루션으로 $2,400만 조달"}
+{"date": "2026-06-11", "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality", "title_ko": "Apple, 새 Siri AI 출시 — 과도한 말 줄이고 간결함 강조"}
+{"date": "2026-06-11", "url": "https://www.cfodive.com/news/synthetic-identity-fraud-surges-criminals-weaponize-ai/822557/", "title_ko": "AI 무기화한 합성 신분 사기 급증 — 2026년 미국 손실 $31억 초과 전망"}

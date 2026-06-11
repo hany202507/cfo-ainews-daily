@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-10",
-  "ts": "1781050834.674769",
+  "date": "2026-06-11",
+  "ts": "1781137361.135529",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-    "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-    "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-    "https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment",
-    "https://www.cfodive.com/news/inside-bristol-myers-ai-powered-procurement-overhaul/822188/",
-    "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/"
+    "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+    "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "https://www.bloomberg.com/news/videos/2026-06-10/apollo-wraps-up-35b-chip-deal-for-anthropic-video",
+    "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+    "https://www.cfodive.com/news/synthetic-identity-fraud-surges-criminals-weaponize-ai/822557/"
   ]
 }
