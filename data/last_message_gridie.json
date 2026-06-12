@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-11",
-  "ts": "1781137361.135529",
+  "date": "2026-06-12",
+  "ts": "1781223744.074199",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-    "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "https://www.bloomberg.com/news/videos/2026-06-10/apollo-wraps-up-35b-chip-deal-for-anthropic-video",
-    "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-    "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-    "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-    "https://www.cfodive.com/news/synthetic-identity-fraud-surges-criminals-weaponize-ai/822557/"
+    "https://www.bloomberg.com/news/articles/2026-06-11/openai-weighs-major-price-cuts-to-win-anthropic-users-wsj-says",
+    "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "https://www.cfodive.com/news/oracle-expands-token-based-ai-pricing/822719/",
+    "https://www.bloomberg.com/news/articles/2026-06-11/jeff-bezos-ai-startup-valued-at-41-billion-in-funding-round",
+    "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "https://www.bloomberg.com/news/articles/2026-06-11/coreweave-ai-funding-goes-global-with-first-euro-junk-bond-deal",
+    "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/"
   ]
 }

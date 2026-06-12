@@ -1,10 +1,3 @@
-{"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/", "title_ko": "Cognition, $1B 펀딩·$25B 밸류로 AI 코딩 에이전트 시장 장악 가속"}
-{"date": "2026-05-28", "url": "https://www.cfodive.com/news/workday-launches-ai-tool-aimed-easing-fpa-workflows/821270/", "title_ko": "Workday, FP&A 워크플로 자동화 AI 도구 출시"}
-{"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/", "title_ko": "Remote, AI 도입으로 헤드카운트 동결 후 직원 1인당 매출 50% 성장"}
-{"date": "2026-05-28", "url": "https://simonwillison.net/2026/May/27/product-market-fit/", "title_ko": "Anthropic·OpenAI PMF 달성 분석 — 시장은 이미 AI에 의존"}
-{"date": "2026-05-28", "url": "https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand", "title_ko": "Snowflake, AWS와 $6B 칩 계약 체결 후 주가 30% 급등"}
-{"date": "2026-05-28", "url": "https://arps18.github.io/posts/claude-code-mastery/", "title_ko": "Claude Code 실전 운용 가이드 — Claude.md·서브에이전트·MCP 활용법"}
-{"date": "2026-05-28", "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/", "title_ko": "YouTube, AI 생성 영상 자동 라벨링 전면 도입"}
 {"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/", "title_ko": "Anthropic, Claude Opus 4.8 출시 — 서브에이전트 조율 'Dynamic Workflows' 탑재"}
 {"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/", "title_ko": "Anthropic, Series H $65B 조달 — 밸류에이션 $965B으로 OpenAI 추월"}
 {"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/", "title_ko": "인터넷이 머신 중심으로 재설계 — AWS·Cloudflare, AI 에이전트 트래픽 인프라 전환"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-11", "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/", "title_ko": "Jedify, AI 에이전트에 기업 컨텍스트 제공하는 솔루션으로 $2,400만 조달"}
 {"date": "2026-06-11", "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality", "title_ko": "Apple, 새 Siri AI 출시 — 과도한 말 줄이고 간결함 강조"}
 {"date": "2026-06-11", "url": "https://www.cfodive.com/news/synthetic-identity-fraud-surges-criminals-weaponize-ai/822557/", "title_ko": "AI 무기화한 합성 신분 사기 급증 — 2026년 미국 손실 $31억 초과 전망"}
+{"date": "2026-06-12", "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-weighs-major-price-cuts-to-win-anthropic-users-wsj-says", "title_ko": "OpenAI, Anthropic와의 경쟁 대비 대규모 가격 인하 검토 중"}
+{"date": "2026-06-12", "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail", "title_ko": "Anthropic, Claude Fable 보이지 않는 가드레일 적용에 공개 사과"}
+{"date": "2026-06-12", "url": "https://www.cfodive.com/news/oracle-expands-token-based-ai-pricing/822719/", "title_ko": "Oracle, 토큰 기반 AI 요금제 확대—30개 이상 기업 선구매"}
+{"date": "2026-06-12", "url": "https://www.bloomberg.com/news/articles/2026-06-11/jeff-bezos-ai-startup-valued-at-41-billion-in-funding-round", "title_ko": "Jeff Bezos AI 스타트업 Prometheus, 410억 달러 기업가치로 투자 유치"}
+{"date": "2026-06-12", "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/", "title_ko": "Anthropic, TCS와 파트너십으로 엔터프라이즈 AI 배포 가속화"}
+{"date": "2026-06-12", "url": "https://www.bloomberg.com/news/articles/2026-06-11/coreweave-ai-funding-goes-global-with-first-euro-junk-bond-deal", "title_ko": "CoreWeave, 유럽 정크본드 발행으로 AI 인프라 자금 글로벌 확대"}
+{"date": "2026-06-12", "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/", "title_ko": "Coinbase, MCP 기반 에이전트 트레이딩·유료 데이터 접근 도구 출시"}
