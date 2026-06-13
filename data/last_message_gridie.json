@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-12",
-  "ts": "1781223744.074199",
+  "date": "2026-06-13",
+  "ts": "1781310215.905709",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.bloomberg.com/news/articles/2026-06-11/openai-weighs-major-price-cuts-to-win-anthropic-users-wsj-says",
-    "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "https://www.cfodive.com/news/oracle-expands-token-based-ai-pricing/822719/",
-    "https://www.bloomberg.com/news/articles/2026-06-11/jeff-bezos-ai-startup-valued-at-41-billion-in-funding-round",
-    "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-    "https://www.bloomberg.com/news/articles/2026-06-11/coreweave-ai-funding-goes-global-with-first-euro-junk-bond-deal",
-    "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/"
+    "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it",
+    "https://www.cfodive.com/news/bcg-predicts-rise-vibe-coding-finance-urges-guardrails-ai/822825/",
+    "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+    "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+    "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+    "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast"
   ]
 }

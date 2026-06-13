@@ -1,10 +1,3 @@
-{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/", "title_ko": "Anthropic, Claude Opus 4.8 출시 — 서브에이전트 조율 'Dynamic Workflows' 탑재"}
-{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/", "title_ko": "Anthropic, Series H $65B 조달 — 밸류에이션 $965B으로 OpenAI 추월"}
-{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/", "title_ko": "인터넷이 머신 중심으로 재설계 — AWS·Cloudflare, AI 에이전트 트래픽 인프라 전환"}
-{"date": "2026-05-29", "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/", "title_ko": "Asana, 노코드 에이전트 빌더 StackAI 인수 — AI 워크플로 툴 강화"}
-{"date": "2026-05-29", "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign", "title_ko": "Microsoft 365 Copilot, 속도 2배·UI 리디자인 업데이트 출시"}
-{"date": "2026-05-29", "url": "https://www.bloomberg.com/news/articles/2026-05-28/dell-boosts-outlook-to-60-billion-in-ai-server-sales-this-year", "title_ko": "Dell, AI 서버 연간 매출 전망 $60B으로 상향 — 주가 40% 급등"}
-{"date": "2026-05-29", "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/", "title_ko": "오픈소스 jqwik에 AI 코딩 에이전트 겨냥 프롬프트 인젝션 삽입 사건 발생"}
 {"date": "2026-05-30", "url": "https://www.bloomberg.com/news/videos/2026-05-29/anthropic-raises-at-965b-valuation-eclipsing-openai-video", "title_ko": "Anthropic, $650억 펀딩으로 기업가치 $9,650억 — OpenAI 첫 추월"}
 {"date": "2026-05-30", "url": "https://www.bloomberg.com/news/articles/2026-05-29/bank-of-england-s-bailey-says-uk-banks-still-lack-mythos-access", "title_ko": "Anthropic Mythos, 영국 은행권 접근 차단 — BOE 총재 공개 우려"}
 {"date": "2026-05-30", "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/", "title_ko": "Groq, Nvidia $200억 딜 이후 $6.5억 추가 조달 — 인퍼런스 플랫폼 전환 가속"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-12", "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/", "title_ko": "Anthropic, TCS와 파트너십으로 엔터프라이즈 AI 배포 가속화"}
 {"date": "2026-06-12", "url": "https://www.bloomberg.com/news/articles/2026-06-11/coreweave-ai-funding-goes-global-with-first-euro-junk-bond-deal", "title_ko": "CoreWeave, 유럽 정크본드 발행으로 AI 인프라 자금 글로벌 확대"}
 {"date": "2026-06-12", "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/", "title_ko": "Coinbase, MCP 기반 에이전트 트레이딩·유료 데이터 접근 도구 출시"}
+{"date": "2026-06-13", "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/", "title_ko": "Mistral, €20B 밸류에이션으로 €3B 펀딩 라운드 추진 중"}
+{"date": "2026-06-13", "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it", "title_ko": "SpaceX, Colossus 1 데이터센터 전용량을 Anthropic에 임대"}
+{"date": "2026-06-13", "url": "https://www.cfodive.com/news/bcg-predicts-rise-vibe-coding-finance-urges-guardrails-ai/822825/", "title_ko": "BCG, 재무팀 '바이브 코딩' 부상 예측 — 거버넌스 가이드라인 촉구"}
+{"date": "2026-06-13", "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer", "title_ko": "Jeff Bezos의 Prometheus, '인공 일반 엔지니어' 목표로 $12B 조달"}
+{"date": "2026-06-13", "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/", "title_ko": "Google, Gemini 활용 중국 사이버범죄 네트워크 상대로 소송 제기"}
+{"date": "2026-06-13", "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/", "title_ko": "데이터센터 건설 프로젝트 $1,300억어치, 올해 시민 반발로 차단"}
+{"date": "2026-06-13", "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast", "title_ko": "Apple Siri, 대폭 개선 — 'Siri가 드디어 쓸만해졌다' 평가"}
