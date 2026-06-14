@@ -1,10 +1,3 @@
-{"date": "2026-05-30", "url": "https://www.bloomberg.com/news/videos/2026-05-29/anthropic-raises-at-965b-valuation-eclipsing-openai-video", "title_ko": "Anthropic, $650억 펀딩으로 기업가치 $9,650억 — OpenAI 첫 추월"}
-{"date": "2026-05-30", "url": "https://www.bloomberg.com/news/articles/2026-05-29/bank-of-england-s-bailey-says-uk-banks-still-lack-mythos-access", "title_ko": "Anthropic Mythos, 영국 은행권 접근 차단 — BOE 총재 공개 우려"}
-{"date": "2026-05-30", "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/", "title_ko": "Groq, Nvidia $200억 딜 이후 $6.5억 추가 조달 — 인퍼런스 플랫폼 전환 가속"}
-{"date": "2026-05-30", "url": "https://www.cfodive.com/news/ubers-finance-team-overtaken-engineering-ai-use/821513/", "title_ko": "Uber 재무팀, AI 예산 엔지니어링에 전부 잠식 — ROI 의문 제기"}
-{"date": "2026-05-30", "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/the-corporate-lexicon-on-ai-has-changed-from-generative-to-agentic", "title_ko": "Bloomberg: 기업 AI 화두, 'Generative'에서 'Agentic'으로 전환 확인"}
-{"date": "2026-05-30", "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b", "title_ko": "Liquid AI, 38T 토큰 학습 8B-A1B MoE 모델 공개"}
-{"date": "2026-05-30", "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/", "title_ko": "코더들 'AI 없인 일 못 해' — 코드 품질 저하 우려 확산"}
 {"date": "2026-05-31", "url": "https://openrouter.ai/announcements/series-b", "title_ko": "OpenRouter, 시리즈 B $113M 조달 — AI 모델 라우팅 인프라 급성장"}
 {"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/", "title_ko": "SoftBank, 프랑스 AI 데이터센터에 최대 €750억 투자 발표"}
 {"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/", "title_ko": "GitHub Copilot, 토큰 기반 과금 전환으로 개발자 반발 확산"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-13", "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/", "title_ko": "Google, Gemini 활용 중국 사이버범죄 네트워크 상대로 소송 제기"}
 {"date": "2026-06-13", "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/", "title_ko": "데이터센터 건설 프로젝트 $1,300억어치, 올해 시민 반발로 차단"}
 {"date": "2026-06-13", "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast", "title_ko": "Apple Siri, 대폭 개선 — 'Siri가 드디어 쓸만해졌다' 평가"}
+{"date": "2026-06-14", "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security", "title_ko": "Anthropic, Fable 5·Mythos 5 모델 전세계 접근 차단 — 미 정부 안보 명령"}
+{"date": "2026-06-14", "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/", "title_ko": "Amazon CEO, 미 정부에 Anthropic 모델 보안 우려 제기 — 규제 트리거 배경"}
+{"date": "2026-06-14", "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/", "title_ko": "OpenAI, 다수 주 검찰총장 연합 조사 대상 — 광고 정책·건강 데이터 범위"}
+{"date": "2026-06-14", "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/", "title_ko": "Meta, $2B Manus 인수 철회 수순 — 베이징 명령에 따라"}
+{"date": "2026-06-14", "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/", "title_ko": "KPMG, AI 활용 보고서 자진 철회 — 할루시네이션 사실 오류 확인"}
+{"date": "2026-06-14", "url": "https://twitter.com/jietang/status/2065784751345287314", "title_ko": "Zhipu, GLM 5.2 출시 — 중국 오픈소스 LLM 경쟁 지속"}
+{"date": "2026-06-14", "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence", "title_ko": "Apple, macOS 27 Golden Gate에서 새 Siri AI 첫 경험 공개 — Mac 통합 강화"}
