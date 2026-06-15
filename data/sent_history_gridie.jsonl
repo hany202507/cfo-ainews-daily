@@ -1,10 +1,3 @@
-{"date": "2026-05-31", "url": "https://openrouter.ai/announcements/series-b", "title_ko": "OpenRouter, 시리즈 B $113M 조달 — AI 모델 라우팅 인프라 급성장"}
-{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/", "title_ko": "SoftBank, 프랑스 AI 데이터센터에 최대 €750억 투자 발표"}
-{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/", "title_ko": "GitHub Copilot, 토큰 기반 과금 전환으로 개발자 반발 확산"}
-{"date": "2026-05-31", "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/", "title_ko": "Google, 24/7 AI 어시스턴트 Gemini Spark 실사용 리뷰 — 일상 자동화 가능성 검증"}
-{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally", "title_ko": "Dell·Nokia·Cisco 등 레거시 테크, AI 전환으로 주가 $1.7조 랠리"}
-{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback", "title_ko": "Anthropic, 비공인 주식 거래 플랫폼 목록 반 축소 — 투자자 반발 수용"}
-{"date": "2026-05-31", "url": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek", "title_ko": "중국 MiniMax, DeepSeek에 맞서 본토 IPO 준비 착수"}
 {"date": "2026-06-01", "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration", "title_ko": "ChatGPT for Google Sheets, 데이터 탈취·피싱 취약점 발견"}
 {"date": "2026-06-01", "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote", "title_ko": "Nvidia, Computex 2026 키노트서 Microsoft와 파트너십 발표 예고"}
 {"date": "2026-06-01", "url": "https://www.bloomberg.com/news/videos/2026-05-31/major-companies-reconsider-ai-costs-video", "title_ko": "주요 기업들, AI 투자비용 재검토 본격화"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-14", "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/", "title_ko": "KPMG, AI 활용 보고서 자진 철회 — 할루시네이션 사실 오류 확인"}
 {"date": "2026-06-14", "url": "https://twitter.com/jietang/status/2065784751345287314", "title_ko": "Zhipu, GLM 5.2 출시 — 중국 오픈소스 LLM 경쟁 지속"}
 {"date": "2026-06-14", "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence", "title_ko": "Apple, macOS 27 Golden Gate에서 새 Siri AI 첫 경험 공개 — Mac 통합 강화"}
+{"date": "2026-06-15", "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/", "title_ko": "Anthropic, 신규 모델 해외 접근 차단 — 인도 AI 전략 재점검 촉발"}
+{"date": "2026-06-15", "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos", "title_ko": "중국, Anthropic 최신 모델 'Mythos' 접근 가능성 — 미 백악관 수출 제한 배경 부상"}
+{"date": "2026-06-15", "url": "https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models", "title_ko": "캐나다 총리, \"Anthropic 차단은 빅 AI 의존의 리스크\" 경고"}
+{"date": "2026-06-15", "url": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video", "title_ko": "Google, AI 통합 검색으로 20년 만의 최대 개편 단행"}
+{"date": "2026-06-15", "url": "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app", "title_ko": "Ant Group, Alipay에 AI 에이전트 인터페이스 도입 — 10억 유저 슈퍼앱 전면 개편"}
+{"date": "2026-06-15", "url": "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts", "title_ko": "런던, AI로 인해 코더·변호사·금융 애널리스트 일자리 급감"}
+{"date": "2026-06-15", "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141", "title_ko": "AI는 '코드' — 프롬프트만으로 더 똑똑하게 만들 수 없다"}
