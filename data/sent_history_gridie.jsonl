@@ -1,10 +1,3 @@
-{"date": "2026-06-03", "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements", "title_ko": "Microsoft Build 2026, MAI-Thinking-1·Scout·Solara 등 AI 제품 대거 공개"}
-{"date": "2026-06-03", "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/", "title_ko": "OpenAI, Codex에 화이트칼라 직무별 AI 플러그인 6종 출시"}
-{"date": "2026-06-03", "url": "https://microsoft.ai/news/introducingmai-code-1-flash/", "title_ko": "Microsoft, MAI-Code-1-Flash 코딩 모델 출시"}
-{"date": "2026-06-03", "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/", "title_ko": "Microsoft, AI 에이전트 행동 정책 파일로 제어하는 개발자 도구 공개"}
-{"date": "2026-06-03", "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/", "title_ko": "Uber, AI 도구 비용 폭증으로 4개월 만에 예산 초과 — 사용 상한 도입"}
-{"date": "2026-06-03", "url": "https://www.cfodive.com/news/cisco-ai-models-research-multi-turn-prompt-attacks/821716/", "title_ko": "Cisco 연구, 주요 AI 모델이 멀티턴 프롬프트 공격에 취약하다고 경고"}
-{"date": "2026-06-03", "url": "https://www.bloomberg.com/news/videos/2026-06-02/bloomberg-tech-6-2-2026-video", "title_ko": "Anthropic, IPO 비공개 파일 제출 — OpenAI 앞서 상장 레이스 가속"}
 {"date": "2026-06-04", "url": "https://www.cfodive.com/news/ramp-rolls-out-accounting-close-focused-ai-operating-system/821935/", "title_ko": "Ramp, 회계·결산 특화 AI 운영 시스템 출시"}
 {"date": "2026-06-04", "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/", "title_ko": "Google, Gemma 4 12B 오픈 멀티모달 모델 공개 — 16GB RAM 노트북에서 실행 가능"}
 {"date": "2026-06-04", "url": "https://www.anthropic.com/engineering/how-we-contain-claude", "title_ko": "Anthropic, Claude 제품 내 격리 방식 공개 — 멀티 프로덕트 거버넌스 엔지니어링"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-17", "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/", "title_ko": "Microsoft Copilot, 2FA 코드 탈취 가능한 치명적 취약점 발견"}
 {"date": "2026-06-17", "url": "https://www.bloomberg.com/news/articles/2026-06-16/databricks-sales-double-for-product-that-competes-with-snowflake", "title_ko": "Databricks, Snowflake 경쟁 데이터 웨어하우징 제품 ARR $1.5B 돌파"}
 {"date": "2026-06-17", "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/", "title_ko": "미 소비자 60%, 브랜드 메시지의 'AI' 언급이 거부감 유발 — 설문 결과"}
+{"date": "2026-06-18", "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls", "title_ko": "Anthropic, 미 정부 수출통제로 최신 AI 모델 외국인 접근 전면 차단"}
+{"date": "2026-06-18", "url": "https://www.bloomberg.com/news/videos/2026-06-17/anthropic-ceo-amodei-on-compute-spend-surpassing-openai", "title_ko": "Anthropic CEO Amodei, 컴퓨트 지출 및 OpenAI 추월 전략 공개 인터뷰"}
+{"date": "2026-06-18", "url": "https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales", "title_ko": "Microsoft, 중국에 OpenAI 모델 판매로 AI 사업 본격 확장"}
+{"date": "2026-06-18", "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/", "title_ko": "Odyssey, 월드 모델로 $1.45B 밸류에이션 투자 유치 — Amazon 등 참여"}
+{"date": "2026-06-18", "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/", "title_ko": "Pramaana Labs, AI 공식 검증에 Khosla로부터 $27M 시드 유치 — 세금·법률 타깃"}
+{"date": "2026-06-18", "url": "https://www.cfodive.com/news/cfos-boost-tech-spending-despite-economic-uncertainty-grant-thornton-ai/823210/", "title_ko": "CFO 3분의 2, 경기 불확실성에도 기술·AI 지출 확대 계획 — Grant Thornton"}
+{"date": "2026-06-18", "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/", "title_ko": "Nvidia, AI 코딩 에이전트로 로봇 자율 GPU 설치·훈련 구현"}
