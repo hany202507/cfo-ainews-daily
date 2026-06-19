@@ -1,10 +1,3 @@
-{"date": "2026-06-04", "url": "https://www.cfodive.com/news/ramp-rolls-out-accounting-close-focused-ai-operating-system/821935/", "title_ko": "Ramp, 회계·결산 특화 AI 운영 시스템 출시"}
-{"date": "2026-06-04", "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/", "title_ko": "Google, Gemma 4 12B 오픈 멀티모달 모델 공개 — 16GB RAM 노트북에서 실행 가능"}
-{"date": "2026-06-04", "url": "https://www.anthropic.com/engineering/how-we-contain-claude", "title_ko": "Anthropic, Claude 제품 내 격리 방식 공개 — 멀티 프로덕트 거버넌스 엔지니어링"}
-{"date": "2026-06-04", "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/", "title_ko": "Lovable, Google Cloud와 멀티이어 계약 — Claude 접근 확대·사용량 5배 확장"}
-{"date": "2026-06-04", "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/", "title_ko": "Meta, WhatsApp Business AI 에이전트 글로벌 출시 — 토큰 기반 과금 적용"}
-{"date": "2026-06-04", "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/", "title_ko": "Uber, AI 도구 월 $1,500 사용 한도 설정 — 기업 AI 툴 예산 벤치마크 신호"}
-{"date": "2026-06-04", "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/", "title_ko": "GitLab, AI 워크로드 확장 위해 직원 14% 감원·22개국 철수"}
 {"date": "2026-06-05", "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/", "title_ko": "Anthropic, IPO 앞두고 연간 매출 $470억 돌파 — AI 수익성 논란 정면 반박"}
 {"date": "2026-06-05", "url": "https://github.com/anthropics/defending-code-reference-harness", "title_ko": "Anthropic, AI 취약점 자동 탐지용 오픈소스 프레임워크 공개"}
 {"date": "2026-06-05", "url": "https://www.anthropic.com/institute/recursive-self-improvement", "title_ko": "Anthropic, AI 재귀적 자기개선 진행 상황 공개 보고서 발표"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-18", "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/", "title_ko": "Pramaana Labs, AI 공식 검증에 Khosla로부터 $27M 시드 유치 — 세금·법률 타깃"}
 {"date": "2026-06-18", "url": "https://www.cfodive.com/news/cfos-boost-tech-spending-despite-economic-uncertainty-grant-thornton-ai/823210/", "title_ko": "CFO 3분의 2, 경기 불확실성에도 기술·AI 지출 확대 계획 — Grant Thornton"}
 {"date": "2026-06-18", "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/", "title_ko": "Nvidia, AI 코딩 에이전트로 로봇 자율 GPU 설치·훈련 구현"}
+{"date": "2026-06-19", "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/", "title_ko": "MCP, 엔터프라이즈 Zero-Touch OAuth 인증 아키텍처 공개"}
+{"date": "2026-06-19", "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/", "title_ko": "AI 인퍼런스 스타트업 Baseten, $13B 밸류에이션에 $1.5B 추가 조달 임박"}
+{"date": "2026-06-19", "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/", "title_ko": "Adobe, Firefly AI 어시스턴트를 Premiere·Illustrator·InDesign으로 확장"}
+{"date": "2026-06-19", "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/", "title_ko": "Elastic, AI 버그 탐지 스타트업 DeductiveAI를 최대 $85M에 인수 합의"}
+{"date": "2026-06-19", "url": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe", "title_ko": "Meta, 데이터센터 기업 Crusoe와 AI 컴퓨팅 공급 계약 신규 체결"}
+{"date": "2026-06-19", "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/", "title_ko": "OpenAI, Transformer 공동 발명자 Noam Shazeer 등 IPO 앞두고 핵심 인재 영입"}
+{"date": "2026-06-19", "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/", "title_ko": "미국 FERC, AI 데이터센터 전력망 연결에 '패스트 레인' 의무화"}

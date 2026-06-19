@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-18",
-  "ts": "1781742012.426289",
+  "date": "2026-06-19",
+  "ts": "1781833637.585279",
   "channel": "C0908AAQ5N3",
   "item_urls": [
-    "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-    "https://www.bloomberg.com/news/videos/2026-06-17/anthropic-ceo-amodei-on-compute-spend-surpassing-openai",
-    "https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales",
-    "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-    "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "https://www.cfodive.com/news/cfos-boost-tech-spending-despite-economic-uncertainty-grant-thornton-ai/823210/",
-    "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/"
+    "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+    "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe",
+    "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/"
   ]
 }
