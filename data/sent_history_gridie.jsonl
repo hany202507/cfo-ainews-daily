@@ -1,10 +1,3 @@
-{"date": "2026-06-05", "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/", "title_ko": "Anthropic, IPO 앞두고 연간 매출 $470억 돌파 — AI 수익성 논란 정면 반박"}
-{"date": "2026-06-05", "url": "https://github.com/anthropics/defending-code-reference-harness", "title_ko": "Anthropic, AI 취약점 자동 탐지용 오픈소스 프레임워크 공개"}
-{"date": "2026-06-05", "url": "https://www.anthropic.com/institute/recursive-self-improvement", "title_ko": "Anthropic, AI 재귀적 자기개선 진행 상황 공개 보고서 발표"}
-{"date": "2026-06-05", "url": "https://www.bloomberg.com/news/articles/2026-06-04/verizon-ceo-sees-ai-replacing-large-share-of-customer-service", "title_ko": "Verizon CEO, AI가 고객 서비스 인력 '상당 비율' 대체할 것 공언"}
-{"date": "2026-06-05", "url": "https://www.cfodive.com/news/ai-cited-top-reason-us-job-cuts-third-straight-month/822029/", "title_ko": "AI, 미국 감원 이유 3개월 연속 1위 — 5월 한 달 3만 8천 명 직격"}
-{"date": "2026-06-05", "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles", "title_ko": "TSMC CEO, AI 수요 폭증에 '공급 한계' 공개 인정"}
-{"date": "2026-06-05", "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/", "title_ko": "Meta, 텐트형 데이터센터로 건설 비용·기간 단축 전략 채택"}
 {"date": "2026-06-06", "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/", "title_ko": "AI 토큰 비용 폭증, 업계 비용 통제 체계 구축 총력"}
 {"date": "2026-06-06", "url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic", "title_ko": "Apollo·Blackstone, Anthropic AI 칩 구매에 $350억 부채 파이낸싱 완료"}
 {"date": "2026-06-06", "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/", "title_ko": "Google, SpaceX와 월 $9.2억 컴퓨트 계약 체결"}
@@ -103,3 +96,10 @@
 {"date": "2026-06-19", "url": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe", "title_ko": "Meta, 데이터센터 기업 Crusoe와 AI 컴퓨팅 공급 계약 신규 체결"}
 {"date": "2026-06-19", "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/", "title_ko": "OpenAI, Transformer 공동 발명자 Noam Shazeer 등 IPO 앞두고 핵심 인재 영입"}
 {"date": "2026-06-19", "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/", "title_ko": "미국 FERC, AI 데이터센터 전력망 연결에 '패스트 레인' 의무화"}
+{"date": "2026-06-20", "url": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models", "title_ko": "Anthropic, 美 정부 수출통제로 Mythos·Fable 모델 해외 접근 전면 차단"}
+{"date": "2026-06-20", "url": "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order", "title_ko": "Anthropic, 초기 Mythos 테스터 일부는 美 행정명령 이후에도 접근 유지"}
+{"date": "2026-06-20", "url": "https://www.bloomberg.com/news/articles/2026-06-19/unitedhealth-bets-3-billion-on-ai-to-cut-costs-tame-backlash", "title_ko": "UnitedHealth, AI에 $30억 투자해 봇이 의사에게 직접 전화 예약"}
+{"date": "2026-06-20", "url": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic", "title_ko": "노벨 화학상 수상자 John Jumper, Google DeepMind 떠나 Anthropic 합류"}
+{"date": "2026-06-20", "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab", "title_ko": "OpenAI, 엔터프라이즈 AI 영업 총괄 Barret Zoph 재합류 5개월 만에 재퇴사"}
+{"date": "2026-06-20", "url": "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool", "title_ko": "ASML 최첨단 칩 장비, 미국 정부 '중국 유출 가능성' 우려 제기"}
+{"date": "2026-06-20", "url": "https://www.bloomberg.com/news/videos/2026-06-19/anthropic-co-founder-top-economist-on-the-ai-frontier-video", "title_ko": "Anthropic 공동창업자·수석 이코노미스트, AI 프론티어 연구 및 경제 리스크 공개 논의"}
