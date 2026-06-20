@@ -4,8 +4,8 @@ on:
   schedule:
     # 22:00 UTC = 07:00 KST → CFO digest
     - cron: "0 22 * * *"
-    # 23:00 UTC = 08:00 KST → Gridie digest
-    - cron: "0 23 * * *"
+    # Gridie digest auto-send disabled per user request (CFO-only).
+    # Still runnable manually via workflow_dispatch (digest: gridie).
   workflow_dispatch:
     inputs:
       digest:
