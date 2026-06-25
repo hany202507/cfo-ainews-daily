@@ -1,13 +1,3 @@
-{"date": "2026-06-10", "url": "https://www.bloomberg.com/news/videos/2026-06-10/apollo-wraps-up-35b-chip-deal-for-anthropic-video", "title_ko": "아폴로·블랙스톤, 앤트로픽에 350억 달러 칩 파이낸싱 확정"}
-{"date": "2026-06-10", "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/", "title_ko": "아마존, AI 지출 지속 위해 은행서 175억 달러 추가 차입"}
-{"date": "2026-06-10", "url": "https://www.bloomberg.com/news/articles/2026-06-10/oracle-reports-higher-than-expected-data-center-spending", "title_ko": "오라클, AI 인프라 데이터센터 비용 급증으로 주가 하락"}
-{"date": "2026-06-10", "url": "https://www.bloomberg.com/news/videos/2026-06-10/super-micro-seeks-7b-in-equity-deal-for-ai-equipment-video", "title_ko": "슈퍼마이크로, AI 서버 주문 이행 위해 70억 달러 주식 발행 추진"}
-{"date": "2026-06-10", "url": "https://www.bloomberg.com/news/articles/2026-06-10/citi-says-investors-growing-more-selective-on-data-center-bonds", "title_ko": "씨티, 투자자들이 데이터센터 채권 선별 강화 중"}
-{"date": "2026-06-10", "url": "https://www.cfodive.com/news/inflation-jumps-spurred-war-induced-surge-in-energy-prices-Iran-Fed-Federal-Reserve-Warsh-FOMC/822558/", "title_ko": "미국 인플레이션 4.2%로 급등, 에너지 가격 전쟁 영향"}
-{"date": "2026-06-10", "url": "https://www.cfodive.com/news/synthetic-identity-fraud-surges-criminals-weaponize-ai/822557/", "title_ko": "AI 악용 합성 신원 사기 급증, 2026년 미 신용손실 31억 달러 전망"}
-{"date": "2026-06-10", "url": "https://www.cfodive.com/news/mcafee-nabs-experian-alum-incoming-cfo-cybersecurity-fraud-phishing-ai/822543/", "title_ko": "맥아피, 익스피리언 출신 브라이언 허브를 신임 CFO로 영입"}
-{"date": "2026-06-10", "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/", "title_ko": "AI 집중 기업, 직원 1인당 월 7,500달러 AI 지출"}
-{"date": "2026-06-10", "url": "https://www.bloomberg.com/news/articles/2026-06-10/anthropic-ceo-says-government-should-be-able-to-block-new-models", "title_ko": "앤트로픽 CEO, 정부의 AI 모델 출시 차단 권한 필요 주장"}
 {"date": "2026-06-11", "url": "https://www.bloomberg.com/news/articles/2026-06-11/openai-weighs-major-price-cuts-to-win-anthropic-users-wsj-says", "title_ko": "OpenAI, Anthropic 대응 위해 대폭 가격 인하 검토"}
 {"date": "2026-06-11", "url": "https://www.cfodive.com/news/oracle-expands-token-based-ai-pricing/822719/", "title_ko": "Oracle, 토큰 기반 AI 가격 모델 확대…30개 사 선구매"}
 {"date": "2026-06-11", "url": "https://www.bloomberg.com/news/videos/2026-06-11/pimco-s-richard-clarida-ai-now-a-major-economic-driver-video", "title_ko": "PIMCO 전 Fed 부의장 \"AI, 향후 5년 주요 경제 동인\""}
@@ -137,3 +127,13 @@
 {"date": "2026-06-24", "url": "https://www.bloomberg.com/news/articles/2026-06-24/warren-to-call-for-antitrust-scrutiny-of-ai-deal-review-revamp", "title_ko": "워런 상원의원, AI 분야 반독점 강화·M&A 심사 개편 촉구"}
 {"date": "2026-06-24", "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/", "title_ko": "AI, 엔지니어링 일자리 대체 못해…오히려 신규채용 비중 확대"}
 {"date": "2026-06-24", "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models", "title_ko": "앤트로픽, 알리바바가 수천 개 허위 계정으로 클로드 모델 무단 접근했다고 고발"}
+{"date": "2026-06-25", "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model", "title_ko": "트럼프 행정부, OpenAI에 GPT-5.6 출시 단계적 연기 요청"}
+{"date": "2026-06-25", "url": "https://www.cfodive.com/news/ai-cost-challenges-rise-as-firms-lean-coordinated-agents-kpmg/823819/", "title_ko": "AI 에이전트 복잡성 증가로 비용 통제 어렵다: KPMG 보고서"}
+{"date": "2026-06-25", "url": "https://www.bloomberg.com/news/articles/2026-06-25/openai-leans-toward-waiting-until-2027-for-ipo-ny-times-says", "title_ko": "OpenAI, IPO 2027년으로 연기 검토 중"}
+{"date": "2026-06-25", "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/", "title_ko": "Anthropic, 알리바바가 2만5천 계정으로 Claude 대규모 복제 주장"}
+{"date": "2026-06-25", "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages", "title_ko": "Apple, 메모리 부족으로 Mac·iPad 전 라인 가격 인상"}
+{"date": "2026-06-25", "url": "https://www.bloomberg.com/news/articles/2026-06-25/chipmaker-onsemi-to-buy-synaptics-in-6-billion-all-stock-deal", "title_ko": "반도체 Onsemi, Synaptics를 62억 달러 전액 주식 교환 인수 합의"}
+{"date": "2026-06-25", "url": "https://www.cfodive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823825/", "title_ko": "미국 소비자물가 3년래 최고, 연준 금리 인상 확률 80%"}
+{"date": "2026-06-25", "url": "https://www.cfodive.com/news/fasb-waves-sofr-update/823827/", "title_ko": "FASB, SOFR 기반 금리 회계 기준 업데이트 승인"}
+{"date": "2026-06-25", "url": "https://www.bloomberg.com/news/videos/2026-06-25/google-loses-top-ai-talent-to-anthropic-video", "title_ko": "구글 핵심 AI 연구원 2명, Anthropic으로 이직 예정"}
+{"date": "2026-06-25", "url": "https://www.cfodive.com/news/planet-fitness-grants-incoming-cfo-3m-new-hire-award/823804/", "title_ko": "Planet Fitness 신임 CFO 영입에 300만 달러 사이닝 보너스 지급"}
