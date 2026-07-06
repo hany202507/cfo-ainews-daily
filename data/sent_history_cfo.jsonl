@@ -1,13 +1,3 @@
-{"date": "2026-06-21", "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/", "title_ko": "트럼프 행정부의 Anthropic 제재, AI 생태계 재편 신호"}
-{"date": "2026-06-21", "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude", "title_ko": "Claude, 신원 인증 기능 도입 시작"}
-{"date": "2026-06-21", "url": "https://apertvs.ai/", "title_ko": "Apertus, 주권형 AI를 위한 오픈 파운데이션 모델 공개"}
-{"date": "2026-06-21", "url": "https://www.bloomberg.com/news/newsletters/2026-06-21/apple-s-new-ceo-ternus-needs-to-shake-up-design-apple-s-2027-iphone-road-map-mqnust26", "title_ko": "애플 신임 CEO, 설계팀 재건 과제 직면"}
-{"date": "2026-06-21", "url": "https://www.bloomberg.com/news/videos/2026-06-21/amazon-advances-prime-day-by-one-month-amid-ai-shift-video", "title_ko": "아마존, AI 소비 변화에 맞춰 프라임데이 한 달 앞당겨"}
-{"date": "2026-06-21", "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/", "title_ko": "iOS 27, Siri 외 실용 AI 기능 대거 탑재 예정"}
-{"date": "2026-06-21", "url": "https://www.bloomberg.com/news/videos/2026-06-21/uk-to-ban-social-media-for-under-16s-starting-next-year-video", "title_ko": "영국, 16세 미만 소셜미디어 사용 내년부터 전면 금지"}
-{"date": "2026-06-21", "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/", "title_ko": "폴리마켓, 가짜 베팅 영상 제작비 지급 의혹"}
-{"date": "2026-06-21", "url": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/", "title_ko": "로보택시 스코어카드: 중국의 압도적 시장 지배력 확인"}
-{"date": "2026-06-21", "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/", "title_ko": "유비소프트 공동창업자 클로드 길모트, 비행기 사고로 사망"}
 {"date": "2026-06-22", "url": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000", "title_ko": "오라클, AI로 일부 대체하며 2만1천 명 감원"}
 {"date": "2026-06-22", "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/", "title_ko": "GM, 1300명 해고 후 주력 EV 공장에 로봇 투입"}
 {"date": "2026-06-22", "url": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/", "title_ko": "루시드 모터스, 신임 CEO 취임 후 직원 18% 감원"}
@@ -128,3 +118,13 @@
 {"date": "2026-07-05", "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/", "title_ko": "2026년 유니콘 90개 돌파, AI 투자 열풍 지속"}
 {"date": "2026-07-05", "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/", "title_ko": "아마존 Mechanical Turk, 신규 고객 모집 중단…크라우드소싱 종료 수순"}
 {"date": "2026-07-05", "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/", "title_ko": "트럼프 밈코인 투자자 38억 달러 손실, 분석 보고서 발표"}
+{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory", "title_ko": "삼성전자, AI 메모리 수요 급증으로 분기 순이익 19배 급증"}
+{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing", "title_ko": "SK하이닉스, 미국 상장 위해 280억 달러 규모 ADR 마케팅 개시"}
+{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding", "title_ko": "엔비디아 차세대 AI 서버 랙, 제조 문제로 1년 이상 지연 보도"}
+{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/broadcom-expands-work-for-apple-supplying-products-through-2031", "title_ko": "애플·브로드컴, 커스텀 칩 파트너십 2031년까지 연장"}
+{"date": "2026-07-06", "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/", "title_ko": "마이크로소프트, Xbox·상업영업 중심 4,800명 감원"}
+{"date": "2026-07-06", "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/", "title_ko": "2026년 AI를 이유로 든 주요 테크 기업 감원 목록"}
+{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption", "title_ko": "아일랜드 테크 업계, AI 효율화 명분으로 메타·틱톡 인력 감축"}
+{"date": "2026-07-06", "url": "https://www.cfodive.com/news/kyndryl-hires-new-cfo-after-accounting-shake-up/824528/", "title_ko": "킨드릴, 회계 문제 이후 인터퍼블릭 출신 엘런 존슨 CFO 선임"}
+{"date": "2026-07-06", "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/", "title_ko": "영국 FCA, 금융서비스 AI 활용 급증에 '군비 경쟁' 경고"}
+{"date": "2026-07-06", "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/", "title_ko": "앤트로픽, 중국 사용자 비밀 추적 사실 발각 후 논란"}
