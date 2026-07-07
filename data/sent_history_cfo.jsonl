@@ -1,13 +1,3 @@
-{"date": "2026-06-22", "url": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000", "title_ko": "오라클, AI로 일부 대체하며 2만1천 명 감원"}
-{"date": "2026-06-22", "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/", "title_ko": "GM, 1300명 해고 후 주력 EV 공장에 로봇 투입"}
-{"date": "2026-06-22", "url": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/", "title_ko": "루시드 모터스, 신임 CEO 취임 후 직원 18% 감원"}
-{"date": "2026-06-22", "url": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering", "title_ko": "SpaceX, AI 투자 위해 200억 달러 규모 투자등급 채권 첫 발행"}
-{"date": "2026-06-22", "url": "https://www.bloomberg.com/news/articles/2026-06-22/groq-raises-650-million-to-help-startup-pivot-after-nvidia-deal", "title_ko": "Groq, 엔비디아 딜 이후 6억5천만 달러 추가 조달"}
-{"date": "2026-06-22", "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/", "title_ko": "마이크로소프트·셰브런, 텍사스 데이터센터에 20년 천연가스 전력 계약"}
-{"date": "2026-06-22", "url": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular", "title_ko": "퀄컴, AI 칩 스타트업 Modular 약 40억 달러에 인수 임박"}
-{"date": "2026-06-22", "url": "https://www.cfodive.com/news/4-out-5-companies-cant-measure-sustainabilitys-financial-impact-esg/823449/", "title_ko": "80%의 기업, 지속가능성의 재무 영향 측정 못 해"}
-{"date": "2026-06-22", "url": "https://www.cfodive.com/news/most-investors-oppose-optional-semiannual-reporting-cfa-institute-SEC/823421/", "title_ko": "CFA Institute: 투자자 대다수 반기 공시 옵션에 반대"}
-{"date": "2026-06-22", "url": "https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california", "title_ko": "캘리포니아 주유소, AI 담합 가격 인상 혐의로 집단 소송"}
 {"date": "2026-06-23", "url": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers", "title_ko": "미국 반도체주 급락, AI 셀오프 아시아에서 확산"}
 {"date": "2026-06-23", "url": "https://www.bloomberg.com/news/articles/2026-06-23/cerebras-projects-2026-sales-that-leave-investors-wanting-more", "title_ko": "세레브라스, 2026 매출 전망 실망…상장 후 주가 10% 급락"}
 {"date": "2026-06-23", "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/", "title_ko": "오라클, 2만1천명 해고로 조달한 재원 AI 인프라에 집중 투자"}
@@ -128,3 +118,13 @@
 {"date": "2026-07-06", "url": "https://www.cfodive.com/news/kyndryl-hires-new-cfo-after-accounting-shake-up/824528/", "title_ko": "킨드릴, 회계 문제 이후 인터퍼블릭 출신 엘런 존슨 CFO 선임"}
 {"date": "2026-07-06", "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/", "title_ko": "영국 FCA, 금융서비스 AI 활용 급증에 '군비 경쟁' 경고"}
 {"date": "2026-07-06", "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/", "title_ko": "앤트로픽, 중국 사용자 비밀 추적 사실 발각 후 논란"}
+{"date": "2026-07-07", "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps", "title_ko": "마이크로소프트, 엑셀·아웃룩에서 OpenAI·Anthropic 대신 자체 AI로 교체"}
+{"date": "2026-07-07", "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build", "title_ko": "아마존, AI 인프라 확충 위해 250억 달러 채권 발행…시장 반응 냉담"}
+{"date": "2026-07-07", "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations", "title_ko": "삼성 실적 실망에 AI 반도체 주 급락, 빅테크 매그니피센트7 동조"}
+{"date": "2026-07-07", "url": "https://www.cfodive.com/news/spacex-acquisition-target-launches-cfo-council-to-crack-ais-roi-puzzle/824548/", "title_ko": "Cursor, CFO 협의체 출범…AI 투자 ROI 측정 공동 프레임워크 모색"}
+{"date": "2026-07-07", "url": "https://www.cfodive.com/news/data-tollgating-compounds-saas-cost-risks-cfos-deloitte-ai/824520/", "title_ko": "SaaS 데이터 '통행세' 문제, CFO 예산 통제 위협—딜로이트 경고"}
+{"date": "2026-07-07", "url": "https://www.cfodive.com/news/secs-semiannual-reporting-proposal-draws-groundswell-of-opposition/824642/", "title_ko": "SEC, 반기 보고 허용 제안에 대규모 반대 의견 쏟아져"}
+{"date": "2026-07-07", "url": "https://www.bloomberg.com/news/articles/2026-07-07/bc-eyes-legal-action-against-openai-in-wake-of-mass-shooting", "title_ko": "BC주, ChatGPT 총기 위협 미신고 방치한 OpenAI 법적 대응 검토"}
+{"date": "2026-07-07", "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/", "title_ko": "딥시크, 미국 수출통제 대응해 자체 AI 칩 개발 착수"}
+{"date": "2026-07-07", "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/", "title_ko": "데이터센터 전력 수요, 트럼프 '미국산 제조' 계획 위협"}
+{"date": "2026-07-07", "url": "https://www.bloomberg.com/news/videos/2026-07-07/terawulf-ceo-on-anthropic-data-center-agreement-video", "title_ko": "Anthropic, TeraWulf 데이터센터 20년 임대 계약 체결"}
