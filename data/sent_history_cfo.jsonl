@@ -1,13 +1,3 @@
-{"date": "2026-06-27", "url": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model", "title_ko": "미국 정부, Anthropic Mythos 5 모델 100개 이상 기업·기관에 사용 허가"}
-{"date": "2026-06-27", "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/", "title_ko": "트럼프 행정부, Anthropic Mythos 5를 100개 이상 미국 기업·기관에 개방"}
-{"date": "2026-06-27", "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/", "title_ko": "앤스로픽 수출통제 장기화 속 아시아 AI 스타트업, 유사 모델 잇따라 출시"}
-{"date": "2026-06-27", "url": "https://www.bloomberg.com/news/articles/2026-06-27/soaring-ipad-xbox-prices-reveal-pain-of-memory-chip-mess", "title_ko": "메모리 칩 공급 혼란으로 아이패드·Xbox 가격 급등, 기업 IT 예산 직격"}
-{"date": "2026-06-27", "url": "https://www.bloomberg.com/news/articles/2026-06-27/apple-seeks-us-approval-to-buy-chips-from-blacklisted-cxmt-ft", "title_ko": "애플, 블랙리스트 중국 반도체 기업 CXMT 칩 구매 미국 정부 승인 요청"}
-{"date": "2026-06-27", "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech", "title_ko": "AI 투자 급증에 소비자 부담 전가 — 애플 제품 가격 인상 논란"}
-{"date": "2026-06-27", "url": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush", "title_ko": "AI 전력 수요 급증, 에너지 기업 IPO 러시에 월가 수십억 달러 베팅"}
-{"date": "2026-06-27", "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/", "title_ko": "일론 머스크의 궤도 데이터센터 구상에 소프트뱅크 CEO도 의구심 표명"}
-{"date": "2026-06-27", "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/", "title_ko": "애플 비전 프로 담당 부사장, OpenAI 하드웨어팀 합류 위해 퇴사"}
-{"date": "2026-06-27", "url": "https://www.bloomberg.com/news/articles/2026-06-27/amazon-prime-day-total-online-spending-surpasses-adobe-estimate", "title_ko": "아마존 프라임데이, 미국 온라인 소비 264억 달러로 어도비 예상 초과"}
 {"date": "2026-06-28", "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says", "title_ko": "BIS, AI 버블 붕괴 시 성장·신용 전방위 파급 경고"}
 {"date": "2026-06-28", "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high", "title_ko": "홍콩 IPO, AI 열기로 상반기 5년 만에 최고치 기록"}
 {"date": "2026-06-28", "url": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks", "title_ko": "유럽 투자자, AI 관련주로 전력·은행주 대거 편입"}
@@ -128,3 +118,13 @@
 {"date": "2026-07-11", "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/", "title_ko": "클로드 최신 모델, 사용자 반발 거세져 — 품질 저하 우려"}
 {"date": "2026-07-11", "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/", "title_ko": "메타, 인스타그램 논란 AI 기능 반발 끝에 철회"}
 {"date": "2026-07-11", "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/", "title_ko": "미국 사이버보안청 CISA, 침해 사고 대응 중 플레이북 급조"}
+{"date": "2026-07-12", "url": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models", "title_ko": "OpenAI·메타·SpaceX AI, 저비용 모델 경쟁 가속"}
+{"date": "2026-07-12", "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6", "title_ko": "GPT-5.6 전환 후 속도 2.2배·비용 27% 절감 사례"}
+{"date": "2026-07-12", "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead", "title_ko": "클로드 코드, 프롬프트 읽기 전 3.3만 토큰 선발송"}
+{"date": "2026-07-12", "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013", "title_ko": "아일랜드 데이터센터, 국가 전력의 23% 소비"}
+{"date": "2026-07-12", "url": "https://www.theverge.com/column/963346/ai-data-centers-fight", "title_ko": "AI 데이터센터 확산에 대한 지역 사회 반발 시작"}
+{"date": "2026-07-12", "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf", "title_ko": "MCP 보안 현황 2026: 주요 취약점 분석 보고서"}
+{"date": "2026-07-12", "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro", "title_ko": "애플 M6~M8 칩 로드맵, AI가 설계 방향 재편"}
+{"date": "2026-07-12", "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra", "title_ko": "애플 자율주행 실패가 남긴 유산, 강력한 AI 칩"}
+{"date": "2026-07-12", "url": "https://www.bloomberg.com/news/newsletters/2026-07-12/netflix-combats-questions-about-slowing-growth", "title_ko": "넷플릭스, 성장 둔화 우려에 대응 전략 발표"}
+{"date": "2026-07-12", "url": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all", "title_ko": "중국 AI 스타트업 지푸 창업자, 프런티어 AI 개방 주장"}
