@@ -1,13 +1,3 @@
-{"date": "2026-06-30", "url": "https://www.cfodive.com/news/anthropic-tie-up-step-change-kpmg-exec-agents/824149/", "title_ko": "KPMG, Anthropic 제휴가 '단계적 전환'이라고 평가"}
-{"date": "2026-06-30", "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/", "title_ko": "Anthropic, 에이전트용 저가 모델 Claude Sonnet 5 출시"}
-{"date": "2026-06-30", "url": "https://www.cfodive.com/news/before-turning-tax-work-over-ai-ask-these-4-questions-accounting/823346/", "title_ko": "세금 업무 AI 이관 전 반드시 물어야 할 4가지"}
-{"date": "2026-06-30", "url": "https://www.cfodive.com/news/companies-concrete-ai-strategies-outperform-peers-stock/824048/", "title_ko": "명확한 AI 전략 보유 기업, 주가 성과에서 경쟁사 압도"}
-{"date": "2026-06-30", "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/", "title_ko": "Amazon, 10억 달러 규모 FDE 조직 신설로 AI 에이전트 기업 직접 배치"}
-{"date": "2026-06-30", "url": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion", "title_ko": "슈나이더 일렉트릭, 산업용 AI 기업 Cognite를 31억 달러에 인수"}
-{"date": "2026-06-30", "url": "https://www.bloomberg.com/news/articles/2026-06-30/asml-chip-tool-stocks-soar-as-samsung-sk-plan-investments", "title_ko": "삼성·SK 투자 계획에 ASML 등 반도체 장비주 급등"}
-{"date": "2026-06-30", "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/", "title_ko": "엔비디아 경쟁사 Etched, 50억 달러 밸류·10억 달러 계약 달성"}
-{"date": "2026-06-30", "url": "https://www.bloomberg.com/news/videos/2026-06-30/debt-and-risky-bets-fuel-south-korea-and-taiwan-s-ai-stock-boom", "title_ko": "한국·대만 AI 주식 랠리, 차입 매수가 견인—후속 리스크 주목"}
-{"date": "2026-06-30", "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle", "title_ko": "SAP, AI 제품 총괄 권한을 CEO·COO로 이관하는 조직 개편"}
 {"date": "2026-07-01", "url": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo", "title_ko": "미국, Anthropic Fable 5 수출 제한 해제…Mythos는 여전히 제한"}
 {"date": "2026-07-01", "url": "https://www.cfodive.com/news/tech-layoffs-surge-83percent-h1-2026-challenger-ai-disruption/824260/", "title_ko": "AI 충격에 테크 업계 상반기 감원 83% 급증, 전체 해고의 1/3"}
 {"date": "2026-07-01", "url": "https://www.usajobs.gov/job/856265200", "title_ko": "미 연방정부, AI 모델 금지 여부 결정하는 직책 공개 채용"}
@@ -128,3 +118,13 @@
 {"date": "2026-07-14", "url": "https://www.cfodive.com/news/Walmart-supply-chain-ai-digital-twin/825173/", "title_ko": "월마트, AI·디지털 트윈으로 글로벌 공급망 전략 재편"}
 {"date": "2026-07-14", "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/", "title_ko": "딥시크, 15억 달러 조달 후 2027년 IPO 추진 논의"}
 {"date": "2026-07-14", "url": "https://www.cfodive.com/news/fintech-bottomline-brings-stablecoin-capabilities-cfo-suite/825139/", "title_ko": "핀테크 Bottomline, 스테이블코인 지원 CFO 재무 솔루션 출시"}
+{"date": "2026-07-15", "url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears", "title_ko": "Anthropic, IPO 투자자 미팅 추진…메가 상장 임박"}
+{"date": "2026-07-15", "url": "https://www.bloomberg.com/news/articles/2026-07-15/stripe-advent-offer-to-buy-paypal-for-53-billion-reuters-says", "title_ko": "Stripe·Advent, PayPal 530억 달러 인수 제안"}
+{"date": "2026-07-15", "url": "https://www.cfodive.com/news/warsh-says-us-fight-china-dominance-ai/825358/", "title_ko": "연준 의장 Warsh, \"미·중 AI 패권 경쟁 중\""}
+{"date": "2026-07-15", "url": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai", "title_ko": "Microsoft, 영업팀에 Anthropic·OpenAI 약점 공략법 전달"}
+{"date": "2026-07-15", "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf", "title_ko": "AI 투기적 성장과 버블 논쟁 (MIT 연구)"}
+{"date": "2026-07-15", "url": "https://www.bloomberg.com/news/articles/2026-07-15/palantir-s-cto-sees-chinese-ai-models-posing-economic-risk-to-us", "title_ko": "Palantir CTO, 중국 AI 모델의 미국 경제 위협 경고"}
+{"date": "2026-07-15", "url": "https://www.cfodive.com/news/costar-cfo-heads-allstate-2m-signon-bonus/825351/", "title_ko": "CoStar CFO, Allstate로 이직…사이닝 보너스 200만 달러"}
+{"date": "2026-07-15", "url": "https://www.cfodive.com/news/sephora-veteran-take-calvin-klein-parents-cfo-seat/825332/", "title_ko": "PVH, Sephora 출신 Rollier를 새 CFO로 영입"}
+{"date": "2026-07-15", "url": "https://www.cfodive.com/news/ex-viaquest-ceo-says-embezzlement-suit-business-dispute/825339/", "title_ko": "ViaQuest 전 CEO, 횡령 혐의 반박…CFO도 연루"}
+{"date": "2026-07-15", "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/", "title_ko": "Anthropic·Blackstone, AI 도입 구현이 차세대 조 달러 사업"}
