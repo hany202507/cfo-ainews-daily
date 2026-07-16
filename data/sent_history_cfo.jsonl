@@ -1,13 +1,3 @@
-{"date": "2026-07-01", "url": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo", "title_ko": "미국, Anthropic Fable 5 수출 제한 해제…Mythos는 여전히 제한"}
-{"date": "2026-07-01", "url": "https://www.cfodive.com/news/tech-layoffs-surge-83percent-h1-2026-challenger-ai-disruption/824260/", "title_ko": "AI 충격에 테크 업계 상반기 감원 83% 급증, 전체 해고의 1/3"}
-{"date": "2026-07-01", "url": "https://www.usajobs.gov/job/856265200", "title_ko": "미 연방정부, AI 모델 금지 여부 결정하는 직책 공개 채용"}
-{"date": "2026-07-01", "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/", "title_ko": "Meta, 잉여 AI 컴퓨팅 외부 판매 추진…AWS·Azure와 정면 경쟁"}
-{"date": "2026-07-01", "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/", "title_ko": "Together AI, 8억 달러 유치로 기업가치 83억 달러 도달"}
-{"date": "2026-07-01", "url": "https://www.bloomberg.com/news/videos/2026-07-01/national-grid-s-big-bet-on-us-ai-power-firm-video", "title_ko": "National Grid, 미국 AI 전력 스타트업 Jouleant에 17.5억 달러 투자"}
-{"date": "2026-07-01", "url": "https://www.bloomberg.com/news/articles/2026-07-01/nvidia-ai-chip-gets-power-from-valar-s-nuclear-reactor", "title_ko": "차세대 원자로, 처음으로 엔비디아 AI 칩에 전력 공급 성공"}
-{"date": "2026-07-01", "url": "https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo", "title_ko": "Bending Spoons, 상장 첫날 40% 급등…SaaS 침체 속 이례적 흥행"}
-{"date": "2026-07-01", "url": "https://www.bloomberg.com/news/articles/2026-07-01/finance-app-network-maker-plaid-is-said-to-consider-us-ipo", "title_ko": "핀테크 인프라 기업 Plaid, 미국 IPO 검토 중"}
-{"date": "2026-07-01", "url": "https://www.bloomberg.com/news/articles/2026-07-01/alibiba-payment-firm-will-pay-600-million-to-resolve-us-probe", "title_ko": "알리바바·결제 자회사, 미국 마약 밀수 방조 혐의로 6억 달러 합의"}
 {"date": "2026-07-04", "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/", "title_ko": "알리바바, 직원들의 Claude Code 사용 금지 조치"}
 {"date": "2026-07-04", "url": "https://github.com/anthropics/claude-code/issues/74066", "title_ko": "Claude Code 워크스페이스 간 세션·캐시 유출 가능성 제기"}
 {"date": "2026-07-04", "url": "https://github.com/openai/codex/issues/30364", "title_ko": "GPT-5.5 Codex, 추론 토큰 클러스터링으로 성능 저하 문제 보고"}
@@ -128,3 +118,13 @@
 {"date": "2026-07-15", "url": "https://www.cfodive.com/news/sephora-veteran-take-calvin-klein-parents-cfo-seat/825332/", "title_ko": "PVH, Sephora 출신 Rollier를 새 CFO로 영입"}
 {"date": "2026-07-15", "url": "https://www.cfodive.com/news/ex-viaquest-ceo-says-embezzlement-suit-business-dispute/825339/", "title_ko": "ViaQuest 전 CEO, 횡령 혐의 반박…CFO도 연루"}
 {"date": "2026-07-15", "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/", "title_ko": "Anthropic·Blackstone, AI 도입 구현이 차세대 조 달러 사업"}
+{"date": "2026-07-16", "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/", "title_ko": "EU, 구글에 검색 데이터 공유·안드로이드 AI 개방 명령"}
+{"date": "2026-07-16", "url": "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models", "title_ko": "딥마인드 CEO, AI 모델 사전 검증 국제기구 설립 로비 착수"}
+{"date": "2026-07-16", "url": "https://www.bloomberg.com/news/articles/2026-07-16/china-led-ai-body-enlists-global-south-states-to-rival-us", "title_ko": "중국 주도 AI 국제협력기구에 29개국 가입, 미국 견제 시동"}
+{"date": "2026-07-16", "url": "https://www.bloomberg.com/news/articles/2026-07-16/netflix-pledges-more-programs-ai-to-reverse-slowing-growth", "title_ko": "넷플릭스, 연속 성장 둔화 전망으로 투자자 불안 고조"}
+{"date": "2026-07-16", "url": "https://www.bloomberg.com/news/articles/2026-07-16/us-stock-futures-tumble-as-tsmc-s-results-revive-ai-concerns", "title_ko": "TSMC 실적이 촉발한 AI 투자 우려로 S&P500 기술주 하락"}
+{"date": "2026-07-16", "url": "https://www.cfodive.com/news/spacex-leads-ipo-surge-h1-proceeds-top-114b-pwc/825446/", "title_ko": "미국 H1 IPO 조달액 1,140억 달러 돌파, SpaceX 견인"}
+{"date": "2026-07-16", "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals", "title_ko": "구글 제미나이 3.5 Pro, 코딩 목표 미달로 출시 수개월 지연"}
+{"date": "2026-07-16", "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/", "title_ko": "AI 붐 편승 노린 에너지 IPO, 금세기 최고 속도로 자금 조달"}
+{"date": "2026-07-16", "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/", "title_ko": "현대차 공장 노동자, 아틀라스 로봇 도입 우려로 파업 돌입"}
+{"date": "2026-07-16", "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/", "title_ko": "코카콜라 Fairlife 유제품 공장, 랜섬웨어 공격으로 생산 중단"}
