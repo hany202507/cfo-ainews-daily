@@ -1,13 +1,3 @@
-{"date": "2026-07-05", "url": "https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video", "title_ko": "반도체 주가 하락, AI 지출 지속 가능성에 투자자 의구심"}
-{"date": "2026-07-05", "url": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand", "title_ko": "폭스콘, AI 수요 호조로 분기 매출 40% 급증"}
-{"date": "2026-07-05", "url": "https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video", "title_ko": "SK하이닉스 미국 ADR 상장 추진, AI 메모리 투자 자금 확보"}
-{"date": "2026-07-05", "url": "https://www.bloomberg.com/news/articles/2026-07-05/south-korea-eyes-growth-fund-from-chip-tax-windfall-yonhap-says", "title_ko": "한국, 반도체 세수 활용 성장펀드 조성 검토"}
-{"date": "2026-07-05", "url": "https://www.bloomberg.com/news/features/2026-07-05/samsung-s-ai-bonus-deal-a-short-lived-victory-for-millennial-union-leader", "title_ko": "삼성 노조 26조 원 AI 보너스 협상, 내부 분열로 씁쓸한 결말"}
-{"date": "2026-07-05", "url": "https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push", "title_ko": "현대차, 월드컵서 아틀라스 휴머노이드 공개…양산 준비 박차"}
-{"date": "2026-07-05", "url": "https://www.bloomberg.com/news/articles/2026-07-05/alibaba-gets-reprieve-from-lobbying-ban-tied-to-pentagon-s-curbs", "title_ko": "알리바바, 펜타곤 블랙리스트 로비 금지 법안 집행 일시 중단 판결"}
-{"date": "2026-07-05", "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/", "title_ko": "2026년 유니콘 90개 돌파, AI 투자 열풍 지속"}
-{"date": "2026-07-05", "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/", "title_ko": "아마존 Mechanical Turk, 신규 고객 모집 중단…크라우드소싱 종료 수순"}
-{"date": "2026-07-05", "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/", "title_ko": "트럼프 밈코인 투자자 38억 달러 손실, 분석 보고서 발표"}
 {"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory", "title_ko": "삼성전자, AI 메모리 수요 급증으로 분기 순이익 19배 급증"}
 {"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing", "title_ko": "SK하이닉스, 미국 상장 위해 280억 달러 규모 ADR 마케팅 개시"}
 {"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding", "title_ko": "엔비디아 차세대 AI 서버 랙, 제조 문제로 1년 이상 지연 보도"}
@@ -148,3 +138,13 @@
 {"date": "2026-07-19", "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/", "title_ko": "넷플릭스, 벤 애플렉 AI 영화 제작 스타트업 5억8700만 달러에 인수"}
 {"date": "2026-07-19", "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/", "title_ko": "엔비디아 젠슨 황 일본 방문 후속 — 생태계 전방위 딜 체결"}
 {"date": "2026-07-19", "url": "https://github.com/openai/codex/pull/33972/files", "title_ko": "OpenAI Codex, 컨텍스트 크기 372k→272k로 축소"}
+{"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute", "title_ko": "Moonshot Kimi K3, 반도체 주가 급락 촉발—메모리 효율이 핵심"}
+{"date": "2026-07-20", "url": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead", "title_ko": "Kimi K3, Anthropic·OpenAI 위협—투자자들 실리콘밸리 가정 재점검"}
+{"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai", "title_ko": "Z.AI, 중국산 칩만으로 대형 데이터센터 완공"}
+{"date": "2026-07-20", "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/", "title_ko": "오픈웨이트 모델 규제 논쟁: 미국은 중국 AI를 두려워해야 하나"}
+{"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/blackstone-agrees-to-invest-in-korean-robotics-supplier-futronic", "title_ko": "블랙스톤, 한국 로보틱스 부품사 Futronic 투자 결정"}
+{"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst", "title_ko": "오라클 신용 위험, AI 부채 부담으로 18년 만에 최고치"}
+{"date": "2026-07-20", "url": "https://www.cfodive.com/news/ex-cfo-sentenced-36-month-prison-term-loan-scheme/825683/", "title_ko": "전직 CFO, 430만 달러 대출 사기로 36개월 실형 선고"}
+{"date": "2026-07-20", "url": "https://www.cfodive.com/news/persistent-inflation-dogs-small-business-confidence-us-chamber/825702/", "title_ko": "미국 소기업 신뢰지수, 고물가 지속에 발목 잡혀"}
+{"date": "2026-07-20", "url": "https://www.cfodive.com/news/tax-numbers-aid-analysts-more-narratives-study-irs/825607/", "title_ko": "세금 공시, 숫자가 서술보다 애널리스트 예측 정확도 높여"}
+{"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-s-meta-deal-to-show-the-power-of-25-billion-m-a-spree", "title_ko": "블랙록, 메타 데이터센터에 125억 달러 부채 조달 주선"}
