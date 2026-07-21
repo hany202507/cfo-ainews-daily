@@ -1,13 +1,3 @@
-{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory", "title_ko": "삼성전자, AI 메모리 수요 급증으로 분기 순이익 19배 급증"}
-{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing", "title_ko": "SK하이닉스, 미국 상장 위해 280억 달러 규모 ADR 마케팅 개시"}
-{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding", "title_ko": "엔비디아 차세대 AI 서버 랙, 제조 문제로 1년 이상 지연 보도"}
-{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/broadcom-expands-work-for-apple-supplying-products-through-2031", "title_ko": "애플·브로드컴, 커스텀 칩 파트너십 2031년까지 연장"}
-{"date": "2026-07-06", "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/", "title_ko": "마이크로소프트, Xbox·상업영업 중심 4,800명 감원"}
-{"date": "2026-07-06", "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/", "title_ko": "2026년 AI를 이유로 든 주요 테크 기업 감원 목록"}
-{"date": "2026-07-06", "url": "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption", "title_ko": "아일랜드 테크 업계, AI 효율화 명분으로 메타·틱톡 인력 감축"}
-{"date": "2026-07-06", "url": "https://www.cfodive.com/news/kyndryl-hires-new-cfo-after-accounting-shake-up/824528/", "title_ko": "킨드릴, 회계 문제 이후 인터퍼블릭 출신 엘런 존슨 CFO 선임"}
-{"date": "2026-07-06", "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/", "title_ko": "영국 FCA, 금융서비스 AI 활용 급증에 '군비 경쟁' 경고"}
-{"date": "2026-07-06", "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/", "title_ko": "앤트로픽, 중국 사용자 비밀 추적 사실 발각 후 논란"}
 {"date": "2026-07-07", "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps", "title_ko": "마이크로소프트, 엑셀·아웃룩에서 OpenAI·Anthropic 대신 자체 AI로 교체"}
 {"date": "2026-07-07", "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build", "title_ko": "아마존, AI 인프라 확충 위해 250억 달러 채권 발행…시장 반응 냉담"}
 {"date": "2026-07-07", "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations", "title_ko": "삼성 실적 실망에 AI 반도체 주 급락, 빅테크 매그니피센트7 동조"}
@@ -148,3 +138,13 @@
 {"date": "2026-07-20", "url": "https://www.cfodive.com/news/persistent-inflation-dogs-small-business-confidence-us-chamber/825702/", "title_ko": "미국 소기업 신뢰지수, 고물가 지속에 발목 잡혀"}
 {"date": "2026-07-20", "url": "https://www.cfodive.com/news/tax-numbers-aid-analysts-more-narratives-study-irs/825607/", "title_ko": "세금 공시, 숫자가 서술보다 애널리스트 예측 정확도 높여"}
 {"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-s-meta-deal-to-show-the-power-of-25-billion-m-a-spree", "title_ko": "블랙록, 메타 데이터센터에 125억 달러 부채 조달 주선"}
+{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach", "title_ko": "OpenAI AI 모델, 허깅페이스 내부 시스템 침해 인정"}
+{"date": "2026-07-21", "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/", "title_ko": "미국, 중국 오픈소스 AI 모델 IP 도용 혐의로 제재 검토"}
+{"date": "2026-07-21", "url": "https://www.cfodive.com/news/ey-faces-proposed-class-action-data-breach-cybersecurity/825742/", "title_ko": "EY, IT 지원 플랫폼 통한 세금·금융정보 유출로 집단소송 직면"}
+{"date": "2026-07-21", "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved", "title_ko": "Anthropic, 저작권 침해 작가 집단소송 15억 달러 합의 승인"}
+{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/super-micro-jumps-after-preliminary-outlook-shows-rising-backlog", "title_ko": "수퍼마이크로, 수주잔고 600억 달러 신기록으로 주가 15% 급등"}
+{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo", "title_ko": "OpenAI, IPO 앞두고 BNY·Nubank CEO 이사회 선임"}
+{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/intel-rallies-after-saying-it-ll-make-more-headcount-reductions", "title_ko": "인텔, 추가 인력 감축 및 데이터센터 사업 개편 발표로 주가 반등"}
+{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value", "title_ko": "중국 Moonshot AI, 홍콩 IPO 앞두고 500억 달러 밸류에이션 프리IPO 논의"}
+{"date": "2026-07-21", "url": "https://www.cfodive.com/news/finance-ai-spending-stuck-efficiency-gains-gartner-warns/825736/", "title_ko": "가트너 \"재무 AI 투자, 효율화에 그쳐 변혁적 가치 창출 CFO는 17%\""}
+{"date": "2026-07-21", "url": "https://www.cfodive.com/news/accountings-next-challenge-guarding-what-ai-cant-replace/825557/", "title_ko": "트루리온 CEO \"AI 시대에도 회계사의 판단력 훈련은 사라지지 않는다\""}
