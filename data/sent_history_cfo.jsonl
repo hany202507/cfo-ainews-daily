@@ -1,13 +1,3 @@
-{"date": "2026-07-18", "url": "https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china", "title_ko": "Moonshot AI '키미', 미국 우위 통념 흔들다"}
-{"date": "2026-07-18", "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech", "title_ko": "중국, 외국 AI 기술 불법 추출 의혹 전면 부인"}
-{"date": "2026-07-18", "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/", "title_ko": "Moonshot AI 키미: 위협인가 과장인가"}
-{"date": "2026-07-18", "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era", "title_ko": "중국, AI 탑재 스마트폰 재설계 경쟁 합류"}
-{"date": "2026-07-18", "url": "https://news.ycombinator.com/item?id=48957779", "title_ko": "GPT-5.6, 30년 묵은 볼록 최적화 난제 해결"}
-{"date": "2026-07-18", "url": "https://data.stackexchange.com/stackoverflow/query/1953768", "title_ko": "AI가 스택오버플로우에 미친 영향, 데이터로 확인"}
-{"date": "2026-07-18", "url": "https://github.com/saineshnakra/automated-data-analyst", "title_ko": "CSV·엑셀 대상 AI BI 분석 도구 'Ada' 공개"}
-{"date": "2026-07-18", "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/", "title_ko": "AI가 의료 사전승인을 개선할까, 악화시킬까"}
-{"date": "2026-07-18", "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/", "title_ko": "VC 거물 닐 라이머 \"AI 부는 재분배될 것\""}
-{"date": "2026-07-18", "url": "https://www.bloomberg.com/news/articles/2026-07-18/apple-raises-iphone-17-price-by-10-in-japan-as-yen-stays-weak", "title_ko": "애플, 엔화 약세로 일본 아이폰17 가격 10% 인상"}
 {"date": "2026-07-19", "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks", "title_ko": "빅테크, AI 지출 정당화 요구 속 투자자 주식 매도"}
 {"date": "2026-07-19", "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough", "title_ko": "중국 Moonshot AI, 6개월 내 IPO 추진 발표"}
 {"date": "2026-07-19", "url": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model", "title_ko": "알리바바 Qwen3.8 Max 플래그십 모델 프리뷰 공개"}
@@ -147,3 +137,13 @@
 {"date": "2026-08-01", "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets", "title_ko": "AI 학습 데이터 7.6페타바이트에서 비밀키 대규모 노출 확인"}
 {"date": "2026-08-01", "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/", "title_ko": "xAI, 미네소타 딥페이크 앱 규제 금지 가처분 기각"}
 {"date": "2026-08-01", "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/", "title_ko": "웨이모, 소음 민원으로 법원 야간 충전 중단 명령 받아"}
+{"date": "2026-08-02", "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/", "title_ko": "샘 알트만, AI 개발 속도 조절 필요성 공개 촉구"}
+{"date": "2026-08-02", "url": "https://www.bloomberg.com/news/videos/2026-08-02/who-governs-the-ai-boom-video", "title_ko": "AI 붐, 누가 통제하나 — 경제학자 퍼먼의 규제 프레임 제시"}
+{"date": "2026-08-02", "url": "https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds", "title_ko": "AI, 개인 투자자를 DIY 헤지펀드로 만들다"}
+{"date": "2026-08-02", "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/", "title_ko": "AI 시대에도 개발자들이 뛰어난 앱을 쏟아내는 이유"}
+{"date": "2026-08-02", "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/", "title_ko": "글로벌 메모리 부족, 맥북 에어 공급 차질로 확산"}
+{"date": "2026-08-02", "url": "https://www.bloomberg.com/news/articles/2026-08-02/australia-expands-demand-that-big-tech-pay-for-news-stories", "title_ko": "호주, 빅테크의 뉴스 콘텐츠 사용료 부과 확대 추진"}
+{"date": "2026-08-02", "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/", "title_ko": "캘리포니아 데이터 삭제 요청 DROP, 8월 1일부터 강제집행"}
+{"date": "2026-08-02", "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/", "title_ko": "EU 연령인증 프로젝트, 하드웨어 기반 증명 의무화 추진"}
+{"date": "2026-08-02", "url": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance", "title_ko": "제퍼리스 애널리스트, 스페이스X 거버넌스 비판에 반박"}
+{"date": "2026-08-02", "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties", "title_ko": "AI 저작권 갈등: 아티스트에게 로열티 지급하면 해결되나"}
