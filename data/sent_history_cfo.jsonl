@@ -1,13 +1,3 @@
-{"date": "2026-07-19", "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks", "title_ko": "빅테크, AI 지출 정당화 요구 속 투자자 주식 매도"}
-{"date": "2026-07-19", "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough", "title_ko": "중국 Moonshot AI, 6개월 내 IPO 추진 발표"}
-{"date": "2026-07-19", "url": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model", "title_ko": "알리바바 Qwen3.8 Max 플래그십 모델 프리뷰 공개"}
-{"date": "2026-07-19", "url": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix", "title_ko": "애플, OpenAI 소송에서 조니 아이브 언급 제외한 이유"}
-{"date": "2026-07-19", "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study", "title_ko": "AI 조언, 정확도 3배 저하·자신감 2배 상승 연구 결과"}
-{"date": "2026-07-19", "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/", "title_ko": "애플, OpenAI 하드웨어 계획에 소송 제기 — IPO 영향은?"}
-{"date": "2026-07-19", "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130", "title_ko": "Moonshot AI, Kimi K3 수요 급증으로 신규 구독 일시 중단"}
-{"date": "2026-07-19", "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/", "title_ko": "넷플릭스, 벤 애플렉 AI 영화 제작 스타트업 5억8700만 달러에 인수"}
-{"date": "2026-07-19", "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/", "title_ko": "엔비디아 젠슨 황 일본 방문 후속 — 생태계 전방위 딜 체결"}
-{"date": "2026-07-19", "url": "https://github.com/openai/codex/pull/33972/files", "title_ko": "OpenAI Codex, 컨텍스트 크기 372k→272k로 축소"}
 {"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute", "title_ko": "Moonshot Kimi K3, 반도체 주가 급락 촉발—메모리 효율이 핵심"}
 {"date": "2026-07-20", "url": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead", "title_ko": "Kimi K3, Anthropic·OpenAI 위협—투자자들 실리콘밸리 가정 재점검"}
 {"date": "2026-07-20", "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai", "title_ko": "Z.AI, 중국산 칩만으로 대형 데이터센터 완공"}
@@ -147,3 +137,13 @@
 {"date": "2026-08-02", "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/", "title_ko": "EU 연령인증 프로젝트, 하드웨어 기반 증명 의무화 추진"}
 {"date": "2026-08-02", "url": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance", "title_ko": "제퍼리스 애널리스트, 스페이스X 거버넌스 비판에 반박"}
 {"date": "2026-08-02", "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties", "title_ko": "AI 저작권 갈등: 아티스트에게 로열티 지급하면 해결되나"}
+{"date": "2026-08-03", "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/", "title_ko": "OpenAI·Anthropic AI 자율 해킹, 법적 책임 소재 복잡"}
+{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/videos/2026-08-03/openai-hack-could-have-been-worse-hugging-face-says-video", "title_ko": "Hugging Face CEO, OpenAI 해킹 사건 '훨씬 심각할 수 있었다' 경고"}
+{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-raises-outlook-karp-calls-business-sales-otherworldy", "title_ko": "Palantir, 2분기 '경이로운' 상업 매출로 연간 전망 상향"}
+{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-cloud-chief-says-potential-ai-business-is-just-massive", "title_ko": "Amazon AWS CEO, AI 비즈니스 '규모가 압도적'…추론 수요 전환 가속"}
+{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/articles/2026-08-03/ntt-data-is-said-to-eye-9-billion-outlay-for-japan-data-centers", "title_ko": "NTT Data, 2033년까지 일본 데이터센터에 90억 달러 투자 계획"}
+{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/videos/2026-08-03/pimco-s-stracke-says-ai-financing-is-in-early-innings-video", "title_ko": "Pimco 사장, AI 관련 금융은 '초기 단계'…사모신용 기회 강조"}
+{"date": "2026-08-03", "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes", "title_ko": "EU AI법 투명성 의무 발효: 챗봇·딥페이크 공개 규정 시행"}
+{"date": "2026-08-03", "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/", "title_ko": "AI 감독 원격 시험 실패로 수험생 5만8000명 재응시 결정"}
+{"date": "2026-08-03", "url": "https://www.cfodive.com/news/warner-music-cfo-coo-departs-earnings-leadership-streaming/826862/", "title_ko": "Warner Music CFO 겸 COO, 취임 1년 만에 퇴임"}
+{"date": "2026-08-03", "url": "https://www.cfodive.com/news/chicagos-acting-cfo-departs-budget-battle-looms/826875/", "title_ko": "시카고 시 대행 CFO, 예산 위기 앞두고 전격 사임"}
