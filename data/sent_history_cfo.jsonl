@@ -1,13 +1,3 @@
-{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach", "title_ko": "OpenAI AI 모델, 허깅페이스 내부 시스템 침해 인정"}
-{"date": "2026-07-21", "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/", "title_ko": "미국, 중국 오픈소스 AI 모델 IP 도용 혐의로 제재 검토"}
-{"date": "2026-07-21", "url": "https://www.cfodive.com/news/ey-faces-proposed-class-action-data-breach-cybersecurity/825742/", "title_ko": "EY, IT 지원 플랫폼 통한 세금·금융정보 유출로 집단소송 직면"}
-{"date": "2026-07-21", "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved", "title_ko": "Anthropic, 저작권 침해 작가 집단소송 15억 달러 합의 승인"}
-{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/super-micro-jumps-after-preliminary-outlook-shows-rising-backlog", "title_ko": "수퍼마이크로, 수주잔고 600억 달러 신기록으로 주가 15% 급등"}
-{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo", "title_ko": "OpenAI, IPO 앞두고 BNY·Nubank CEO 이사회 선임"}
-{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/intel-rallies-after-saying-it-ll-make-more-headcount-reductions", "title_ko": "인텔, 추가 인력 감축 및 데이터센터 사업 개편 발표로 주가 반등"}
-{"date": "2026-07-21", "url": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value", "title_ko": "중국 Moonshot AI, 홍콩 IPO 앞두고 500억 달러 밸류에이션 프리IPO 논의"}
-{"date": "2026-07-21", "url": "https://www.cfodive.com/news/finance-ai-spending-stuck-efficiency-gains-gartner-warns/825736/", "title_ko": "가트너 \"재무 AI 투자, 효율화에 그쳐 변혁적 가치 창출 CFO는 17%\""}
-{"date": "2026-07-21", "url": "https://www.cfodive.com/news/accountings-next-challenge-guarding-what-ai-cant-replace/825557/", "title_ko": "트루리온 CEO \"AI 시대에도 회계사의 판단력 훈련은 사라지지 않는다\""}
 {"date": "2026-07-22", "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion", "title_ko": "알파벳, 2026년 자본지출 최대 2050억 달러로 상향"}
 {"date": "2026-07-22", "url": "https://www.bloomberg.com/news/articles/2026-07-22/servicenow-posts-strong-sales-and-bookings-touts-ai-strength", "title_ko": "ServiceNow, AI 도구 힘입어 분기 매출·예약 모두 기대 상회"}
 {"date": "2026-07-22", "url": "https://www.bloomberg.com/news/articles/2026-07-22/ibm-cuts-full-year-sales-outlook-after-mainframe-unit-dip", "title_ko": "IBM, 메인프레임 수요 부진으로 연간 매출 전망 하향"}
@@ -147,3 +137,13 @@
 {"date": "2026-08-04", "url": "https://www.cfodive.com/news/fewer-companies-plan-peanut-butter-pay-increases-in-2027-payscale/827012/", "title_ko": "페이스케일: 2027년 일괄 임금 인상 계획 기업 감소 추세"}
 {"date": "2026-08-04", "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/", "title_ko": "텍사스, AI 전력 수요 폭증으로 데이터센터 전력망 연결 전면 중단"}
 {"date": "2026-08-04", "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing", "title_ko": "OpenAI·Anthropic AI 모델, 외부 테스트 중 무단 인터넷 행동 확인"}
+{"date": "2026-08-05", "url": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup", "title_ko": "구글 딥마인드 하사비스 의장 전환, 제프 딘 등 고위 AI 연구자 퇴사"}
+{"date": "2026-08-05", "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/", "title_ko": "제프 딘 외 구글 AI 연구자들, 과학적 발견 스타트업 창업 위해 퇴사"}
+{"date": "2026-08-05", "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/", "title_ko": "앤스로픽·오픈AI 에이전트, 무단으로 가짜 신원 생성·깃허브 해킹 시도"}
+{"date": "2026-08-05", "url": "https://www.bloomberg.com/news/articles/2026-08-05/ai-risks-require-tougher-cyber-defenses-top-us-officials-warn", "title_ko": "미 당국, AI 위협에 대응한 사이버 방어 강화 촉구"}
+{"date": "2026-08-05", "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data", "title_ko": "아틀라시안 Rovo AI, 기업 데이터 통제 우회해 외부 유출"}
+{"date": "2026-08-05", "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show", "title_ko": "마이크로소프트 AI 매출 대부분이 오픈AI에서 발생 — 공시로 확인"}
+{"date": "2026-08-05", "url": "https://www.bloomberg.com/news/articles/2026-08-05/uber-gives-in-line-outlook-says-brazil-rivals-hurt-trips-growth", "title_ko": "우버, 로보택시 전환 우려 속 예약 전망 간신히 부합 — 주가 급락"}
+{"date": "2026-08-05", "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/", "title_ko": "스페이스X 첫 실적 공개, 대규모 AI 지출로 투자자 불안 — 주가 사전 하락"}
+{"date": "2026-08-05", "url": "https://www.cfodive.com/news/flex-sues-former-cfo-candidate-alleges-stealing-of-strategic-crown-jewels/827146/", "title_ko": "Flex, CFO 후보가 면접 중 영업비밀 탈취했다며 소송 제기"}
+{"date": "2026-08-05", "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/", "title_ko": "앤스로픽, 자체 AI 칩 설계팀 채용 착수"}
