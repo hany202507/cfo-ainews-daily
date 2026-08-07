@@ -1,23 +1,3 @@
-{"date": "2026-07-22", "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion", "title_ko": "알파벳, 2026년 자본지출 최대 2050억 달러로 상향"}
-{"date": "2026-07-22", "url": "https://www.bloomberg.com/news/articles/2026-07-22/servicenow-posts-strong-sales-and-bookings-touts-ai-strength", "title_ko": "ServiceNow, AI 도구 힘입어 분기 매출·예약 모두 기대 상회"}
-{"date": "2026-07-22", "url": "https://www.bloomberg.com/news/articles/2026-07-22/ibm-cuts-full-year-sales-outlook-after-mainframe-unit-dip", "title_ko": "IBM, 메인프레임 수요 부진으로 연간 매출 전망 하향"}
-{"date": "2026-07-22", "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/", "title_ko": "OpenAI, 2030년까지 AI 인프라 지출 7500억 달러로 팽창"}
-{"date": "2026-07-22", "url": "https://www.cfodive.com/news/7-10-firms-report-ai-cost-overruns/825961/", "title_ko": "기업 10곳 중 7곳, AI 도입 비용 초과 경험"}
-{"date": "2026-07-22", "url": "https://www.cfodive.com/news/blackline-cfo-touts-outcome-based-ai-pricing-shift/825940/", "title_ko": "BlackLine CFO, '성과 기반 AI 가격제' 확산 전망"}
-{"date": "2026-07-22", "url": "https://www.cfodive.com/news/rogue-ai-poses-10-percent-odds-catastrophic-harm-2030-mit-study/825959/", "title_ko": "MIT 연구: 2030년까지 불량 AI의 재앙적 피해 확률 10%"}
-{"date": "2026-07-22", "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/", "title_ko": "OpenAI AI 에이전트, 테스트 샌드박스 탈출해 Hugging Face 해킹"}
-{"date": "2026-07-22", "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/", "title_ko": "Monday.com, AI 전환 집중 위해 직원 20%(630명) 감원"}
-{"date": "2026-07-22", "url": "https://www.bloomberg.com/news/articles/2026-07-22/samsung-s-400-000-bonus-fuels-labor-disputes-across-south-korea", "title_ko": "삼성 40만 달러 보너스 지급, 한국 전역 노동 분쟁 촉발"}
-{"date": "2026-07-23", "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/", "title_ko": "구글, AI 투자 급증으로 사상 첫 분기 마이너스 현금흐름"}
-{"date": "2026-07-23", "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet", "title_ko": "AI 기업들, 부채 수조 원을 장외로 숨기고 있다"}
-{"date": "2026-07-23", "url": "https://www.bloomberg.com/news/articles/2026-07-23/tech-bonds-hit-by-selloff-as-ai-debt-fears-race-through-markets", "title_ko": "AI 채권 매도세 확산—시장 전반에 AI 부채 공포 번져"}
-{"date": "2026-07-23", "url": "https://www.cfodive.com/news/tesla-set-massive-capex-spend-25b-musk-robotaxi-auto/826071/", "title_ko": "테슬라, 250억 달러 대규모 설비투자 계획 발표—주가 14% 급락"}
-{"date": "2026-07-23", "url": "https://www.cfodive.com/news/corporate-boards-lack-rules-ai-use-deloitte-survey-artificial-intelligence/826083/", "title_ko": "이사회 대다수, AI 활용 내부 규정 아직 없다—딜로이트 조사"}
-{"date": "2026-07-23", "url": "https://www.cfodive.com/news/lawmakers-push-ai-kill-switch-bill-openai-breach-sparks-alarms/826080/", "title_ko": "미 의회, AI 킬스위치법 추진—OpenAI 보안 사고가 촉발"}
-{"date": "2026-07-23", "url": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches", "title_ko": "구글, EU 디지털시장법 위반으로 10억 달러 제재"}
-{"date": "2026-07-23", "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth", "title_ko": "인텔, AI 데이터센터 수요에 힘입어 실적 전망치 대폭 상향"}
-{"date": "2026-07-23", "url": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging", "title_ko": "엔비디아, 미국 내 칩 패키징 강화 위해 앰코르와 15억 달러 계약"}
-{"date": "2026-07-23", "url": "https://www.cfodive.com/news/companies-aim-more-strategic-pay-increases-wtw-report/825916/", "title_ko": "기업 2027년 급여 인상률 3.4% 전망—전략적 차등 지급으로 전환"}
 {"date": "2026-07-24", "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks", "title_ko": "Anthropic, Claude Opus 5 출시 — 비용 효율 초점"}
 {"date": "2026-07-24", "url": "https://artificialanalysis.ai/models", "title_ko": "Opus 5, Artificial Analysis 리더보드 1위 등극"}
 {"date": "2026-07-24", "url": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead", "title_ko": "Meta·Microsoft, AI 설비투자 과잉 우려 속 실적 주간 진입"}
@@ -147,3 +127,13 @@
 {"date": "2026-08-05", "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/", "title_ko": "스페이스X 첫 실적 공개, 대규모 AI 지출로 투자자 불안 — 주가 사전 하락"}
 {"date": "2026-08-05", "url": "https://www.cfodive.com/news/flex-sues-former-cfo-candidate-alleges-stealing-of-strategic-crown-jewels/827146/", "title_ko": "Flex, CFO 후보가 면접 중 영업비밀 탈취했다며 소송 제기"}
 {"date": "2026-08-05", "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/", "title_ko": "앤스로픽, 자체 AI 칩 설계팀 채용 착수"}
+{"date": "2026-08-07", "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/", "title_ko": "Anthropic, 클로드 구동용 자체 AI 칩 설계팀 공식 출범"}
+{"date": "2026-08-07", "url": "https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips", "title_ko": "AMD, AI 추론 성능 강화 위해 스타트업 Taalas 인수"}
+{"date": "2026-08-07", "url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/", "title_ko": "테슬라·스페이스X, 텍사스에 168억 달러 규모 'Terafab' 칩 공장 착공"}
+{"date": "2026-08-07", "url": "https://www.bloomberg.com/news/articles/2026-08-07/tencent-ai-spending-key-after-magnificent-7-rout", "title_ko": "Tencent AI 지출 계획, 'M7 어닝 쇼크' 이후 투자자 집중 점검"}
+{"date": "2026-08-07", "url": "https://www.cfodive.com/news/sec-launches-new-enforcement-unit-aimed-accounting-fraud/827263/", "title_ko": "SEC, 회계 부정 전담 신규 집행 부서 출범"}
+{"date": "2026-08-07", "url": "https://www.cfodive.com/news/fractional-cfos-see-demand-surge-ai-age-leadership/827264/", "title_ko": "AI 시대에 프랙셔널 CFO 수요 급증"}
+{"date": "2026-08-07", "url": "https://www.cfodive.com/news/chime-cfo-stepping-down-matt-newcomb-troughton-q2-earnings-revenue-active-members-prime/827233/", "title_ko": "핀테크 Chime CFO 사임, 2분기 매출 27% 성장 속 후임 공석"}
+{"date": "2026-08-07", "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person", "title_ko": "구글, AI 선구자 제프 딘 퇴임으로 OpenAI·Anthropic과 경쟁 복잡해져"}
+{"date": "2026-08-07", "url": "https://www.bloomberg.com/news/videos/2026-08-06/hackers-target-wall-street-in-new-set-of-attacks-video", "title_ko": "월스트리트 헤지펀드 대상 정교한 해킹 공격 파고 확산"}
+{"date": "2026-08-07", "url": "https://www.bloomberg.com/news/articles/2026-08-06/cloudflare-lifts-annual-profit-outlook-beats-wall-street-target", "title_ko": "Cloudflare, 연간 이익 전망 상향…AI 네트워킹 수요 반영"}
