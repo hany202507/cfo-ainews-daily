@@ -1,13 +1,3 @@
-{"date": "2026-07-25", "url": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord", "title_ko": "엔비디아, 네이버에 10억 달러 투자·SK그룹 협력 확대"}
-{"date": "2026-07-25", "url": "https://www.bloomberg.com/news/articles/2026-07-25/samsung-inks-200-billion-chip-supply-with-broadcom", "title_ko": "삼성전자, 브로드컴과 2000억 달러 규모 반도체 공급 계약 체결"}
-{"date": "2026-07-25", "url": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips", "title_ko": "앤트로픽, SK하이닉스에 자체 반도체 생산용 소재 공급 요청"}
-{"date": "2026-07-25", "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts", "title_ko": "딥시크, 투자자들에게 2차 펀딩 라운드 일시 중단 통보"}
-{"date": "2026-07-25", "url": "https://www.bloomberg.com/news/articles/2026-07-25/china-fines-trip-com-765-million-for-abusing-market-dominance", "title_ko": "중국, 트립닷컴에 시장지배 남용으로 7억 6500만 달러 과징금"}
-{"date": "2026-07-25", "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-asia-stock-funds-turn-to-laggards-to-cut-risk-from-ai-swings", "title_ko": "아시아 대형 펀드, AI 변동성 대비해 비주류 주식으로 리밸런싱"}
-{"date": "2026-07-25", "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/", "title_ko": "AI 데이터센터의 전력망 취약성, 전선 1개 사고로 드러나"}
-{"date": "2026-07-25", "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/", "title_ko": "오픈웨이트 AI, 쿠버네티스 같은 인프라 표준화 국면 진입"}
-{"date": "2026-07-25", "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models", "title_ko": "앤트로픽, 클로드 5 세대 모델 대상 컨텍스트 엔지니어링 신규 규칙 공개"}
-{"date": "2026-07-25", "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/", "title_ko": "워너브라더스, 아마존의 임원 불법 스카우트로 소송 제기"}
 {"date": "2026-07-26", "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/", "title_ko": "Hugging Face CEO, OpenAI 해킹 후 '완전 투명성' 촉구"}
 {"date": "2026-07-26", "url": "https://vectoral.com/blog/token-relay-market", "title_ko": "AI 토큰 중개·재판매 시장의 릴레이 사기 구조 분석"}
 {"date": "2026-07-26", "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/", "title_ko": "중국 AI 공포의 실체: 문샷 AI 킴이 실리콘밸리를 흔든 이유"}
@@ -137,3 +127,13 @@
 {"date": "2026-08-08", "url": "https://code.claude.com/docs/en/cross-session-messaging", "title_ko": "클로드 코드, 세션 간 메시지 전송 기능 출시"}
 {"date": "2026-08-08", "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/", "title_ko": "덴마크, AI 부정행위 대응 위해 구술 시험 의무화"}
 {"date": "2026-08-08", "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards", "title_ko": "X, 기존 수익 공유 프로그램 폐지하고 '오리지널 콘텐츠 리워드' 도입"}
+{"date": "2026-08-09", "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing", "title_ko": "중국 AI 칩 설계사 무어스레드, 홍콩 상장 계획 발표"}
+{"date": "2026-08-09", "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/", "title_ko": "논란의 헤지펀드 시추에이셔널어웨어니스, 칩 스타트업 소스파운드리에 4억 달러 투자"}
+{"date": "2026-08-09", "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/", "title_ko": "Anthropic, 클로드 코드 자동 모드를 기본값으로 전환"}
+{"date": "2026-08-09", "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/", "title_ko": "AI 안전 테스트 환경이 실제 시스템 침투 위험으로 변질"}
+{"date": "2026-08-09", "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion", "title_ko": "AI 탐지 도구 확산, 직장 내 불신 문화 조성 우려"}
+{"date": "2026-08-09", "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition", "title_ko": "AI Commons의 비극: 공유 자원으로서 AI의 딜레마"}
+{"date": "2026-08-09", "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event", "title_ko": "애플, 9월 아이폰 이벤트 준비 및 애플워치 개편 검토"}
+{"date": "2026-08-09", "url": "https://openchamber.dev/", "title_ko": "오픈챔버: 에이전트 기반 개발 환경 오픈소스 공개"}
+{"date": "2026-08-09", "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499", "title_ko": "랜섬웨어 조직, CEO 건너뛰고 40대 IT 관리자 직접 겨냥"}
+{"date": "2026-08-09", "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash", "title_ko": "테슬라 오토파일럿 주행 중 충돌 사고, NFL 감독 자인"}
