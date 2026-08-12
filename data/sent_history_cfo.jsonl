@@ -1,13 +1,3 @@
-{"date": "2026-07-28", "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says", "title_ko": "OpenAI 에이전트, 허깅페이스·Modal Labs 계정 무단 해킹"}
-{"date": "2026-07-28", "url": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress", "title_ko": "AI 직원 1,100명, 미 정부에 AI 개발 속도 조절 요청 서한"}
-{"date": "2026-07-28", "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses", "title_ko": "Anthropic, AI로 HAWK-256 암호화 키 복원 공격 실증"}
-{"date": "2026-07-28", "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex", "title_ko": "구글 AI 설비투자 최대 2,050억 달러로 상향, 반도체 셀오프 촉발"}
-{"date": "2026-07-28", "url": "https://www.cfodive.com/news/gartner-raises-2026-it-spending-forecast-ai-demand/826312/", "title_ko": "가트너, 2026년 글로벌 IT 지출 6.37조 달러로 예측 상향"}
-{"date": "2026-07-28", "url": "https://www.cfodive.com/news/how-cfos-should-evaluate-ai-investments-before-committing-more-capital/826270/", "title_ko": "CFO가 AI 투자 전 반드시 물어야 할 5가지 질문"}
-{"date": "2026-07-28", "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/", "title_ko": "Recursive Superintelligence, 아마존과 4.1억 달러 컴퓨트 계약 체결"}
-{"date": "2026-07-28", "url": "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value", "title_ko": "스페이스X, IPO 가격 대비 20% 급락 후 반등"}
-{"date": "2026-07-28", "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/", "title_ko": "PayPal, 실적 서프라이즈 후 인수합병 가능성 열어둬"}
-{"date": "2026-07-28", "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban", "title_ko": "미국, 외산 첨단 로봇·전력변환기 수입 금지 발표"}
 {"date": "2026-07-29", "url": "https://www.bloomberg.com/news/videos/2026-07-29/microsoft-s-cloud-accelerates-fastest-growth-since-22-video", "title_ko": "마이크로소프트 Azure, 4년 만에 최고 성장률 43% 달성"}
 {"date": "2026-07-29", "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases", "title_ko": "마이크로소프트, 데이터센터 신규 임차 계약 1300억 달러 초과"}
 {"date": "2026-07-29", "url": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast", "title_ko": "메타, 3분기 매출 가이던스 실망…잉여현금흐름 4년 만에 최저"}
@@ -138,3 +128,13 @@
 {"date": "2026-08-11", "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/", "title_ko": "OpenAI COO 브래드 라이트캡, 8년 만에 퇴사·신사업 창업 예고"}
 {"date": "2026-08-11", "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/", "title_ko": "River AI, 창업 2개월 만에 11억달러 투자 유치"}
 {"date": "2026-08-11", "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/", "title_ko": "구글 Gemini, 월 10억 사용자 돌파·최단 기간 기록"}
+{"date": "2026-08-12", "url": "https://www.bloomberg.com/news/videos/2026-08-12/nvidia-taps-wall-street-for-500b-funding-video", "title_ko": "엔비디아, 월스트리트 통해 AI 인프라 5000억 달러 자금 조달"}
+{"date": "2026-08-12", "url": "https://www.bloomberg.com/news/videos/2026-08-12/bank-of-america-invests-250b-in-critical-infrastructure-video", "title_ko": "뱅크오브아메리카, 핵심 인프라에 2500억 달러 투자 계획 발표"}
+{"date": "2026-08-12", "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/", "title_ko": "AI 코딩 스타트업 Cognition, 400억 달러 밸류에이션으로 추가 투자 협상"}
+{"date": "2026-08-12", "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/", "title_ko": "Lovable, 400억 달러 시리즈 C 유치로 밸류에이션 133억 달러 확정"}
+{"date": "2026-08-12", "url": "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips", "title_ko": "CoreWeave, 엔비디아 칩 의존도 전환 시 상당한 어려움 경고"}
+{"date": "2026-08-12", "url": "https://www.cfodive.com/news/inflation-dips-affirming-fed-decision-keep-interest-rates-steady-ai-energy-oil-tariffs-trump/827734/", "title_ko": "미국 인플레이션 하락, 연준 금리 동결 결정 지지"}
+{"date": "2026-08-12", "url": "https://www.cfodive.com/news/ex-hedge-fund-cfo-pleads-guilty-3m-embezzlement-scheme/827727/", "title_ko": "전 헤지펀드 CFO, 300만 달러 횡령 혐의로 유죄 인정"}
+{"date": "2026-08-12", "url": "https://www.cfodive.com/news/healthcare-cfos-face-decision-readiness-gap-deloitte/827715/", "title_ko": "헬스케어 CFO, 의사결정 준비도 부족 문제 직면—딜로이트 보고"}
+{"date": "2026-08-12", "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/", "title_ko": "AI 패키지 공급망 공격으로 테라바이트급 자격증명 유출"}
+{"date": "2026-08-12", "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis", "title_ko": "xAI, Grok 4.6 공개—AI 분석 지수 61점 기록"}
