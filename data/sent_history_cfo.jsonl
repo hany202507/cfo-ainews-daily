@@ -1,13 +1,3 @@
-{"date": "2026-07-30", "url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth", "title_ko": "아마존 AWS, 5분기 연속 클라우드 매출 가속 — 37% 성장"}
-{"date": "2026-07-30", "url": "https://www.bloomberg.com/news/articles/2026-07-30/futures-climb-with-boost-from-microsoft-s-surging-cloud-growth", "title_ko": "마이크로소프트, 클라우드 호실적에 주가 16% 급등 — 2008년 이후 최고 단일 상승"}
-{"date": "2026-07-30", "url": "https://www.bloomberg.com/news/videos/2026-07-30/apple-slides-after-supply-shortages-hurts-sales-forecast-video", "title_ko": "애플 3Q 실적: 아이폰 +22%, 맥 +29%지만 공급 부족으로 가이던스 실망"}
-{"date": "2026-07-30", "url": "https://www.bloomberg.com/news/articles/2026-07-30/coreweave-s-wild-stock-ride-takes-toll-on-its-cost-to-finance-ai", "title_ko": "CoreWeave, 주가 급락·반등 반복으로 AI 자금조달 비용 상승 압력"}
-{"date": "2026-07-30", "url": "https://www.bloomberg.com/news/articles/2026-07-30/exelon-exc-slashes-ai-data-center-pipeline-weeds-out-speculative-projects", "title_ko": "엑셀론, AI 데이터센터 전력 파이프라인 대폭 축소 — 투기성 프로젝트 정리"}
-{"date": "2026-07-30", "url": "https://www.cfodive.com/news/microsoft-holds-line-ai-spending-plans/826648/", "title_ko": "마이크로소프트, AI 자본지출 계획 유지 — 회계 변경으로 수치 하향 조정"}
-{"date": "2026-07-30", "url": "https://www.cfodive.com/news/adidas-alum-returns-take-cfo-seat-shares-slump/826630/", "title_ko": "아디다스 전 임원, 주가 부진 속 CFO로 복귀"}
-{"date": "2026-07-30", "url": "https://www.cfodive.com/news/finance-treasury-leaders-keep-eye-payment-visibility-tch-exec/826636/", "title_ko": "재무·트레저리 리더, 결제 가시성 확보를 최우선 과제로 꼽아"}
-{"date": "2026-07-30", "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/", "title_ko": "연방법원, 트럼프 행정부의 Anthropic '공급망 위험' 지정 근거 불충분 판결"}
-{"date": "2026-07-30", "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/", "title_ko": "OpenAI, GPT-5.6으로 가격 대비 성능 한계 확장"}
 {"date": "2026-07-31", "url": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks", "title_ko": "Anthropic·OpenAI AI 모델, 실제 기업 3곳 네트워크 침해 확인"}
 {"date": "2026-07-31", "url": "https://www.cfodive.com/news/lawmaker-calls-hearings-anthropic-openai-cyber-incidents/826768/", "title_ko": "미 의원, Anthropic·OpenAI 사이버 사고 후 AI 청문회 요구"}
 {"date": "2026-07-31", "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/", "title_ko": "OpenAI, Hugging Face 사건 외 추가 에이전트 이탈 사례 내부 확인"}
@@ -138,3 +128,13 @@
 {"date": "2026-08-13", "url": "https://www.cfodive.com/news/cisco-security-revenue-surges-agentic-ai-sharpens-cyberattacks/827872/", "title_ko": "Cisco 보안 매출 14% 급등—에이전틱 AI가 사이버 위협 심화"}
 {"date": "2026-08-13", "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/", "title_ko": "OpenAI, CRO 9개월 만에 교체—Wiz 출신 Dali Rajic 임명"}
 {"date": "2026-08-13", "url": "https://www.bloomberg.com/news/newsletters/2026-08-13/openai-anthropic-tout-new-metric-to-better-gauge-ai-s-cost", "title_ko": "OpenAI·Anthropic, AI 비용 측정 새 지표 공동 제안"}
+{"date": "2026-08-14", "url": "https://www.bloomberg.com/news/videos/2026-08-14/openai-on-track-to-double-revenue-ahead-of-ipo-video", "title_ko": "OpenAI, 연환산 매출 400억 달러 돌파 — IPO 앞두고 연초 대비 2배"}
+{"date": "2026-08-14", "url": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter", "title_ko": "Anthropic, IPO 전 2분기 매출 전년 대비 14배 급증"}
+{"date": "2026-08-14", "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/", "title_ko": "OpenAI·Anthropic, 중국 AI 추격에 가격 인하 경쟁 돌입"}
+{"date": "2026-08-14", "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares", "title_ko": "엔비디아, SpaceX 210억·인텔 300억 달러 지분 보유 공시"}
+{"date": "2026-08-14", "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/", "title_ko": "AI 데이터센터 천연가스 가격 3배 급등 경고 — 하이퍼스케일러 비용 부담"}
+{"date": "2026-08-14", "url": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video", "title_ko": "Yann LeCun 등 224 Ventures, 1억 달러 규모 AI 전문 VC 출범"}
+{"date": "2026-08-14", "url": "https://www.cfodive.com/news/retail-sales-fall-consumers-see-inflation-eroding-buying-power-Fed/827967/", "title_ko": "미국 7월 소매판매 0.6% 감소 — 1년여 만에 최대 낙폭"}
+{"date": "2026-08-14", "url": "https://www.cfodive.com/news/trump-media-cfo-offloads-shares-crypto-losses/827957/", "title_ko": "Trump Media CFO, 크립토 손실 후 자사주 매각"}
+{"date": "2026-08-14", "url": "https://www.cfodive.com/news/washington-dc-mayor-signs-cpa-licensing-legislation/827955/", "title_ko": "워싱턴 DC, CPA 자격 취득 교육 요건 완화 법안 서명"}
+{"date": "2026-08-14", "url": "https://www.bloomberg.com/news/articles/2026-08-14/picky-investors-push-back-on-high-grade-prices-after-debt-deluge", "title_ko": "AI 빌드아웃 부채 홍수 속 투자자, 우량채 조건 까다롭게 선별"}
