@@ -1,13 +1,3 @@
-{"date": "2026-08-03", "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/", "title_ko": "OpenAI·Anthropic AI 자율 해킹, 법적 책임 소재 복잡"}
-{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/videos/2026-08-03/openai-hack-could-have-been-worse-hugging-face-says-video", "title_ko": "Hugging Face CEO, OpenAI 해킹 사건 '훨씬 심각할 수 있었다' 경고"}
-{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-raises-outlook-karp-calls-business-sales-otherworldy", "title_ko": "Palantir, 2분기 '경이로운' 상업 매출로 연간 전망 상향"}
-{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-cloud-chief-says-potential-ai-business-is-just-massive", "title_ko": "Amazon AWS CEO, AI 비즈니스 '규모가 압도적'…추론 수요 전환 가속"}
-{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/articles/2026-08-03/ntt-data-is-said-to-eye-9-billion-outlay-for-japan-data-centers", "title_ko": "NTT Data, 2033년까지 일본 데이터센터에 90억 달러 투자 계획"}
-{"date": "2026-08-03", "url": "https://www.bloomberg.com/news/videos/2026-08-03/pimco-s-stracke-says-ai-financing-is-in-early-innings-video", "title_ko": "Pimco 사장, AI 관련 금융은 '초기 단계'…사모신용 기회 강조"}
-{"date": "2026-08-03", "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes", "title_ko": "EU AI법 투명성 의무 발효: 챗봇·딥페이크 공개 규정 시행"}
-{"date": "2026-08-03", "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/", "title_ko": "AI 감독 원격 시험 실패로 수험생 5만8000명 재응시 결정"}
-{"date": "2026-08-03", "url": "https://www.cfodive.com/news/warner-music-cfo-coo-departs-earnings-leadership-streaming/826862/", "title_ko": "Warner Music CFO 겸 COO, 취임 1년 만에 퇴임"}
-{"date": "2026-08-03", "url": "https://www.cfodive.com/news/chicagos-acting-cfo-departs-budget-battle-looms/826875/", "title_ko": "시카고 시 대행 CFO, 예산 위기 앞두고 전격 사임"}
 {"date": "2026-08-04", "url": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-tech-8-4-2026-video", "title_ko": "팔란티어, 미국 상업 매출 149% 급증으로 주가 30% 상승"}
 {"date": "2026-08-04", "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud", "title_ko": "SpaceX, AI 사업 부문 매출이 우주 사업 초과…분기 매출 78억 달러"}
 {"date": "2026-08-04", "url": "https://www.bloomberg.com/news/articles/2026-08-04/amd-sales-outlook-disappoints-investors-after-ai-fueled-rally", "title_ko": "AMD, AI 성장 전망 실망감에 주가 하락…데이터센터 매출은 107% 증가"}
@@ -128,3 +118,13 @@
 {"date": "2026-08-17", "url": "https://www.cfodive.com/news/most-consumers-save-no-money-inflation-erodes-buying-power-ey-Fed-Federal-Reserve/828065/", "title_ko": "신용카드 90일 이상 연체 비율 12.8%…소비자 구매력 하락 심화"}
 {"date": "2026-08-17", "url": "https://www.cfodive.com/news/bakkt-names-new-cfo-stablecoin-growth-crypto/828057/", "title_ko": "Bakkt, 스테이블코인 전략 가속화 위해 신규 CFO 선임"}
 {"date": "2026-08-17", "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug", "title_ko": "AI가 생성한 GitHub Copilot Autofix로 Snowflake Jira 시스템 침해"}
+{"date": "2026-08-18", "url": "https://www.bloomberg.com/news/videos/2026-08-18/bloomberg-tech-8-18-2026-video", "title_ko": "Anthropic, 연 매출 650억 달러 돌파·IPO 준비 가속"}
+{"date": "2026-08-18", "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack", "title_ko": "OpenAI, Hugging Face 해킹 사고 후 신규 보안 체계 발표"}
+{"date": "2026-08-18", "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/", "title_ko": "OpenAI, 사이버 위협 역량 보유 모델 'Astra' 출시 잠정 보류"}
+{"date": "2026-08-18", "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/", "title_ko": "MS Copilot, 비밀 파라미터 통해 비밀번호 탈취 취약점 노출"}
+{"date": "2026-08-18", "url": "https://www.cfodive.com/news/executives-spotlight-ai-reliability-issue/828155/", "title_ko": "임원 35%만 AI가 비즈니스 성과 지속 창출한다고 응답"}
+{"date": "2026-08-18", "url": "https://www.cfodive.com/news/fasb-taps-vice-chair-former-kpmpg-partner-next-chair-accounting/828214/", "title_ko": "FASB 차기 의장에 Hillary Salo 선임, 2027년 7월 취임"}
+{"date": "2026-08-18", "url": "https://www.cfodive.com/news/sec-fasb-advance-separate-crypto-proposals/828201/", "title_ko": "SEC·FASB, 크립토 별도 규제안 동시 진전…Clarity Act 지연"}
+{"date": "2026-08-18", "url": "https://www.cfodive.com/news/ey-ties-audit-turnaround-tech-process-changes/828100/", "title_ko": "EY, 감사 기술·인재 투자로 PCAOB 결함률 28%→5%로 축소"}
+{"date": "2026-08-18", "url": "https://www.cfodive.com/news/ai-showing-revenue-payoff-carnegiemellon-stock/828104/", "title_ko": "카네기멜론 연구: AI, 매출 성장엔 기여하지만 영업이익 개선은 미미"}
+{"date": "2026-08-18", "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/", "title_ko": "AI칩 스타트업 Etched, 한 달 만에 기업가치 두 배인 210억 달러"}
